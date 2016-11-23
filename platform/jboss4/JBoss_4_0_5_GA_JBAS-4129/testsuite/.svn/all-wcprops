@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite
+END
+build-integration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/build-integration.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/.classpath
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/build.bat
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/.project
+END
+local.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/local.properties
+END
+build-thirdparty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/build-thirdparty.xml
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/build.sh
+END
+deprecated-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/deprecated-build.xml
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/.cvsignore
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/build.xml
+END

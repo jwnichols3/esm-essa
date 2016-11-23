@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/security
+END
+jndi.properties
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/security/jndi.properties
+END
+roles.properties
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/security/roles.properties
+END
+security.wiki
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/security/security.wiki
+END
+security.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/security/security.html
+END
+users.properties
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/security/users.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/security/build.xml
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/security/log4j.xml
+END

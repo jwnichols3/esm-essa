@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/resources/jca/securedejb
+END
+calleridentity-ds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/resources/jca/securedejb/calleridentity-ds.xml
+END
+notxfs-ds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/resources/jca/securedejb/notxfs-ds.xml
+END
+login-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/resources/jca/securedejb/login-config.xml
+END

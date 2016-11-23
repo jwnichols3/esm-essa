@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/security/interceptors
+END
+ServerEncryptionInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/security/interceptors/ServerEncryptionInterceptor.java
+END
+SRPCacheInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/security/interceptors/SRPCacheInterceptor.java
+END
+ClientEncryptionInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/security/interceptors/ClientEncryptionInterceptor.java
+END

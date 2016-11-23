@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <pomVersion>3</pomVersion>
+    <id>macros-snippet</id>
+    <name>Snippet Confluence Macro</name>
+    <currentVersion>1.0</currentVersion>
+    <inceptionYear>2004</inceptionYear>
+    <package>snippet</package>
+
+    <dependencies>
+        <dependency>
+            <id>confluence</id>
+            <version>1.4.1</version>
+        </dependency>
+        <dependency>
+            <id>atlassian-bucket</id>
+            <version>2005.06.01_1</version>
+            <properties>
+                <war.bundle>true</war.bundle>
+            </properties>
+        </dependency>
+        <dependency>
+            <id>log4j</id>
+            <version>1.2.8</version>
+            <properties>
+                <war.bundle>true</war.bundle>
+            </properties>
+        </dependency>
+        <dependency>
+            <id>atlassian-core</id>
+            <version>2.2.7</version>
+            <properties>
+                <war.bundle>true</war.bundle>
+            </properties>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <sourceDirectory>src/java</sourceDirectory>
+        <unitTestSourceDirectory>src/test</unitTestSourceDirectory>
+        <unitTest>
+            <includes>
+                <include>**/*Test.java</include>
+            </includes>
+            <resources>
+                <resource>
+                    <directory>src/test</directory>
+                    <includes>
+                        <include>**/*.*</include>
+                    </includes>
+                </resource>
+            </resources>
+        </unitTest>
+        <resources>
+            <resource>
+                <directory>src/conf</directory>
+                <includes>
+                    <include>*.*</include>
+                </includes>
+            </resource>
+        </resources>
+    </build>
+</project>

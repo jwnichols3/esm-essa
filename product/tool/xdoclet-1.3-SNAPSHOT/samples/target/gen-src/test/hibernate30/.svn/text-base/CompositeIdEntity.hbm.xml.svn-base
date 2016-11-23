@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+    "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping
+
+>
+
+    <class
+            name="test.hibernate30.CompositeIdEntity"
+    >
+
+        <!-- Use of @hibernate.id for composite IDs is deprecated, use @hibernate.composite-id instead -->
+        <composite-id
+            name="id"
+            class="test.hibernate30.CompositeId"
+        >
+
+            	<!-- Defining the key-property element from @hibernate.property tags is deprecated, use @hibernate.key-property instead -->
+                <key-property
+                    name="foo"
+                    type="java.lang.Integer"
+                >
+
+                </key-property>
+
+            	<!-- Defining the key-property element from @hibernate.property tags is deprecated, use @hibernate.key-property instead -->
+                <key-property
+                    name="bar"
+                    type="long"
+                >
+
+                </key-property>
+
+            	<!-- Defining the key-property element from @hibernate.property tags is deprecated, use @hibernate.key-property instead -->
+                <key-property
+                    name="baz"
+                    type="java.lang.String"
+                >
+
+                </key-property>
+
+      	    <!-- Defining the key-many-to-one element from @hibernate.many-to-one tags is deprecated, use @hibernate.key-property instead -->
+            <key-many-to-one
+                name="order"
+                        column="order"
+            >
+
+            </key-many-to-one>
+
+        </composite-id>
+
+        <property
+            name="foo"
+                    column="foo"
+        >
+
+        </property>
+
+    </class>    
+
+</hibernate-mapping>
+

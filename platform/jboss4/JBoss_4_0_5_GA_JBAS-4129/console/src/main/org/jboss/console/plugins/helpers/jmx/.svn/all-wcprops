@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/plugins/helpers/jmx
+END
+DomainData.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/plugins/helpers/jmx/DomainData.java
+END
+AttrResultInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/plugins/helpers/jmx/AttrResultInfo.java
+END
+Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/plugins/helpers/jmx/Server.java
+END
+OpResultInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/plugins/helpers/jmx/OpResultInfo.java
+END
+MBeanData.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/plugins/helpers/jmx/MBeanData.java
+END

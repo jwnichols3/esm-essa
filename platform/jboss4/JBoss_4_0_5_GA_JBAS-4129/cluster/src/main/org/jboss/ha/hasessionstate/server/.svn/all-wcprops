@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/hasessionstate/server
+END
+HASessionStateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/hasessionstate/server/HASessionStateImpl.java
+END
+HASessionStateServiceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/hasessionstate/server/HASessionStateServiceMBean.java
+END
+PackagedSessionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/hasessionstate/server/PackagedSessionImpl.java
+END
+HASessionStateTopologyComputer.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/hasessionstate/server/HASessionStateTopologyComputer.java
+END
+HASessionStateTopologyComputerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/hasessionstate/server/HASessionStateTopologyComputerImpl.java
+END
+HASessionStateService.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/hasessionstate/server/HASessionStateService.java
+END

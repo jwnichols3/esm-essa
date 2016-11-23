@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/docs/examples/annotated-cflow
+END
+MyAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/docs/examples/annotated-cflow/MyAspect.java
+END
+POJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/docs/examples/annotated-cflow/POJO.java
+END
+annotated-cflow.wiki
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/docs/examples/annotated-cflow/annotated-cflow.wiki
+END
+annotated-cflow.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/docs/examples/annotated-cflow/annotated-cflow.html
+END
+Driver.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/docs/examples/annotated-cflow/Driver.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/docs/examples/annotated-cflow/build.xml
+END

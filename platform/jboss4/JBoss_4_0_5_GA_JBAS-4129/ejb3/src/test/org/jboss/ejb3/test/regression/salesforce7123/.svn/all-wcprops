@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/test/org/jboss/ejb3/test/regression/salesforce7123
+END
+MyBusinessSessionRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/test/org/jboss/ejb3/test/regression/salesforce7123/MyBusinessSessionRemote.java
+END
+DataAccessBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/test/org/jboss/ejb3/test/regression/salesforce7123/DataAccessBean.java
+END
+Child.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/test/org/jboss/ejb3/test/regression/salesforce7123/Child.java
+END
+BaseData.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/test/org/jboss/ejb3/test/regression/salesforce7123/BaseData.java
+END
+DataAccessRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/test/org/jboss/ejb3/test/regression/salesforce7123/DataAccessRemote.java
+END
+DataAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/test/org/jboss/ejb3/test/regression/salesforce7123/DataAccess.java
+END
+MyBusinessSessionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/test/org/jboss/ejb3/test/regression/salesforce7123/MyBusinessSessionBean.java
+END

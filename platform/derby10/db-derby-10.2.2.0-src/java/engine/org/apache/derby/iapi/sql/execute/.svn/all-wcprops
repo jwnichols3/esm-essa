@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/sql/execute
+END
+CursorActivation.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/sql/execute/CursorActivation.java
+END
+RowChanger.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/sql/execute/RowChanger.java
+END
+TupleFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/sql/execute/TupleFilter.java
+END
+TargetResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/sql/execute/TargetResultSet.java
+END
+ExecIndexRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/sql/execute/ExecIndexRow.java
+END
+TemporaryRowHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/sql/execute/TemporaryRowHolder.java
+END
+ExecutionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/sql/execute/ExecutionContext.java
+END
+ExecCursorTableReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/sql/execute/ExecCursorTableReference.java
+END
+ExecRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/sql/execute/ExecRow.java
+END
+NoPutResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/sql/execute/NoPutResultSet.java
+END
+ExecutionStmtValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/sql/execute/ExecutionStmtValidator.java
+END
+ResultSetFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/sql/execute/ResultSetFactory.java
+END
+ScanQualifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/sql/execute/ScanQualifier.java
+END
+ExecAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/sql/execute/ExecAggregator.java
+END
+ConstantAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/sql/execute/ConstantAction.java
+END
+CursorResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/sql/execute/CursorResultSet.java
+END
+ExecutionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/sql/execute/ExecutionFactory.java
+END
+ExecPreparedStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/sql/execute/ExecPreparedStatement.java
+END
+ResultSetStatisticsFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/sql/execute/ResultSetStatisticsFactory.java
+END
+RunTimeStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/sql/execute/RunTimeStatistics.java
+END

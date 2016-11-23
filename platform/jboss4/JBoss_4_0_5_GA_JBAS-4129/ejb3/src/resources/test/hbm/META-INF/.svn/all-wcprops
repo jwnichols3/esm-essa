@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/resources/test/hbm/META-INF
+END
+persistence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/resources/test/hbm/META-INF/persistence.xml
+END
+hbm.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/resources/test/hbm/META-INF/hbm.hbm.xml
+END
+hbm2.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/resources/test/hbm/META-INF/hbm2.hbm.xml
+END

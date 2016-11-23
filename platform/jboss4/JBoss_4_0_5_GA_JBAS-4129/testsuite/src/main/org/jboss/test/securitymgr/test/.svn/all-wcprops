@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/securitymgr/test
+END
+WarPermissionsUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/securitymgr/test/WarPermissionsUnitTestCase.java
+END
+SecurityUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/securitymgr/test/SecurityUnitTestCase.java
+END
+StatefulSessionUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/securitymgr/test/StatefulSessionUnitTestCase.java
+END
+EJBSpecUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/securitymgr/test/EJBSpecUnitTestCase.java
+END
+StatelessSessionUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/securitymgr/test/StatelessSessionUnitTestCase.java
+END
+BMPUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/securitymgr/test/BMPUnitTestCase.java
+END
+CMPUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/securitymgr/test/CMPUnitTestCase.java
+END
+PolicyUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/securitymgr/test/PolicyUnitTestCase.java
+END
+WebIntegrationUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/securitymgr/test/WebIntegrationUnitTestCase.java
+END
+MDBUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/securitymgr/test/MDBUnitTestCase.java
+END

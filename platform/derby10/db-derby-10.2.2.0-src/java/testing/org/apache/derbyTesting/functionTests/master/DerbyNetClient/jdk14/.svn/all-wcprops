@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/master/DerbyNetClient/jdk14
+END
+updatableResultSet.out
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/master/DerbyNetClient/jdk14/updatableResultSet.out
+END
+LOBTest.out
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/master/DerbyNetClient/jdk14/LOBTest.out
+END
+testSecMec.out
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/master/DerbyNetClient/jdk14/testSecMec.out
+END
+metadata.out
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/master/DerbyNetClient/jdk14/metadata.out
+END
+syscat.out
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/master/DerbyNetClient/jdk14/syscat.out
+END
+procedure.out
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/master/DerbyNetClient/jdk14/procedure.out
+END
+XATest.out
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/master/DerbyNetClient/jdk14/XATest.out
+END

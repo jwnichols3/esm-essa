@@ -1,0 +1,6 @@
+struts.action-exception:a:XDoclet struts
+struts.action-forward:a:XDoclet struts
+struts.action-set-property:a:XDoclet struts
+struts.action:a:XDoclet struts
+struts.validator:a:XDoclet struts
+struts.form:a:XDoclet struts

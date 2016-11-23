@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test
+END
+JBossTestClusteredServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/JBossTestClusteredServices.java
+END
+JBossRMIAdaptorHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/JBossRMIAdaptorHelper.java
+END
+JBossClusteredTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/JBossClusteredTestCase.java
+END
+JBossTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/JBossTestSuite.java
+END
+JBossTestClusteredSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/JBossTestClusteredSetup.java
+END

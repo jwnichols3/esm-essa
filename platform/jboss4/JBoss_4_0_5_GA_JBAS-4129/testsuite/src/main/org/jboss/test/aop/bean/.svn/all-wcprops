@@ -1,0 +1,395 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean
+END
+SimpleBeanTesterMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/SimpleBeanTesterMBean.java
+END
+AnnotatedSecuredPOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/AnnotatedSecuredPOJO.java
+END
+Introduction.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/Introduction.java
+END
+SubclassIntroduction.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/SubclassIntroduction.java
+END
+AnnotatedTxPOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/AnnotatedTxPOJO.java
+END
+TxPOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/TxPOJO.java
+END
+SomeInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/SomeInterface.java
+END
+TxTesterMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/TxTesterMBean.java
+END
+CacheTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/CacheTester.java
+END
+InterceptorCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/InterceptorCounter.java
+END
+Implements1.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/Implements1.java
+END
+SimpleInterceptorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/SimpleInterceptorFactory.java
+END
+CallingPOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/CallingPOJO.java
+END
+AnotherIntroduction.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/AnotherIntroduction.java
+END
+AnnotatedTxLockedPOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/AnnotatedTxLockedPOJO.java
+END
+POJORef.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/POJORef.java
+END
+TxLockedPOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/TxLockedPOJO.java
+END
+SomeIntroduction.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/SomeIntroduction.java
+END
+AOPTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/AOPTester.java
+END
+NoInterceptorsPOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/NoInterceptorsPOJO.java
+END
+InstanceOfInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/InstanceOfInterceptor.java
+END
+RemotingTesterMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/RemotingTesterMBean.java
+END
+ObservableTesterMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/ObservableTesterMBean.java
+END
+Aspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/Aspect.java
+END
+LogUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/LogUtil.java
+END
+EmptyInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/EmptyInterface.java
+END
+SimpleBeanCallerInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/SimpleBeanCallerInterceptor.java
+END
+NonadvisedPOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/NonadvisedPOJO.java
+END
+SomeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/SomeException.java
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/Address.java
+END
+POJOMethodInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/POJOMethodInterceptor.java
+END
+CacheTesterMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/CacheTesterMBean.java
+END
+TxLockTesterMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/TxLockTesterMBean.java
+END
+SecurityTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/SecurityTester.java
+END
+Implements2.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/Implements2.java
+END
+Introduction2.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/Introduction2.java
+END
+InterfaceMixin.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/InterfaceMixin.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/Person.java
+END
+POJOWildCardConstructorInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/POJOWildCardConstructorInterceptor.java
+END
+POJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/POJO.java
+END
+SimpleInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/SimpleInterceptor.java
+END
+AOPTesterMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/AOPTesterMBean.java
+END
+VersionedObjectTesterMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/VersionedObjectTesterMBean.java
+END
+SecuredPOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/SecuredPOJO.java
+END
+VersionedPOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/VersionedPOJO.java
+END
+LogUtilObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/LogUtilObserver.java
+END
+SimpleBeanInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/SimpleBeanInterceptor.java
+END
+SecurityTesterMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/SecurityTesterMBean.java
+END
+SimpleBeanTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/SimpleBeanTester.java
+END
+ObservableTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/ObservableTester.java
+END
+RemotingTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/RemotingTester.java
+END
+POJOChild.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/POJOChild.java
+END
+CFlowedPOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/CFlowedPOJO.java
+END
+VersionedObjectTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/VersionedObjectTester.java
+END
+POJOConstructorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/POJOConstructorTest.java
+END
+AfterInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/AfterInterceptor.java
+END
+BeforeInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/BeforeInterceptor.java
+END
+CallerInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/CallerInterceptor.java
+END
+TxTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/TxTester.java
+END
+SimpleBeanInterceptorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/SimpleBeanInterceptorFactory.java
+END
+POJOWildCardConstructorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/POJOWildCardConstructorTest.java
+END
+TxLockTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/TxLockTester.java
+END
+POJOConstructorInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/POJOConstructorInterceptor.java
+END
+Temperature.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/Temperature.java
+END
+POJOAspectTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/bean/POJOAspectTester.java
+END

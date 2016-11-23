@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+    "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping
+
+>
+
+    <class
+            name="test.hibernate30.Person"
+            table="PEOPLE"
+    >
+
+    <id
+        name="addressId"
+            column="addressId"
+                type="string"
+    >
+
+    <!-- The generator-class attribute of @hibernate.id is deprecated, use the @hibernate.generator tag instead -->
+    <generator class="assigned">
+
+    </generator>
+
+    </id>
+
+        <property
+            name="name"
+                    column="name"
+        >
+
+        </property>
+
+        <one-to-one
+            name="human"
+            formula="formula sql"
+            access="property"
+            class="test.hibernate30.Human"
+            entity-name="HUMANS"
+            cascade="delete"
+            outer-join="true"
+            fetch="join"
+            constrained="false"
+            foreign-key="ID"
+            property-ref="prop ref"
+            lazy="true"
+            node="person"
+            embed-xml="true"
+        >
+            <meta
+                attribute="attribute"
+            >
+                <![CDATA[value]]>
+            </meta>
+
+        </one-to-one>
+
+        <join
+            table="ADDRESS"
+            schema="THINGS"
+            catalog="CAT"
+            subselect="sql subselect"
+            fetch="select"
+            inverse="false"
+            optional="true"
+        >
+
+            <key
+                column="ADDRESS_ID"
+                property-ref="property ref"
+                foreign-key="foreign key"
+                on-delete="noaction"
+                not-null="true"
+                update="true"
+                unique="true"
+            >
+
+            </key>          
+
+        <property
+            name="street"
+                    column="STREET"
+        >
+
+        </property>
+
+        </join>
+
+        <join
+            table="ADDRESS"
+        >
+
+            <key
+            >
+            <column
+                name="ADDRESS_ID" 
+            />
+
+            </key>          
+
+        <property
+            name="city"
+                    column="CITY"
+        >
+
+            <column
+                name="GENERIC_COLUMN" 
+            />
+
+        </property>
+
+        </join>
+
+    </class>    
+
+</hibernate-mapping>
+

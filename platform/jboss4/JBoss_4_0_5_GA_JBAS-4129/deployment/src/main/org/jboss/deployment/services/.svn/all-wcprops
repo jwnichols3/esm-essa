@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/deployment/src/main/org/jboss/deployment/services
+END
+DeploymentManagerServiceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/deployment/src/main/org/jboss/deployment/services/DeploymentManagerServiceMBean.java
+END
+DeploymentManagerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/deployment/src/main/org/jboss/deployment/services/DeploymentManagerService.java
+END

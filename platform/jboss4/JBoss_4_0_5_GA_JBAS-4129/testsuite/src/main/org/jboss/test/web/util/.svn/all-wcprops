@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/web/util
+END
+weblog4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/web/util/weblog4j.properties
+END
+ClassInClasses.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/web/util/ClassInClasses.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/web/util/Util.java
+END
+EJBManifestClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/web/util/EJBManifestClass.java
+END
+EarLibUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/web/util/EarLibUser.java
+END

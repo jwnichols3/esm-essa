@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 2.0//EN" 
+    "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd">
+
+<hibernate-mapping
+
+>
+
+    <class
+            name="test.hibernate21.LineItem"
+            table="ITEMS"
+            schema="SHOP"
+            proxy="LineItem"
+            mutable="false"
+    >
+
+    <id
+        name="id"
+            column="id"
+            unsaved-value="null"
+    >
+            <meta
+                attribute="scope-get"
+            >
+                <![CDATA[protected]]>
+            </meta>
+
+            <meta
+                attribute="scope-set"
+            >
+                <![CDATA[protected]]>
+            </meta>
+
+    <!-- The generator-class attribute of @hibernate.id is deprecated, use the @hibernate.generator tag instead -->
+    <generator class="sequence">
+
+        <!-- The generator-param tag is deprecated, use the @hibernate.generator and @hibernate.param tags instead -->
+        <param
+                name="table"
+        >
+            <![CDATA[HIVAL]]>
+        </param>
+
+        <!-- The generator-param tag is deprecated, use the @hibernate.generator and @hibernate.param tags instead -->
+        <param
+                name="column"
+        >
+            <![CDATA[NEXT]]>
+        </param>
+
+    </generator>
+
+    </id>
+
+        <version
+            name="version"
+            column="version"
+            type="int"
+        />
+
+        <many-to-one
+            name="order"
+                not-null="true"
+                unique="true"
+                cascade="save-update"
+                outer-join="true"
+        >
+
+            <column
+                name="column1" 
+            />
+
+            <column
+                name="column2" 
+            />
+
+            <column
+                name="column3" 
+            />
+
+        </many-to-one>
+
+        <property
+            name="quantity"
+                    column="AMOUNT"
+                not-null="true"
+                unique="false"
+        >
+
+        </property>
+
+        <many-to-one
+            name="product"
+                    column="PRODUCT_ID"
+                not-null="true"
+                outer-join="true"
+        >
+
+        </many-to-one>
+
+        <property
+            name="created"
+                    type="timestamp"
+                    column="created"
+                update="false"
+                insert="true"
+        >
+            <meta
+                attribute="use-in-equals"
+            >
+                <![CDATA[true]]>
+            </meta>
+
+            <meta
+                attribute="use-in-tostring"
+            >
+                <![CDATA[true]]>
+            </meta>
+
+        </property>
+
+    </class>    
+
+</hibernate-mapping>
+

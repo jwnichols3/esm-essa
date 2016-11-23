@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/naming
+END
+JNDIBindingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/naming/JNDIBindingService.java
+END
+JNDIBindings.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/naming/JNDIBindings.java
+END
+LinkRefPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/naming/LinkRefPair.java
+END
+JNDIBindingServiceMgr.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/naming/JNDIBindingServiceMgr.java
+END
+HttpNamingContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/naming/HttpNamingContextFactory.java
+END
+NamingContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/naming/NamingContextFactory.java
+END
+JNDIBindingServiceMgrMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/naming/JNDIBindingServiceMgrMBean.java
+END
+NonSerializableFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/naming/NonSerializableFactory.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/naming/Util.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/naming/package.html
+END
+JNDIBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/naming/JNDIBinding.java
+END
+JNDIView.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/naming/JNDIView.java
+END
+ENCThreadLocalKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/naming/ENCThreadLocalKey.java
+END
+JNDIViewMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/naming/JNDIViewMBean.java
+END
+NamingAlias.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/naming/NamingAlias.java
+END
+BridgeNamingContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/naming/BridgeNamingContextFactory.java
+END
+LinkRefPairObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/naming/LinkRefPairObjectFactory.java
+END
+NamingAliasMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/naming/NamingAliasMBean.java
+END
+ExternalContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/naming/ExternalContext.java
+END
+LinkRefPairService.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/naming/LinkRefPairService.java
+END
+NamingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/naming/NamingService.java
+END
+ExternalContextMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/naming/ExternalContextMBean.java
+END
+LinkRefPairServiceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/naming/LinkRefPairServiceMBean.java
+END
+ENCFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/naming/ENCFactory.java
+END
+NamingServiceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/naming/NamingServiceMBean.java
+END

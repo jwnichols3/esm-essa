@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/deployers/client/test
+END
+UnpackedClientDeploymentUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/deployers/client/test/UnpackedClientDeploymentUnitTestCase.java
+END
+NotUnpackedClientDeploymentUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/deployers/client/test/NotUnpackedClientDeploymentUnitTestCase.java
+END
+ClientDeploymentUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/deployers/client/test/ClientDeploymentUnitTestCase.java
+END
+NotClientDeploymentUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/deployers/client/test/NotClientDeploymentUnitTestCase.java
+END

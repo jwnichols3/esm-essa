@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm-essa/!svn/ver/5/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/sample/jnlp/corba/src/core
+END
+HelloClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/5/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/sample/jnlp/corba/src/core/HelloClient.java
+END
+HelloServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/5/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/sample/jnlp/corba/src/core/HelloServer.java
+END

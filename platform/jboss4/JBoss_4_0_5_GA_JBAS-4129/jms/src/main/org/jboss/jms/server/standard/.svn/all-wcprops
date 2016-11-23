@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jms/src/main/org/jboss/jms/server/standard
+END
+QueueDeliveryEndpointFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jms/src/main/org/jboss/jms/server/standard/QueueDeliveryEndpointFactory.java
+END
+QueueBrowserEndpointFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jms/src/main/org/jboss/jms/server/standard/QueueBrowserEndpointFactory.java
+END
+StandardMessageReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jms/src/main/org/jboss/jms/server/standard/StandardMessageReference.java
+END
+QueueBrowserEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jms/src/main/org/jboss/jms/server/standard/QueueBrowserEndpoint.java
+END
+QueueDeliveryEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jms/src/main/org/jboss/jms/server/standard/QueueDeliveryEndpoint.java
+END
+StandardMessageBroker.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jms/src/main/org/jboss/jms/server/standard/StandardMessageBroker.java
+END

@@ -1,0 +1,59 @@
+<decorators defaultdir="/decorators">
+
+   <decorator name="main" page="main.jsp">
+      <pattern>/*</pattern>
+   </decorator>
+
+   <decorator name="apidocs" page="api.jsp">
+      <pattern>/oscache/api/*</pattern>
+      <pattern>/sitemesh/api/*</pattern>
+      <pattern>/webwork/api/*</pattern>
+      <pattern>/webwork_old/api/*</pattern>
+      <pattern>/xwork/api/*</pattern>
+      <pattern>/oscontent/api/*</pattern>
+      <pattern>/transformtags/api/*</pattern>
+      <pattern>/webcompass/api/*</pattern>
+      <pattern>/formtags/api/*</pattern>
+      <pattern>/oscore/api/*</pattern>
+      <pattern>/osuser/api/*</pattern>
+      <pattern>/osworkflow/api/*</pattern>
+      <pattern>/clickstream/api/*</pattern>
+      <pattern>/propertyset/api/*</pattern>
+      <pattern>/quartz/api/*</pattern>
+      <pattern>/*/api/*</pattern>
+
+      <pattern>/oscache/clover/*</pattern>
+      <pattern>/sitemesh/clover/*</pattern>
+      <pattern>/webwork/clover/*</pattern>
+      <pattern>/webwork_old/clover/*</pattern>
+      <pattern>/xwork/clover/*</pattern>
+      <pattern>/oscontent/clover/*</pattern>
+      <pattern>/transformtags/clover/*</pattern>
+      <pattern>/webcompass/clover/*</pattern>
+      <pattern>/formtags/clover/*</pattern>
+      <pattern>/oscore/clover/*</pattern>
+      <pattern>/osuser/clover/*</pattern>
+      <pattern>/osworkflow/clover/*</pattern>
+      <pattern>/clickstream/clover/*</pattern>
+
+      <pattern>/oscache/junit/*</pattern>
+      <pattern>/sitemesh/junit/*</pattern>
+      <pattern>/webwork/junit/*</pattern>
+      <pattern>/webwork_old/junit/*</pattern>
+      <pattern>/xwork/junit/*</pattern>
+      <pattern>/oscontent/junit/*</pattern>
+      <pattern>/transformtags/junit/*</pattern>
+      <pattern>/webcompass/junit/*</pattern>
+      <pattern>/formtags/junit/*</pattern>
+      <pattern>/oscore/junit/*</pattern>
+      <pattern>/osuser/junit/*</pattern>
+      <pattern>/osworkflow/junit/*</pattern>
+      <pattern>/clickstream/junit/*</pattern>
+   </decorator>
+   <decorator name="none">
+      <pattern>/ci/*</pattern>
+      <pattern>/compass/versions/*</pattern>
+   </decorator>
+   <decorator name="news" page="news.jsp"/>
+
+</decorators>

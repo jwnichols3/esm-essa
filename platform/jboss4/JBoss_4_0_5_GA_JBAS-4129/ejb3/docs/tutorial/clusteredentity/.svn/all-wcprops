@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/clusteredentity
+END
+jndi.properties
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/clusteredentity/jndi.properties
+END
+clusteredentity.wiki
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/clusteredentity/clusteredentity.wiki
+END
+clusteredentity.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/clusteredentity/clusteredentity.html
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/clusteredentity/log4j.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/clusteredentity/build.xml
+END

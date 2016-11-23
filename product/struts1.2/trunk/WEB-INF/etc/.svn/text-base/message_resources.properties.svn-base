@@ -1,0 +1,525 @@
+# -- standard errors --
+errors.header=<UL>
+errors.prefix=<LI>
+errors.suffix=</LI>
+errors.footer=</UL>
+# -- validator --
+errors.invalid={0} is invalid.
+errors.maxlength={0} can not be greater than {1} characters.
+errors.minlength={0} can not be less than {1} characters.
+errors.range={0} is not in the range {1} through {2}.
+errors.required={0} is required.
+errors.byte={0} must be an byte.
+errors.date={0} is not a date.
+errors.double={0} must be an double.
+errors.float={0} must be an float.
+errors.integer={0} must be an integer.
+errors.long={0} must be an long.
+errors.short={0} must be an short.
+errors.creditcard={0} is not a valid credit card number.
+errors.email={0} is an invalid e-mail address.
+# -- other --
+errors.cancel=Operation cancelled.
+errors.detail={0}
+errors.general=The process did not complete. Details should follow.
+errors.token=Request could not be completed. Operation is not in sequence.
+# -- login --
+logon.title=LogOn Title
+logon.user=User 
+logon.password=Password
+logon.prompt1=Please Log In...
+# -- user --
+user.new.title=User New
+user.new.form.key=Key
+user.new.form.name=Name
+# -- welcome --
+welcome.title=Welcome To ESSA
+welcome.heading=Welcome Heading
+welcome.message=Welcome Message
+# -- generic labels
+audit.generic=Audit
+edit.generic=Edit
+option.generic=Option
+sample.generic=Sample
+# -- generic error --
+error.generic=Generic Error
+# -- access failure --
+error.access.denied.title=Generic Access Failure
+error.access.denied=Generic Access Failure
+error.access.denied.retry=Login Retry
+#
+# -- alarm window
+#
+alarm_inhibit.column.active=Active
+alarm_inhibit.column.created=Created
+alarm_inhibit.column.day=Day
+alarm_inhibit.column.key=Key
+alarm_inhibit.column.modified=Modified
+alarm_inhibit.column.note=Note
+alarm_inhibit.column.rule_id=RuleId
+alarm_inhibit.column.start=Start
+alarm_inhibit.column.stop=Stop
+alarm_inhibit.column.task_id=TaskId
+alarm_inhibit.column.version=Version
+#
+alarm_inhibit.form.active=Active
+alarm_inhibit.form.day=Day
+alarm_inhibit.form.note=Note
+alarm_inhibit.form.start=Start
+alarm_inhibit.form.stop=Stop
+#
+alarm_inhibit.title.audit=Audit Alarm Window Attributes
+alarm_inhibit.title.browse=Alarm Window(s)
+alarm_inhibit.title.edit=Edit Existing Alarm Window Attribute
+alarm_inhibit.title.new=New Alarm Window Attribute
+#
+# -- boot time --
+#
+boot_time.adhoc.title=System Boot Time (Ad Hoc)
+boot_time.adhoc.persist=Persist To DB
+boot_time.adhoc.evaluate=Evaluate For Notification
+boot_time.adhoc.active=Active
+boot_time.adhoc.note=Note
+boot_time.adhoc.key=Key
+boot_time.adhoc.sample_time=Sample Time
+boot_time.adhoc.boot_time=Boot Time
+#
+boot_time.column.active=Active
+boot_time.column.boot_time=Boot Time
+boot_time.column.created=Created
+boot_time.column.key=Key
+boot_time.column.matched=Rule Match
+boot_time.column.modified=Modified
+boot_time.column.note=Note
+boot_time.column.rule_id=RuleId
+boot_time.column.rule_row_id=RuleRowId
+boot_time.column.sample_time=Sample Time
+boot_time.column.suppressed=Suppress
+boot_time.column.task_id=TaskId
+boot_time.column.version=Version
+#
+boot_time.form.active=Active
+boot_time.form.note=Note
+#
+boot_time.title.audit=Audit Boot Time Monitors
+boot_time.title.browse=Browse Existing Boot Time Monitors
+boot_time.title.edit=Edit Existing Boot Time Monitor
+boot_time.title.new=New Boot Time Monitor
+boot_time.title.sample=Browse Samples
+boot_time.title.task_browse=Reboot Rules
+#
+# -- canned actions ---
+#
+canned.column.action=Action
+canned.column.action_id=ActionId
+canned.column.active=Active
+canned.column.address=Address
+canned.column.created=Created
+canned.column.key=Key
+canned.column.modified=Modified
+canned.column.note=Note
+canned.column.rule_id=RuleId
+canned.column.subject=Subject
+canned.column.task_id=TaskId
+canned.column.version=Version
+#
+canned.form.action=Action
+canned.form.active=Active
+canned.form.address=Address
+canned.form.note=Note
+canned.form.subject=Subject
+#
+canned.title.audit=Audit Canned Action
+canned.title.edit=Edit Canned Action
+canned.title.new=New Canned Action
+canned.title.task_browse=Canned Action(s)
+#
+# -- configuration
+#
+configuration.title.dump=XML Configuration Dump
+#
+# -- custom message attributes
+#
+cma.column.active=Active
+cma.column.created=Created
+cma.column.key=Key
+cma.column.modified=Modified
+cma.column.note=Note
+cma.column.rule_id=RuleId
+cma.column.task_id=TaskId
+cma.column.value=Value
+cma.column.version=Version
+#
+cma.form.active=Active
+cma.form.key=Key
+cma.form.note=Note
+cma.form.value=Value
+#        
+cma.title.audit=Audit Custom Message Attribute
+cma.title.edit=Edit Custom Message Attribute
+cma.title.new=New Custom Message Attribute
+cma.title.task_browse=Custom Message Attribute(s)
+#
+# -- directory age --
+#
+directory_age.column.active=Active
+directory_age.column.created=Created
+directory_age.column.exists=Exists
+directory_age.column.directory_name=Directory Name
+directory_age.column.key=Key
+directory_age.column.modified=Modified
+directory_age.column.option=Old/New
+directory_age.column.threshold=Threshold
+directory_age.column.note=Note
+directory_age.column.rule_id=RuleId
+directory_age.column.rule_match=Match
+directory_age.column.rule_row_id=RuleRowId
+directory_age.column.sample_time=Sample Time
+directory_age.column.suppress=Suppress
+directory_age.column.target=Directory Name
+directory_age.column.task_id=TaskId
+directory_age.column.version=Version
+#
+directory_age.error.bad_name=Bad Name
+directory_age.error.bad_threshold=Bad Threshold
+directory_age.error.bad_fixed=Bad Fixed Threshold
+directory_age.error.bad_growth=Bad Growth Threshold
+directory_age.error.bad_range=Bad Range Threshold
+#
+directory_age.form.active=Active
+directory_age.form.directory=Directory
+directory_age.form.directory_name=Directory Name
+directory_age.form.newer=Newer
+directory_age.form.note=Note
+directory_age.form.older=Older
+directory_age.form.threshold=Threshold
+#
+directory_age.title.audit=Audit Directory Age Monitors
+directory_age.title.edit=Edit Existing Directory Age Monitor
+directory_age.title.new=New Directory Age Monitor
+directory_age.title.task_browse=Directory Age Rules
+
+#
+# -- directory size --
+#
+directory_size.column.active=Active
+directory_size.column.bytes=Bytes
+directory_size.column.suppress=Suppress
+directory_size.column.created=Created
+directory_size.column.directory=Directory
+directory_size.column.exists=Exists
+directory_size.column.file_name=Directory
+directory_size.column.key=Key
+directory_size.column.max_threshold=Max
+directory_size.column.min_threshold=Min
+directory_size.column.modified=Modified
+directory_size.column.note=Note
+directory_size.column.option=Option
+directory_size.column.recursive=Recursive
+directory_size.column.rule_id=RuleId
+directory_size.column.rule_row_id=RuleRowId
+directory_size.column.rule_match=Match
+directory_size.column.sample_time=Sample Time
+directory_size.column.task_id=TaskId
+directory_size.column.threshold=Threshold
+directory_size.column.version=Version
+#
+directory_size.error.bad_fixed=Bad Fixed Threshold
+directory_size.error.bad_growth=Bad Growth Threshold
+directory_size.error.bad_name=Bad Directory
+directory_size.error.bad_range=Bad Range Threshold
+#
+directory_size.form.active=Active
+directory_size.form.directory=Directory
+directory_size.form.maximum=Upper
+directory_size.form.minimum=Fixed/Growth/Lower
+directory_size.form.note=Note
+directory_size.form.option_type=Type
+directory_size.form.recursive=Recursive
+directory_size.form.threshold=Threshold
+#
+directory_size.title.audit=Audit Directory Size Monitors
+directory_size.title.edit=Edit Existing Directory Size Monitor
+directory_size.title.new=New Directory Size Monitor
+directory_size.title.sample=Browse Samples
+directory_size.title.task_browse=Directory Size Rules
+#
+# -- directory size ---
+#
+dir_size.adhoc.title=Directory Size (Ad Hoc)
+dir_size.adhoc.exists=Exists
+dir_size.adhoc.name=Target
+dir_size.adhoc.persist=Persist To DB
+dir_size.adhoc.recursive=Recursive
+dir_size.adhoc.evaluate=Evaluate For Notification
+dir_size.adhoc.note=Note
+dir_size.adhoc.sample_time=Sample Time
+dir_size.adhoc.file_pop=File Population
+dir_size.adhoc.dir_pop=Directory Population
+dir_size.adhoc.byte_pop=Storage Total
+#
+dir_size.error.bad_name=Bad Target
+#
+# -- disk space --
+#
+disk_space.error.bad_name=Bad Target
+#
+# -- file age --
+#
+file_age.column.active=Active
+file_age.column.created=Created
+file_age.column.exists=Exists
+file_age.column.file_name=File Name
+file_age.column.key=Key
+file_age.column.modified=Modified
+file_age.column.option=Old/New
+file_age.column.threshold=Threshold
+file_age.column.note=Note
+file_age.column.rule_id=RuleId
+file_age.column.rule_match=Match
+file_age.column.rule_row_id=RuleRowId
+file_age.column.sample_time=Sample Time
+file_age.column.suppress=Suppress
+file_age.column.target=File Name
+file_age.column.task_id=TaskId
+file_age.column.version=Version
+#
+file_age.error.bad_name=Bad Name
+file_age.error.bad_threshold=Bad Threshold
+file_age.error.bad_fixed=Bad Fixed Threshold
+file_age.error.bad_growth=Bad Growth Threshold
+file_age.error.bad_range=Bad Range Threshold
+#
+file_age.form.active=Active
+file_age.form.directory=Directory
+file_age.form.file_name=File Name
+file_age.form.newer=Newer
+file_age.form.note=Note
+file_age.form.older=Older
+file_age.form.threshold=Threshold
+#
+file_age.title.audit=Audit File Age Monitors
+file_age.title.edit=Edit Existing File Age Monitor
+file_age.title.new=New File Age Monitor
+file_age.title.task_browse=File Age Rules
+#
+# -- file test --
+#
+file.adhoc.title=File Test (Ad Hoc)
+file.adhoc.persist=Persist To DB
+file.adhoc.evaluate=Evaluate For Notification
+file.adhoc.note=Note
+file.adhoc.name=Name
+file.adhoc.sample_time=Sample Time
+file.adhoc.exists=Exists
+file.adhoc.file=File
+file.adhoc.directory=Directory
+file.adhoc.time=Time
+file.adhoc.length=Length
+#
+#
+file.error.bad_name=Bad Target
+#
+# -- file size --
+#
+file_size.column.active=Active
+file_size.column.bytes=Bytes
+file_size.column.created=Creation
+file_size.column.exists=Exists
+file_size.column.key=Key
+file_size.column.growth=Growth
+file_size.column.max_threshold=Max
+file_size.column.min_threshold=Min
+file_size.column.modified=Modified
+file_size.column.note=Note
+file_size.column.option=Option
+file_size.column.rule_id=RuleId
+file_size.column.rule_match=Match
+file_size.column.rule_row_id=RuleRowId
+file_size.column.sample_time=Sample Time
+file_size.column.suppress=Suppress
+file_size.column.target=File Name
+file_size.column.task_id=TaskId
+file_size.column.version=Version
+#
+file_size.error.bad_fixed=Bad Fixed Value
+file_size.error.bad_growth=Bad Growth Value
+file_size.error.bad_range=Bad Range Value
+#
+file_size.form.active=Active
+file_size.form.file_name=File Name
+file_size.form.maximum=Upper
+file_size.form.minimum=Fixed/Growth/Lower
+file_size.form.note=Note
+file_size.form.threshold=Threshold
+#
+file_size.title.audit=Audit File Size Monitors
+file_size.title.edit=Edit Existing File Size Monitor
+file_size.title.new=New File Size Monitor
+file_size.title.sample=Browse Samples
+file_size.title.task_browse=File Size Rules
+#
+# -- file system --
+#
+file_system.adhoc.title=File System Discovery (Ad Hoc)
+#
+file_system.adhoc.persist=Persist To DB
+file_system.adhoc.evaluate=Evaluate For Notification
+file_system.adhoc.note=Note
+file_system.adhoc.sample_time=Sample Time
+file_system.adhoc.device=Device
+file_system.adhoc.mount=Mount
+file_system.adhoc.fs_type=Type
+#
+# -- file system size --
+#
+fs_size.adhoc.title=File System Size Test (Ad Hoc)
+#
+fs_size.adhoc.name=Target
+fs_size.adhoc.persist=Persist To DB
+fs_size.adhoc.evaluate=Evaluate For Notification
+fs_size.adhoc.note=Note
+fs_size.adhoc.block_size=Block Size
+fs_size.adhoc.fragment_size=Fragment Size
+fs_size.adhoc.total_block_population=Total Block Population
+fs_size.adhoc.free_block_population=Free Block Population
+fs_size.adhoc.sample_time=Sample Time
+#
+fs_size.column.active=Active
+fs_size.column.block=Block
+fs_size.column.block_threshold=Block
+fs_size.column.created=Creation
+fs_size.column.exists=Exists
+fs_size.column.inode=Inode
+fs_size.column.inode_threshold=Inode
+fs_size.column.key=Key
+fs_size.column.modified=Modified
+fs_size.column.note=Note
+fs_size.column.rule_id=RuleId
+fs_size.column.rule_match=Match
+fs_size.column.rule_row_id=RuleRowId
+fs_size.column.sample_time=Sample Time
+fs_size.column.suppress=Suppress
+fs_size.column.target=Target
+fs_size.column.task_id=TaskId
+fs_size.column.version=Version
+#
+fs_size.error.bad_target=Bad Target
+fs_size.error.bad_threshold=Bad Threshold
+#
+fs_size.form.active=Active
+fs_size.form.block_threshold=Block
+fs_size.form.inode_threshold=Inode
+fs_size.form.note=Note
+fs_size.form.target=Target
+fs_size.form.threshold=Threshold
+#
+fs_size.title.audit=Audit File System Size Monitors
+fs_size.title.edit=Edit Existing File System Size Monitor
+fs_size.title.new=New File System Size Monitor
+fs_size.title.sample=Browse Samples
+fs_size.title.task_browse=File System Size Rules
+#
+# -- process --
+#
+process.column.active=Active
+process.column.cpu_time=Time
+process.column.created=Created
+process.column.exists=Exists
+process.column.key=Key
+process.column.max_pop=MaxPop
+process.column.max_time=MaxTime
+process.column.min_pop=MinPop
+process.column.modified=Modified
+process.column.note=Note
+process.column.option=Option
+process.column.pid=PID
+process.column.population=Population
+process.column.rule_id=RuleId
+process.column.rule_match=Match
+process.column.rule_row_id=RuleRowId
+process.column.sample_time=Sample Time
+process.column.suppress=Suppress
+process.column.target=Target
+process.column.task_id=TaskId
+process.column.threshold=Threshold
+process.column.version=Version
+#
+process.error.bad_max=Bad Max
+process.error.bad_min_max=Bad Min/Max
+process.error.bad_target=Bad Target
+#
+process.form.active=Active
+process.form.minimum=Min
+process.form.maximum=Max Time
+process.form.note=Note
+process.form.option=Option
+process.form.max_population=Max Population
+process.form.min_population=Min Population
+process.form.target=Target
+process.form.threshold=Threshold
+#
+process.title.audit=Audit Process Monitors
+#process.title.browse=Browse Existing Process Monitors
+process.title.edit=Edit Existing Process Monitor
+process.title.new=New Process Monitor
+process.title.sample=Browse Samples
+process.title.task_browse=Process Rules
+#
+process.error.bad_name=Bad Name/PID
+#
+upload.new.title=Configuration Upload
+#
+upload.form.file=File
+#
+task.title.browse=Browse Existing Tasks
+task.title.edit=Edit Existing Task
+task.title.failure=Failed Operation
+task.title.new=Create Fresh Task
+task.title.success=Successful Operation
+#
+task.column.active=Active
+task.column.frequency=Frequency
+task.column.key=Key
+task.column.match_all=Match All
+task.column.name=Name
+task.column.note=Note
+task.column.task_id=TaskId
+#
+task.form.active=Active
+task.form.frequency=Frequency
+task.form.match_all=Match All
+task.form.name=Name
+task.form.note=Note
+#
+task.form.error.bad_frequency=Bad Frequency
+task.form.error.bad_name=Bad Name
+task.form.error.bad_note=Bad Note
+#
+vpo.column.active=Active
+vpo.column.app_name=App Name
+vpo.column.created=Created
+vpo.column.key=Key
+vpo.column.message=Message
+vpo.column.modified=Modified
+vpo.column.note=Note
+vpo.column.retry=Retry Period
+vpo.column.rule_id=RuleId
+vpo.column.severity=Severity
+vpo.column.source=Source Host
+vpo.column.task_id=TaskId
+vpo.column.version=Version
+#
+vpo.form.error.bad_retry=Bad Retry Period
+#
+vpo.form.app_name=App Name
+vpo.form.message=Message
+vpo.form.retry=Retry Period
+vpo.form.severity=Severity
+vpo.form.source=Source Host
+#
+vpo.title.audit=Audit VPO Attribute
+vpo.title.browse=VPO Attribute
+vpo.title.edit=Edit Existing VPO Attribute
+vpo.title.new=Create New VPO Attribute
+#

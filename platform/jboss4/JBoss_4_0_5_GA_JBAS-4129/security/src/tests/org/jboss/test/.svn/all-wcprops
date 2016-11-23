@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/tests/org/jboss/test
+END
+roles.properties
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/tests/org/jboss/test/roles.properties
+END
+TestJCE.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/tests/org/jboss/test/TestJCE.java
+END
+SunConfigParserTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/tests/org/jboss/test/SunConfigParserTestCase.java
+END
+NamespacePermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/tests/org/jboss/test/NamespacePermission.java
+END
+NestableGroupTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/tests/org/jboss/test/NestableGroupTestCase.java
+END
+TestLogin.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/tests/org/jboss/test/TestLogin.java
+END
+UtilTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/tests/org/jboss/test/UtilTestCase.java
+END
+LoginContextTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/tests/org/jboss/test/LoginContextTestCase.java
+END
+users.properties
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/tests/org/jboss/test/users.properties
+END
+ThreadLocalTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/tests/org/jboss/test/ThreadLocalTestCase.java
+END
+TestLoginModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/tests/org/jboss/test/TestLoginModule.java
+END
+DelegatingPolicyTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/tests/org/jboss/test/DelegatingPolicyTestCase.java
+END
+login-config.conf
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/tests/org/jboss/test/login-config.conf
+END
+TstTimedCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/tests/org/jboss/test/TstTimedCache.java
+END
+NamespacePermissionCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/tests/org/jboss/test/NamespacePermissionCollection.java
+END
+tst-policy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/tests/org/jboss/test/tst-policy.xml
+END
+tst.policy
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/tests/org/jboss/test/tst.policy
+END
+usersb64.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/tests/org/jboss/test/usersb64.properties
+END
+PermissionName.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/tests/org/jboss/test/PermissionName.java
+END
+SecurityProviderlTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/tests/org/jboss/test/SecurityProviderlTestCase.java
+END
+login-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/tests/org/jboss/test/login-config.xml
+END
+NestablePrincipalTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/tests/org/jboss/test/NestablePrincipalTestCase.java
+END
+PasswordHasher.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/tests/org/jboss/test/PasswordHasher.java
+END
+LoginModulesTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/tests/org/jboss/test/LoginModulesTestCase.java
+END

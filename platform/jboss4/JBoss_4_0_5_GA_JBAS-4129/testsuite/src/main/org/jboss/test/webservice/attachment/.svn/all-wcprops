@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/attachment
+END
+AttachmentSAAJTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/attachment/AttachmentSAAJTestCase.java
+END
+AttachmentProxyTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/attachment/AttachmentProxyTestCase.java
+END
+Attachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/attachment/Attachment.java
+END
+AttachmentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/attachment/AttachmentImpl.java
+END
+AttachmentDIITestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/attachment/AttachmentDIITestCase.java
+END

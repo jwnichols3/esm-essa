@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/spi/status
+END
+DeploymentStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/spi/status/DeploymentStatus.java
+END
+ProgressEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/spi/status/ProgressEvent.java
+END
+ClientConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/spi/status/ClientConfiguration.java
+END
+ProgressListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/spi/status/ProgressListener.java
+END
+ProgressObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/spi/status/ProgressObject.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/spi/status/package.html
+END

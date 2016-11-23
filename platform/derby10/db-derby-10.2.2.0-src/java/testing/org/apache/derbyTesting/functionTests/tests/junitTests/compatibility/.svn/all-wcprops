@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/junitTests/compatibility
+END
+README.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/junitTests/compatibility/README.html
+END
+testScript.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/junitTests/compatibility/testScript.xml
+END
+CompatibilitySuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/junitTests/compatibility/CompatibilitySuite.java
+END
+Pinger.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/junitTests/compatibility/Pinger.java
+END
+oneCombo.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/junitTests/compatibility/oneCombo.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/junitTests/compatibility/build.xml
+END
+JDBCDriverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/junitTests/compatibility/JDBCDriverTest.java
+END

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+    "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping
+
+>
+
+    <class
+            name="test.hibernate30.LineItem"
+            table="ITEMS"
+            schema="SHOP"
+            proxy="LineItem"
+            mutable="false"
+    >
+
+    <id
+        name="id"
+            column="id"
+            unsaved-value="null"
+    >
+
+    <generator
+        class="sequence"
+    >
+    <param name="table">
+        <![CDATA[HIVAL]]>
+    </param>
+
+    <param name="column">
+        <![CDATA[NEXT]]>
+    </param>
+
+    </generator>
+
+    </id>
+
+        <version
+            name="version"
+            column="version"
+            type="int"
+        />
+
+        <many-to-one
+            name="order"
+               access="property"
+                    class="test.hibernate30.Order"
+                entity-name="ORDERS"
+                    column="ORDER_ID"
+                not-null="true"
+                unique="true"
+                cascade="save-update"
+                outer-join="true"
+                fetch="join"
+                insert="true"
+                update="true"
+                optimistic-lock="true"
+                foreign-key="foreign key"
+                property-ref="property ref"
+                index="index"
+                lazy="true"
+                node="xml node"
+                embed-xml="true"
+        >
+            <meta
+                attribute="meta1"
+            >
+                <![CDATA[value1]]>
+            </meta>
+
+            <meta
+                attribute="meta2"
+            >
+                <![CDATA[value2]]>
+            </meta>
+
+            <column
+                name="column1" 
+            />
+
+            <column
+                name="column2" 
+            />
+
+            <formula>
+                <![CDATA[formula sql 1]]>
+            </formula>
+
+            <formula>
+                <![CDATA[formula sql 2]]>
+            </formula>
+
+        </many-to-one>
+
+        <property
+            name="quantity"
+                    column="AMOUNT"
+                not-null="true"
+                unique="false"
+        >
+
+        </property>
+
+        <many-to-one
+            name="product"
+                    column="PRODUCT_ID"
+                not-null="true"
+                outer-join="true"
+        >
+
+        </many-to-one>
+
+        <property
+            name="created"
+                    type="timestamp"
+                    column="created"
+                update="false"
+                insert="true"
+        >
+
+        </property>
+
+    </class>    
+
+</hibernate-mapping>
+

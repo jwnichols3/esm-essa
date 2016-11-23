@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/storetests
+END
+default_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/storetests/default_app.properties
+END
+st_reclaim_longcol.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/storetests/st_reclaim_longcol.java
+END
+derby94.sql
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/storetests/derby94.sql
+END
+st_derby715.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/storetests/st_derby715.java
+END
+st_derby1189_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/storetests/st_derby1189_app.properties
+END
+st_1_sed.properties
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/storetests/st_1_sed.properties
+END
+st_derby1189.sql
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/storetests/st_derby1189.sql
+END
+st_derby715_sed.properties
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/storetests/st_derby715_sed.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/storetests/build.xml
+END
+st_schema_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/storetests/st_schema_app.properties
+END
+st_1_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/storetests/st_1_app.properties
+END
+derby94_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/storetests/derby94_derby.properties
+END
+st_schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/storetests/st_schema.sql
+END
+st_1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/storetests/st_1.sql
+END
+default_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/storetests/default_derby.properties
+END
+st_b5772_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/storetests/st_b5772_app.properties
+END
+st_b5772.sql
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/storetests/st_b5772.sql
+END
+derby94_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/storetests/derby94_app.properties
+END

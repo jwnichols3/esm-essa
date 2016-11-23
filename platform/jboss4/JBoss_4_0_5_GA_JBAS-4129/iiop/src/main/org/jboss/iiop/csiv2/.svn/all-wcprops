@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/iiop/csiv2
+END
+CSIv2IORInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/iiop/csiv2/CSIv2IORInterceptor.java
+END
+CSIv2Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/iiop/csiv2/CSIv2Util.java
+END
+SASClientInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/iiop/csiv2/SASClientInterceptor.java
+END
+CSIv2Policy.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/iiop/csiv2/CSIv2Policy.java
+END
+SASClientInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/iiop/csiv2/SASClientInitializer.java
+END
+CSIv2Initializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/iiop/csiv2/CSIv2Initializer.java
+END
+SASInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/iiop/csiv2/SASInitializer.java
+END
+SASCurrentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/iiop/csiv2/SASCurrentImpl.java
+END
+SASTargetInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/iiop/csiv2/SASTargetInterceptor.java
+END
+CSIv2PolicyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/iiop/csiv2/CSIv2PolicyFactory.java
+END
+SASClientIdentityInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/iiop/csiv2/SASClientIdentityInterceptor.java
+END

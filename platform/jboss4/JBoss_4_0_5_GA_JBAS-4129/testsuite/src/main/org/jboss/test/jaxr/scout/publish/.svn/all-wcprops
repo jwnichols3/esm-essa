@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jaxr/scout/publish
+END
+JaxrDeleteAssociationTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jaxr/scout/publish/JaxrDeleteAssociationTestCase.java
+END
+JaxrSaveOrganizationTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jaxr/scout/publish/JaxrSaveOrganizationTestCase.java
+END
+JaxrDeleteOrganizationTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jaxr/scout/publish/JaxrDeleteOrganizationTestCase.java
+END
+JaxrSaveServiceBindingTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jaxr/scout/publish/JaxrSaveServiceBindingTestCase.java
+END

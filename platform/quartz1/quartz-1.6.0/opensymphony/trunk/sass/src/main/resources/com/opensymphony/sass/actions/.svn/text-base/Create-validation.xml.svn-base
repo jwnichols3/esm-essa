@@ -1,0 +1,45 @@
+<!DOCTYPE validators PUBLIC "-//OpenSymphony Group//XWork Validator 1.0.2//EN" "http://www.opensymphony.com/xwork/xwork-validator-1.0.2.dtd">
+<validators>
+    <field name="user.username">
+        <field-validator type="requiredstring" short-circuit="true">
+            <message>You must provide a username.</message>
+        </field-validator>
+        <field-validator type="stringlength" short-circuit="true">
+            <param name="minLength">3</param>
+            <message>Your username must be at least 3 characters.</message>
+        </field-validator>
+        <field-validator type="fieldexpression">
+            <param name="expression">validUsername</param>
+            <message>This username is already taken, please choose another.</message>
+        </field-validator>
+    </field>
+
+    <field name="user.name">
+        <field-validator type="requiredstring" short-circuit="true">
+            <message>You must provide your full name.</message>
+        </field-validator>
+    </field>
+
+    <field name="password">
+        <field-validator type="requiredstring" short-circuit="true">
+            <message>You must provide a password.</message>
+        </field-validator>
+        <field-validator type="stringlength" short-circuit="true">
+            <param name="minLength">6</param>
+            <message>Your password must be at least 6 characters.</message>
+        </field-validator>
+        <field-validator type="fieldexpression">
+            <param name="expression">password.equals(passwordVerify)</param>
+            <message>Your password must be entered twice to ensure verification.</message>
+        </field-validator>
+    </field>
+
+    <field name="user.email">
+        <field-validator type="requiredstring" short-circuit="true">
+            <message>You must enter your email address</message>
+        </field-validator>
+        <field-validator type="email">
+            <message>You must enter a valid email address</message>
+        </field-validator>
+    </field>
+</validators>

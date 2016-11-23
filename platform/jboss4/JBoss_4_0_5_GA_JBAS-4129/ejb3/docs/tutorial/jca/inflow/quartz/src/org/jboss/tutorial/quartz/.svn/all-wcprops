@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/jca/inflow/quartz/src/org/jboss/tutorial/quartz
+END
+QuartzMDBBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/jca/inflow/quartz/src/org/jboss/tutorial/quartz/QuartzMDBBean.java
+END
+AnnotatedQuartzMDBBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/jca/inflow/quartz/src/org/jboss/tutorial/quartz/AnnotatedQuartzMDBBean.java
+END

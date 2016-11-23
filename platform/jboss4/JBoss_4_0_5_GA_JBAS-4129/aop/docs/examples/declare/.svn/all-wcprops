@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/docs/examples/declare
+END
+MotorbikeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/docs/examples/declare/MotorbikeDAO.java
+END
+declare.wiki
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/docs/examples/declare/declare.wiki
+END
+declare.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/docs/examples/declare/declare.html
+END
+VehicleDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/docs/examples/declare/VehicleDAO.java
+END
+CarDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/docs/examples/declare/CarDAO.java
+END
+Driver.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/docs/examples/declare/Driver.java
+END
+jboss-aop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/docs/examples/declare/jboss-aop.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/docs/examples/declare/build.xml
+END

@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64
+END
+libinstrument.so
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/libinstrument.so
+END
+libmanagement.so
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/libmanagement.so
+END
+libcmm.so
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/libcmm.so
+END
+libjaas_unix.so
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/libjaas_unix.so
+END
+libjava.so
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/libjava.so
+END
+libioser12.so
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/libioser12.so
+END
+libmlib_image.so
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/libmlib_image.so
+END
+libnet.so
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/libnet.so
+END
+awt_robot
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/awt_robot
+END
+libJdbcOdbc.so
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/libJdbcOdbc.so
+END
+libjsig.so
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/libjsig.so
+END
+libjava_crw_demo.so
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/libjava_crw_demo.so
+END
+libfontmanager.so
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/libfontmanager.so
+END
+libzip.so
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/libzip.so
+END
+libverify.so
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/libverify.so
+END
+libjdwp.so
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/libjdwp.so
+END
+gtkhelper
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/gtkhelper
+END
+libhprof.so
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/libhprof.so
+END
+libdt_socket.so
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/libdt_socket.so
+END
+libunpack.so
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/libunpack.so
+END
+jvm.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/jvm.cfg
+END
+libjpeg.so
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/libjpeg.so
+END
+libnio.so
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/libnio.so
+END
+librmi.so
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/librmi.so
+END
+libsaproc.so
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/libsaproc.so
+END
+libdcpr.so
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/libdcpr.so
+END
+libawt.so
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/libawt.so
+END
+libnative_chmod.so
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/libnative_chmod.so
+END
+libjsound.so
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/libjsound.so
+END
+libjsoundalsa.so
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/libjsoundalsa.so
+END
+libjawt.so
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/jre/lib/amd64/libjawt.so
+END

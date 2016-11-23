@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/injection
+END
+jndi.properties
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/injection/jndi.properties
+END
+injection.wiki
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/injection/injection.wiki
+END
+injection.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/injection/injection.html
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/injection/log4j.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/injection/build.xml
+END

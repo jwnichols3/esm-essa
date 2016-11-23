@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/resources/test/stateful
+END
+roles.properties
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/resources/test/stateful/roles.properties
+END
+statefulTest-ejb3-interceptors-aop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/resources/test/stateful/statefulTest-ejb3-interceptors-aop.xml
+END
+users.properties
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/resources/test/stateful/users.properties
+END

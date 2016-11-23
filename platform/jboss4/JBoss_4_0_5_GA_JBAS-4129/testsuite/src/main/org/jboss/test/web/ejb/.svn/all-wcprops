@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/web/ejb
+END
+InternalEntityBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/web/ejb/InternalEntityBean.java
+END
+StatelessSessionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/web/ejb/StatelessSessionBean.java
+END
+EntityBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/web/ejb/EntityBean.java
+END
+StatelessSessionBean2.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/web/ejb/StatelessSessionBean2.java
+END
+RunAsTargetBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/web/ejb/RunAsTargetBean.java
+END
+EntityFacadeBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/web/ejb/EntityFacadeBean.java
+END

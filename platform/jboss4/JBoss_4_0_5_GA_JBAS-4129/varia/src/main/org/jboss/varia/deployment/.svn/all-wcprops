@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/deployment
+END
+FoeDeployerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/deployment/FoeDeployerMBean.java
+END
+TestInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/deployment/TestInterface.java
+END
+BeanShellScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/deployment/BeanShellScript.java
+END
+ScriptService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/deployment/ScriptService.java
+END
+BeanShellSubDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/deployment/BeanShellSubDeployer.java
+END
+FoeDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/deployment/FoeDeployer.java
+END
+BeanShellSubDeployerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/deployment/BeanShellSubDeployerMBean.java
+END

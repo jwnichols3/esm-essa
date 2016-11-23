@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 2.0//EN" 
+    "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd">
+
+<hibernate-mapping
+
+>
+
+    <class
+            name="test.hibernate21.Product"
+            table="PRODUCTS"
+            dynamic-update="true"
+            discriminator-value="null"
+    >
+
+        <jcs-cache usage="read-only" />
+
+    <id
+        name="id"
+            column="id"
+            unsaved-value="null"
+    >
+            <meta
+                attribute="scope-get"
+            >
+                <![CDATA[protected]]>
+            </meta>
+
+            <meta
+                attribute="scope-set"
+            >
+                <![CDATA[protected]]>
+            </meta>
+
+    <!-- The generator-class attribute of @hibernate.id is deprecated, use the @hibernate.generator tag instead -->
+    <generator class="sequence">
+
+        <!-- The generator-param tag is deprecated, use the @hibernate.generator and @hibernate.param tags instead -->
+        <param
+                name="table"
+        >
+            <![CDATA[HIVAL]]>
+        </param>
+
+        <!-- The generator-param tag is deprecated, use the @hibernate.generator and @hibernate.param tags instead -->
+        <param
+                name="column"
+        >
+            <![CDATA[NEXT]]>
+        </param>
+
+    </generator>
+
+    </id>
+
+        <discriminator
+            column="PRODUCT_TYPE"
+            not-null="false"
+            type="string"
+            length="16"
+        />
+
+        <version
+            name="version"
+            column="version"
+            type="int"
+        />
+
+        <property
+            name="description"
+                    column="description"
+                length="512"
+        >
+
+        </property>
+
+        <property
+            name="code"
+                    column="code"
+                length="16"
+                unique="true"
+                update="false"
+        >
+
+        </property>
+
+        <property
+            name="image"
+                    column="image"
+                length="4096"
+        >
+
+        </property>
+
+        <property
+            name="price"
+                    column="price"
+        >
+
+        </property>
+
+        <property
+            name="updateComment"
+                    column="LAST_UPDATED_BY"
+        >
+
+        </property>
+
+        <map
+            name="parts"
+        >
+
+            <!-- @hibernate.collection-key tag is deprecated, use @hibernate.key instead -->
+            <key
+                column="product_id"
+            >
+
+            </key>
+
+    <!-- @hibernate.collection-composite-index tag is deprecated, use @hibernate.composite-index instead -->
+    <composite-index
+        class="test.hibernate21.PartId"
+    >
+
+            	<!-- Defining the key-property element from @hibernate.property tags is deprecated, use @hibernate.key-property instead -->
+                <key-property
+                    name="componentNumber"
+                    type="java.lang.Integer"
+                >
+
+            <column
+                name="component_num" 
+            />
+
+                </key-property>
+
+      	    <!-- Defining the key-many-to-one element from @hibernate.many-to-one tags is deprecated, use @hibernate.key-property instead -->
+            <key-many-to-one
+                name="product"
+                        class="test.hibernate21.Product"
+            >
+
+            <column
+                name="part_id" 
+            />
+
+            </key-many-to-one>
+
+    </composite-index>
+
+            <!-- @hibernate.collection-one-to-many tag is deprecated, use @hibernate.one-to-many instead -->
+            <one-to-many
+                  class="test.hibernate21.Part"
+            />
+
+        </map>
+
+        <property
+            name="created"
+                    type="timestamp"
+                    column="created"
+                update="false"
+                insert="true"
+        >
+            <meta
+                attribute="use-in-equals"
+            >
+                <![CDATA[true]]>
+            </meta>
+
+            <meta
+                attribute="use-in-tostring"
+            >
+                <![CDATA[true]]>
+            </meta>
+
+        </property>
+
+    <subclass
+        name="test.hibernate21.Pet"
+            discriminator-value="pet"
+    >
+
+        <one-to-one
+            name="animal"
+        >
+
+        </one-to-one>
+
+    </subclass>
+
+    <subclass
+        name="test.hibernate21.ImportedProduct"
+            discriminator-value="imported"
+            dynamic-update="true"
+            dynamic-insert="true"
+            select-before-update="false"
+    >
+
+        <property
+            name="origin"
+                    column="origin"
+                not-null="true"
+        >
+
+        </property>
+
+        <property
+            name="locale"
+                    column="locale"
+        >
+
+        </property>
+
+    <subclass
+        name="test.hibernate21.Contraband"
+            discriminator-value="contraband"
+    >
+
+    </subclass>
+
+    </subclass>
+
+    </class>    
+
+</hibernate-mapping>
+

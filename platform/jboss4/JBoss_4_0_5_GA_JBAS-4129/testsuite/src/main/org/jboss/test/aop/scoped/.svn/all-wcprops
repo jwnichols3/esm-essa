@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/scoped
+END
+ScopedTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/scoped/ScopedTester.java
+END
+ScopedMetadataLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/scoped/ScopedMetadataLoader.java
+END
+ScopedFactoryAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/scoped/ScopedFactoryAspect.java
+END
+ScopedAspectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/scoped/ScopedAspectFactory.java
+END
+ScopedTesterMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/scoped/ScopedTesterMBean.java
+END
+POJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/scoped/POJO.java
+END
+IntroducedPOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/scoped/IntroducedPOJO.java
+END
+ScopedMetadataBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/scoped/ScopedMetadataBinding.java
+END
+Scope1Interface.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/scoped/Scope1Interface.java
+END
+Scope2Interface.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/scoped/Scope2Interface.java
+END
+ScopedInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/scoped/ScopedInterceptor.java
+END
+ScopedAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/aop/scoped/ScopedAspect.java
+END

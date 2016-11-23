@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/shared/org/apache/derby/shared/common/error
+END
+ExceptionSeverity.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/shared/org/apache/derby/shared/common/error/ExceptionSeverity.java
+END
+ExceptionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/shared/org/apache/derby/shared/common/error/ExceptionUtil.java
+END

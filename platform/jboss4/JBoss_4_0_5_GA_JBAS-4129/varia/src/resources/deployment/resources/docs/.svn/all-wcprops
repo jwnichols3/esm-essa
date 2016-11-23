@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/resources/deployment/resources/docs
+END
+weblogic-ejb-jar-tags-61.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/resources/deployment/resources/docs/weblogic-ejb-jar-tags-61.xml
+END
+weblogic-cmp-rdbms-jar-tags-61.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/resources/deployment/resources/docs/weblogic-cmp-rdbms-jar-tags-61.xml
+END
+tags2html.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/resources/deployment/resources/docs/tags2html.xsl
+END

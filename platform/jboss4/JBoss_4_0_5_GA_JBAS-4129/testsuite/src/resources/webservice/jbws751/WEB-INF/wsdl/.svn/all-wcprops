@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/resources/webservice/jbws751/WEB-INF/wsdl
+END
+StatusRs.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/resources/webservice/jbws751/WEB-INF/wsdl/StatusRs.xsd
+END
+TransactionHistoryRq.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/resources/webservice/jbws751/WEB-INF/wsdl/TransactionHistoryRq.xsd
+END
+tran-entry-web-services.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/resources/webservice/jbws751/WEB-INF/wsdl/tran-entry-web-services.wsdl
+END
+TransactionHistoryRs.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/resources/webservice/jbws751/WEB-INF/wsdl/TransactionHistoryRs.xsd
+END
+tran-entry-abstract.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/resources/webservice/jbws751/WEB-INF/wsdl/tran-entry-abstract.wsdl
+END

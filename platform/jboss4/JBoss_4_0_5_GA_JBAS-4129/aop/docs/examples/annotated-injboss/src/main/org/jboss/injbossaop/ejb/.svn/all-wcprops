@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/docs/examples/annotated-injboss/src/main/org/jboss/injbossaop/ejb
+END
+ExampleSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/docs/examples/annotated-injboss/src/main/org/jboss/injbossaop/ejb/ExampleSession.java
+END
+ExampleSessionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/docs/examples/annotated-injboss/src/main/org/jboss/injbossaop/ejb/ExampleSessionBean.java
+END
+ExampleSessionHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/docs/examples/annotated-injboss/src/main/org/jboss/injbossaop/ejb/ExampleSessionHome.java
+END

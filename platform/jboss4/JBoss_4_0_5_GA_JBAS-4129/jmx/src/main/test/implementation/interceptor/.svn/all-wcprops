@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/implementation/interceptor
+END
+SharedInterceptorTEST.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/implementation/interceptor/SharedInterceptorTEST.java
+END
+InterceptorSUITE.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/implementation/interceptor/InterceptorSUITE.java
+END
+InterceptorTEST.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/implementation/interceptor/InterceptorTEST.java
+END

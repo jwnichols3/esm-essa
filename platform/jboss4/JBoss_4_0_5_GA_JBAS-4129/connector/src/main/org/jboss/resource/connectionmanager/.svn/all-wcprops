@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager
+END
+CachedConnectionManagerReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/CachedConnectionManagerReference.java
+END
+InternalManagedConnectionPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/InternalManagedConnectionPool.java
+END
+NoTxConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/NoTxConnectionManager.java
+END
+TransactionSynchronizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/TransactionSynchronizer.java
+END
+JBossLocalXAException.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/JBossLocalXAException.java
+END
+ConnectionFactoryBindingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/ConnectionFactoryBindingService.java
+END
+ConnectionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/ConnectionValidator.java
+END
+ConnectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/ConnectionListener.java
+END
+ConnectionFactoryBindingServiceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/ConnectionFactoryBindingServiceMBean.java
+END
+ManagedConnectionPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/ManagedConnectionPool.java
+END
+TxConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/TxConnectionManager.java
+END
+CachedConnectionInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/CachedConnectionInterceptor.java
+END
+NoTxConnectionManagerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/NoTxConnectionManagerMBean.java
+END
+BaseConnectionManager2.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/BaseConnectionManager2.java
+END
+PoolFiller.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/PoolFiller.java
+END
+JBossManagedConnectionPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/JBossManagedConnectionPool.java
+END
+TxConnectionManagerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/TxConnectionManagerMBean.java
+END
+BaseConnectionManager2MBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/BaseConnectionManager2MBean.java
+END
+JBossManagedConnectionPoolMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/JBossManagedConnectionPoolMBean.java
+END
+IdleRemover.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/IdleRemover.java
+END
+CachedConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/CachedConnectionManager.java
+END
+PreFillPoolSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/PreFillPoolSupport.java
+END
+RARDeployment.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/RARDeployment.java
+END
+CachedConnectionManagerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/CachedConnectionManagerMBean.java
+END
+JBossLocalXAExceptionFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/JBossLocalXAExceptionFormatter.java
+END
+RARDeploymentMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/RARDeploymentMBean.java
+END
+ConnectionCacheListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/ConnectionCacheListener.java
+END
+JBossLocalXAExceptionFormatterMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/JBossLocalXAExceptionFormatterMBean.java
+END
+ConnectionListenerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/ConnectionListenerFactory.java
+END
+ConnectionRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/connectionmanager/ConnectionRecord.java
+END

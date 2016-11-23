@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/applets/TicTacToe/audio
+END
+beep.au
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/applets/TicTacToe/audio/beep.au
+END
+return.au
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/applets/TicTacToe/audio/return.au
+END
+yahoo1.au
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/applets/TicTacToe/audio/yahoo1.au
+END
+ding.au
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/applets/TicTacToe/audio/ding.au
+END
+yahoo2.au
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/applets/TicTacToe/audio/yahoo2.au
+END

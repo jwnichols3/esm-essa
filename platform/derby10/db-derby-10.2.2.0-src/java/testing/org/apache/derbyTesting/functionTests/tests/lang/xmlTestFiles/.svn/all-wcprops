@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/lang/xmlTestFiles
+END
+personal.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/lang/xmlTestFiles/personal.xsd
+END
+dtdDoc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/lang/xmlTestFiles/dtdDoc.xml
+END
+xsdDoc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/lang/xmlTestFiles/xsdDoc.xml
+END
+wide40k.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/lang/xmlTestFiles/wide40k.xml
+END
+dtdDoc_invalid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/lang/xmlTestFiles/dtdDoc_invalid.xml
+END
+xsdDoc_invalid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/lang/xmlTestFiles/xsdDoc_invalid.xml
+END
+deep40k.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/lang/xmlTestFiles/deep40k.xml
+END
+personal.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/lang/xmlTestFiles/personal.dtd
+END

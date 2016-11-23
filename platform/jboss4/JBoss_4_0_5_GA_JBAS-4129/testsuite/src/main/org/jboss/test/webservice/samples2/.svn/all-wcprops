@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/samples2
+END
+OrderProcess_processOrder_RequestStruct.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/samples2/OrderProcess_processOrder_RequestStruct.java
+END
+OrderProcessBare.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/samples2/OrderProcessBare.java
+END
+OrderProcessDOCBareTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/samples2/OrderProcessDOCBareTestCase.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/samples2/Person.java
+END
+OrderProcessBareImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/samples2/OrderProcessBareImpl.java
+END
+OrderProcess_processOrder_ResponseStruct.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/samples2/OrderProcess_processOrder_ResponseStruct.java
+END
+OrderItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/samples2/OrderItem.java
+END
+OrderResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/samples2/OrderResponse.java
+END
+OrderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/samples2/OrderException.java
+END
+OrderProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/samples2/OrderProcess.java
+END
+OrderProcessRPCTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/samples2/OrderProcessRPCTestCase.java
+END
+OrderProcessImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/samples2/OrderProcessImpl.java
+END
+OrderProcessDOCTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/samples2/OrderProcessDOCTestCase.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/resources/cmp2/perf
+END
+jboss.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/resources/cmp2/perf/jboss.xml
+END
+jbosscmp-jdbc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/resources/cmp2/perf/jbosscmp-jdbc.xml
+END
+ejb-jar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/resources/cmp2/perf/ejb-jar.xml
+END

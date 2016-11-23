@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/upgradeTests
+END
+Upgrade_10_1_10_2.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/upgradeTests/Upgrade_10_1_10_2.java
+END
+copyfiles.ant
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/upgradeTests/copyfiles.ant
+END
+Upgrade_10_1_10_2_sed.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/upgradeTests/Upgrade_10_1_10_2_sed.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/upgradeTests/build.xml
+END
+UpgradeTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/upgradeTests/UpgradeTester.java
+END

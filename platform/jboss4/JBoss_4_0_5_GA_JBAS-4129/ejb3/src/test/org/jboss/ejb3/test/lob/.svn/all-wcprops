@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/test/org/jboss/ejb3/test/lob
+END
+LobTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/test/org/jboss/ejb3/test/lob/LobTester.java
+END
+LobTesterBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/test/org/jboss/ejb3/test/lob/LobTesterBean.java
+END
+BlobEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/test/org/jboss/ejb3/test/lob/BlobEntity.java
+END
+BlobEntity2.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/test/org/jboss/ejb3/test/lob/BlobEntity2.java
+END

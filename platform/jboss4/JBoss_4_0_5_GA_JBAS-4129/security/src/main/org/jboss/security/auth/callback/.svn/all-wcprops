@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/callback
+END
+ByteArrayCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/callback/ByteArrayCallback.java
+END
+ConsoleInputHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/callback/ConsoleInputHandler.java
+END
+UsernamePasswordHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/callback/UsernamePasswordHandler.java
+END
+SecurityAssociationCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/callback/SecurityAssociationCallback.java
+END
+SecurityAssociationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/callback/SecurityAssociationHandler.java
+END
+ObjectCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/callback/ObjectCallback.java
+END
+SecurityActions.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/callback/SecurityActions.java
+END
+MapCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/callback/MapCallback.java
+END
+AppCallbackHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/callback/AppCallbackHandler.java
+END
+CallbackHandlerPolicyContextHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/callback/CallbackHandlerPolicyContextHandler.java
+END

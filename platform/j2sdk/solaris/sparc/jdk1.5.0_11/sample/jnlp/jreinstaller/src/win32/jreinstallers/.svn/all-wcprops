@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/5/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/sample/jnlp/jreinstaller/src/win32/jreinstallers
+END
+WindowsInstaller.c
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/5/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/sample/jnlp/jreinstaller/src/win32/jreinstallers/WindowsInstaller.c
+END
+registry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/5/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/sample/jnlp/jreinstaller/src/win32/jreinstallers/registry.cpp
+END
+versionChecker.c
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/5/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/sample/jnlp/jreinstaller/src/win32/jreinstallers/versionChecker.c
+END

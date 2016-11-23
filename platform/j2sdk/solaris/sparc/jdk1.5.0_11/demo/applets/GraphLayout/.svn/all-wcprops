@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/applets/GraphLayout
+END
+example1.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/applets/GraphLayout/example1.html
+END
+example2.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/applets/GraphLayout/example2.html
+END
+example3.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/applets/GraphLayout/example3.html
+END
+Graph.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/applets/GraphLayout/Graph.java
+END
+example4.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/applets/GraphLayout/example4.html
+END
+GraphPanel.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/applets/GraphLayout/GraphPanel.class
+END
+Graph.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/applets/GraphLayout/Graph.class
+END
+Edge.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/applets/GraphLayout/Edge.class
+END
+Node.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/applets/GraphLayout/Node.class
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/services/property
+END
+PropertyValidation.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/services/property/PropertyValidation.java
+END
+PropertyUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/services/property/PropertyUtil.java
+END
+PropertyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/services/property/PropertyFactory.java
+END
+PersistentSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/services/property/PersistentSet.java
+END
+PropertySetCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/services/property/PropertySetCallback.java
+END

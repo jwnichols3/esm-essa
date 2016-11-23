@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/jobs
+END
+FileScanJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/jobs/FileScanJob.java
+END
+NativeJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/jobs/NativeJob.java
+END
+NoOpJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/jobs/NoOpJob.java
+END
+FileScanListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/jobs/FileScanListener.java
+END

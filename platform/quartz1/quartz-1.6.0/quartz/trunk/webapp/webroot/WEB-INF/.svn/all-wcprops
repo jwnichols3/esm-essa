@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/webapp/webroot/WEB-INF
+END
+securityfilter-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/webapp/webroot/WEB-INF/securityfilter-config.xml
+END
+sitemesh.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/webapp/webroot/WEB-INF/sitemesh.xml
+END
+decorators.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/webapp/webroot/WEB-INF/decorators.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/webapp/webroot/WEB-INF/applicationContext.xml
+END
+VM_global_library.vm
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/webapp/webroot/WEB-INF/VM_global_library.vm
+END
+velocity.properties
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/webapp/webroot/WEB-INF/velocity.properties
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/webapp/webroot/WEB-INF/web.xml
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/webapp/webroot/WEB-INF/.cvsignore
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/webapp/webroot/WEB-INF/log4j.xml
+END

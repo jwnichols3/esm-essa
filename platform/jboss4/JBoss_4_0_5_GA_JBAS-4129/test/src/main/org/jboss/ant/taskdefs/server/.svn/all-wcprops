@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/test/src/main/org/jboss/ant/taskdefs/server
+END
+StopServerTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/test/src/main/org/jboss/ant/taskdefs/server/StopServerTask.java
+END
+ConfigManagerTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/test/src/main/org/jboss/ant/taskdefs/server/ConfigManagerTask.java
+END
+StartServerTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/test/src/main/org/jboss/ant/taskdefs/server/StartServerTask.java
+END

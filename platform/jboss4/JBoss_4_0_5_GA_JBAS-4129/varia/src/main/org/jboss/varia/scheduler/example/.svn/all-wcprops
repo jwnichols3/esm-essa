@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/scheduler/example
+END
+SchedulableExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/scheduler/example/SchedulableExample.java
+END
+SchedulableMBeanExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/scheduler/example/SchedulableMBeanExample.java
+END
+SchedulableMBeanExampleMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/scheduler/example/SchedulableMBeanExampleMBean.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/scheduler/example/package.html
+END

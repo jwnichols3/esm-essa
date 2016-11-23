@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/ear
+END
+calculator.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/ear/calculator.jsp
+END
+ear.wiki
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/ear/ear.wiki
+END
+ear.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/ear/ear.html
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/ear/build.xml
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/ear/log4j.xml
+END

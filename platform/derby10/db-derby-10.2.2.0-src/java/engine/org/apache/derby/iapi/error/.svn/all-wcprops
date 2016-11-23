@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/error
+END
+StandardException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/error/StandardException.java
+END
+PassThroughException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/error/PassThroughException.java
+END
+PublicAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/error/PublicAPI.java
+END
+ExceptionSeverity.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/error/ExceptionSeverity.java
+END

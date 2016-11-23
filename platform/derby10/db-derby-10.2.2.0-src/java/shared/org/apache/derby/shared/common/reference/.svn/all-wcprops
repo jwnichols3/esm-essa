@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/shared/org/apache/derby/shared/common/reference
+END
+SQLState.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/shared/org/apache/derby/shared/common/reference/SQLState.java
+END
+MessageId.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/shared/org/apache/derby/shared/common/reference/MessageId.java
+END
+JDBC20Translation.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/shared/org/apache/derby/shared/common/reference/JDBC20Translation.java
+END
+Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/shared/org/apache/derby/shared/common/reference/Attribute.java
+END
+JDBC30Translation.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/shared/org/apache/derby/shared/common/reference/JDBC30Translation.java
+END
+JDBC40Translation.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/shared/org/apache/derby/shared/common/reference/JDBC40Translation.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/shared/org/apache/derby/shared/common/reference/package.html
+END

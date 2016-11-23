@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/test/org/jboss/ejb3/test/iiop
+END
+MySessionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/test/org/jboss/ejb3/test/iiop/MySessionBean.java
+END
+TxTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/test/org/jboss/ejb3/test/iiop/TxTester.java
+END
+MyStatefulBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/test/org/jboss/ejb3/test/iiop/MyStatefulBean.java
+END
+MyStatefulHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/test/org/jboss/ejb3/test/iiop/MyStatefulHome.java
+END
+TxTesterBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/test/org/jboss/ejb3/test/iiop/TxTesterBean.java
+END
+MySession.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/test/org/jboss/ejb3/test/iiop/MySession.java
+END
+HomedStatelessBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/test/org/jboss/ejb3/test/iiop/HomedStatelessBean.java
+END
+MyServiceBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/test/org/jboss/ejb3/test/iiop/MyServiceBean.java
+END
+MyStateful.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/test/org/jboss/ejb3/test/iiop/MyStateful.java
+END
+HomedStatelessHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/test/org/jboss/ejb3/test/iiop/HomedStatelessHome.java
+END

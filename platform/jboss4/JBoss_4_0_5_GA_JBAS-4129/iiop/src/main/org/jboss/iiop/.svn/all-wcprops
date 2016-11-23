@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/iiop
+END
+SunJDK14IsLocalBugFix.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/iiop/SunJDK14IsLocalBugFix.java
+END
+CorbaNamingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/iiop/CorbaNamingService.java
+END
+CorbaNamingServiceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/iiop/CorbaNamingServiceMBean.java
+END
+CorbaORB.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/iiop/CorbaORB.java
+END
+CorbaORBService.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/iiop/CorbaORBService.java
+END
+StubClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/iiop/StubClassLoader.java
+END
+WebCL.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/iiop/WebCL.java
+END
+CorbaORBServiceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/iiop/CorbaORBServiceMBean.java
+END

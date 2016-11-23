@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/jbws70
+END
+Hello_setVersion_RequestStruct.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/jbws70/Hello_setVersion_RequestStruct.java
+END
+Hello.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/jbws70/Hello.java
+END
+Hello_getVersion_RequestStruct.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/jbws70/Hello_getVersion_RequestStruct.java
+END
+Hello_setVersion_ResponseStruct.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/jbws70/Hello_setVersion_ResponseStruct.java
+END
+JBWS70TestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/jbws70/JBWS70TestCase.java
+END
+HelloJavaBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/jbws70/HelloJavaBean.java
+END
+Hello_getVersion_ResponseStruct.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/jbws70/Hello_getVersion_ResponseStruct.java
+END

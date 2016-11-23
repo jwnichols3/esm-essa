@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/src/test/org/jboss/test/aop/annotatedparams
+END
+Return.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/src/test/org/jboss/test/aop/annotatedparams/Return.java
+END
+Param.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/src/test/org/jboss/test/aop/annotatedparams/Param.java
+END
+ReturnType.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/src/test/org/jboss/test/aop/annotatedparams/ReturnType.java
+END
+ParamType.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/src/test/org/jboss/test/aop/annotatedparams/ParamType.java
+END
+POJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/src/test/org/jboss/test/aop/annotatedparams/POJO.java
+END
+SimpleInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/src/test/org/jboss/test/aop/annotatedparams/SimpleInterceptor.java
+END
+AnnotatedParamsTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/src/test/org/jboss/test/aop/annotatedparams/AnnotatedParamsTester.java
+END

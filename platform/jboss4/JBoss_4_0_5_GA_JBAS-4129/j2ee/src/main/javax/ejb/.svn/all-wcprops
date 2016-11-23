@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb
+END
+EJBMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/EJBMetaData.java
+END
+MessageDrivenContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/MessageDrivenContext.java
+END
+TimerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/TimerService.java
+END
+ObjectNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/ObjectNotFoundException.java
+END
+EJBContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/EJBContext.java
+END
+SessionSynchronization.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/SessionSynchronization.java
+END
+EJBHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/EJBHome.java
+END
+NoSuchEntityException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/NoSuchEntityException.java
+END
+TransactionRequiredLocalException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/TransactionRequiredLocalException.java
+END
+NoSuchObjectLocalException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/NoSuchObjectLocalException.java
+END
+EntityContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/EntityContext.java
+END
+MessageDrivenBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/MessageDrivenBean.java
+END
+FinderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/FinderException.java
+END
+TimedObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/TimedObject.java
+END
+Handle.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/Handle.java
+END
+EntityBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/EntityBean.java
+END
+DuplicateKeyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/DuplicateKeyException.java
+END
+TransactionRolledbackLocalException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/TransactionRolledbackLocalException.java
+END
+EJBLocalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/EJBLocalObject.java
+END
+HomeHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/HomeHandle.java
+END
+EnterpriseBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/EnterpriseBean.java
+END
+SessionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/SessionBean.java
+END
+RemoveException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/RemoveException.java
+END
+EJBException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/EJBException.java
+END
+Timer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/Timer.java
+END
+CreateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/CreateException.java
+END
+EJBLocalHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/EJBLocalHome.java
+END
+EJBObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/EJBObject.java
+END
+SessionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/SessionContext.java
+END
+AccessLocalException.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/AccessLocalException.java
+END
+TimerHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/ejb/TimerHandle.java
+END

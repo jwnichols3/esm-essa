@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/model
+END
+J2eeApplicationObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/model/J2eeApplicationObject.java
+END
+DDBeanRoot.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/model/DDBeanRoot.java
+END
+XpathEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/model/XpathEvent.java
+END
+DeployableObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/model/DeployableObject.java
+END
+XpathListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/model/XpathListener.java
+END
+DDBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/model/DDBean.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/model/package.html
+END

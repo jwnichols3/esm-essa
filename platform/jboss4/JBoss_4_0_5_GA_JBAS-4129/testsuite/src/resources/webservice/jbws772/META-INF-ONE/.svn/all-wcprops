@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/resources/webservice/jbws772/META-INF-ONE
+END
+jaxrpc-mapping.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/resources/webservice/jbws772/META-INF-ONE/jaxrpc-mapping.xml
+END
+webservices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/resources/webservice/jbws772/META-INF-ONE/webservices.xml
+END
+application.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/resources/webservice/jbws772/META-INF-ONE/application.xml
+END
+ejb-jar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/resources/webservice/jbws772/META-INF-ONE/ejb-jar.xml
+END
+jboss-client.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/resources/webservice/jbws772/META-INF-ONE/jboss-client.xml
+END
+application-client.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/resources/webservice/jbws772/META-INF-ONE/application-client.xml
+END

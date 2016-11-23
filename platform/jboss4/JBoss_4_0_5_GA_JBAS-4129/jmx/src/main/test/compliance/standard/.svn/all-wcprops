@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/compliance/standard
+END
+AttributeInfoTEST.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/compliance/standard/AttributeInfoTEST.java
+END
+ConstructorInfoTEST.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/compliance/standard/ConstructorInfoTEST.java
+END
+InheritanceSUITE.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/compliance/standard/InheritanceSUITE.java
+END
+StandardMBeanTEST.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/compliance/standard/StandardMBeanTEST.java
+END
+InfoUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/compliance/standard/InfoUtil.java
+END
+TrivialTEST.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/compliance/standard/TrivialTEST.java
+END
+InfoTortureSUITE.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/compliance/standard/InfoTortureSUITE.java
+END
+StandardSUITE.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/compliance/standard/StandardSUITE.java
+END
+OperationInfoTEST.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/compliance/standard/OperationInfoTEST.java
+END
+SpuriousAttributeTEST.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/compliance/standard/SpuriousAttributeTEST.java
+END

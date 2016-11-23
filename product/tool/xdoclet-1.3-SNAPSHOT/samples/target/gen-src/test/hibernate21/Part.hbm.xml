@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 2.0//EN" 
+    "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd">
+
+<hibernate-mapping
+
+>
+
+    <class
+            name="test.hibernate21.Part"
+            table="PARTS"
+            lazy="true"
+    >
+
+        <!-- Use of @hibernate.id for composite IDs is deprecated, use @hibernate.composite-id instead -->
+        <composite-id
+            name="partId"
+            class="test.hibernate21.PartId"
+        >
+
+            	<!-- Defining the key-property element from @hibernate.property tags is deprecated, use @hibernate.key-property instead -->
+                <key-property
+                    name="componentNumber"
+                    type="java.lang.Integer"
+                >
+
+            <column
+                name="component_num" 
+            />
+
+                </key-property>
+
+      	    <!-- Defining the key-many-to-one element from @hibernate.many-to-one tags is deprecated, use @hibernate.key-property instead -->
+            <key-many-to-one
+                name="product"
+                        class="test.hibernate21.Product"
+            >
+
+            <column
+                name="part_id" 
+            />
+
+            </key-many-to-one>
+
+        </composite-id>
+
+        <property
+            name="partName"
+        >
+
+            <column
+                name="part_id" 
+            />
+
+        </property>
+
+    </class>    
+
+</hibernate-mapping>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<project default="jar"
+         xmlns:ant="jelly:ant"
+         xmlns:j="jelly:core"
+         xmlns:maven="jelly:maven">
+
+    <ant:path id="confluence">
+        <ant:pathelement location="${confluence.home}/WEB-INF/classes" />
+    </ant:path>
+
+    <postGoal name="build:start">
+        <j:set var="confHome" value="${confluence.home}" />
+        <j:if test="${empty(confHome)}">
+            <ant:fail>
+The property 'confluence.home' is not set!  For the time being to compile this 
+application you need to set confluence.home either in ./build.properties or
+${user.home}/build.properties to the root of the confluence webapp in order to
+build this macro from source. 
+            </ant:fail>
+        </j:if>
+
+        <maven:addPath id="maven.dependency.classpath" refid="confluence" />
+    </postGoal>
+
+</project>

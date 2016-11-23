@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/il/uil2
+END
+SocketManagerHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/il/uil2/SocketManagerHandler.java
+END
+SocketManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/il/uil2/SocketManager.java
+END
+UILServerIL.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/il/uil2/UILServerIL.java
+END
+UILServerILService.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/il/uil2/UILServerILService.java
+END
+ServerSocketManagerHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/il/uil2/ServerSocketManagerHandler.java
+END
+UILServerILServiceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/il/uil2/UILServerILServiceMBean.java
+END
+UILClientIL.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/il/uil2/UILClientIL.java
+END
+UILServerILFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/il/uil2/UILServerILFactory.java
+END
+UILClientILService.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/il/uil2/UILClientILService.java
+END

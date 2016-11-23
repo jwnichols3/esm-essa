@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/invocation/jrmp/server
+END
+JRMPProxyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/invocation/jrmp/server/JRMPProxyFactory.java
+END
+JRMPProxyFactoryMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/invocation/jrmp/server/JRMPProxyFactoryMBean.java
+END
+JRMPInvoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/invocation/jrmp/server/JRMPInvoker.java
+END
+JRMPInvokerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/invocation/jrmp/server/JRMPInvokerMBean.java
+END

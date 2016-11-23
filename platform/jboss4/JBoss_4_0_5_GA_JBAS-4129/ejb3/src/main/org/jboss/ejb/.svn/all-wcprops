@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb
+END
+InterceptorsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb/InterceptorsImpl.java
+END
+TransactionManagementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb/TransactionManagementImpl.java
+END
+ApplicationExceptionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb/ApplicationExceptionImpl.java
+END
+ResourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb/ResourceImpl.java
+END
+StatefulImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb/StatefulImpl.java
+END
+RunAsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb/RunAsImpl.java
+END
+DenyAllImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb/DenyAllImpl.java
+END
+PermitAllImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb/PermitAllImpl.java
+END
+LocalImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb/LocalImpl.java
+END
+PostConstructImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb/PostConstructImpl.java
+END
+RemoteImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb/RemoteImpl.java
+END
+MessageDrivenImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb/MessageDrivenImpl.java
+END
+RolesAllowedImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb/RolesAllowedImpl.java
+END
+ActivationConfigPropertyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb/ActivationConfigPropertyImpl.java
+END
+RemoveImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb/RemoveImpl.java
+END
+PreDestroyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb/PreDestroyImpl.java
+END
+InitImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb/InitImpl.java
+END
+DeclareRolesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb/DeclareRolesImpl.java
+END
+AroundInvokeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb/AroundInvokeImpl.java
+END
+PostActivateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb/PostActivateImpl.java
+END
+PrePassivateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb/PrePassivateImpl.java
+END
+StatelessImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb/StatelessImpl.java
+END
+RolesReferencedImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb/RolesReferencedImpl.java
+END
+TransactionAttributeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb/TransactionAttributeImpl.java
+END

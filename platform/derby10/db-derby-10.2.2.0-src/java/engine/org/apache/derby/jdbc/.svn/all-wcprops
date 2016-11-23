@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/jdbc
+END
+EmbedPooledConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/jdbc/EmbedPooledConnection.java
+END
+Driver40.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/jdbc/Driver40.java
+END
+EmbeddedXADataSource40.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/jdbc/EmbeddedXADataSource40.java
+END
+EmbedPooledConnection40.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/jdbc/EmbedPooledConnection40.java
+END
+EmbeddedDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/jdbc/EmbeddedDataSource.java
+END
+EmbeddedDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/jdbc/EmbeddedDriver.java
+END
+EmbeddedDataSource40.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/jdbc/EmbeddedDataSource40.java
+END
+ResourceAdapterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/jdbc/ResourceAdapterImpl.java
+END
+EmbedXAResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/jdbc/EmbedXAResource.java
+END
+EmbeddedSimpleDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/jdbc/EmbeddedSimpleDataSource.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/jdbc/build.xml
+END
+EmbeddedConnectionPoolDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/jdbc/EmbeddedConnectionPoolDataSource.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/jdbc/package.html
+END
+XATransactionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/jdbc/XATransactionState.java
+END
+EmbeddedConnectionPoolDataSource40.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/jdbc/EmbeddedConnectionPoolDataSource40.java
+END
+EmbedXAConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/jdbc/EmbedXAConnection.java
+END
+InternalDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/jdbc/InternalDriver.java
+END
+EmbedXAConnection40.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/jdbc/EmbedXAConnection40.java
+END
+Driver169.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/jdbc/Driver169.java
+END
+ReferenceableDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/jdbc/ReferenceableDataSource.java
+END
+AutoloadedDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/jdbc/AutoloadedDriver.java
+END
+Driver20.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/jdbc/Driver20.java
+END
+EmbeddedXADataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/jdbc/EmbeddedXADataSource.java
+END
+Driver30.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/jdbc/Driver30.java
+END
+XAStatementControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/jdbc/XAStatementControl.java
+END

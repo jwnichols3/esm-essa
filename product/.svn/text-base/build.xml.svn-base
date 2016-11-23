@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Title: build.xml
+Description: Build for ESM ESSA 
+Development Environment: Apache Ant 1.6.5
+Author: G.S. Cole (guycole at gmail dot com)
+-->
+
+<project name="essa" default="compile" basedir=".">
+  <property file="./ant.properties"/>
+
+  <property name="Name" value="ESSA"/>
+  <property name="version" value="1.0"/>
+
+  <property name="support.jar" value="support.jar"/>
+
+  <property name="project.dir" value="${product.dir}"/>
+
+  <property name="etc.dir" value="${project.dir}/etc"/>
+
+  <property name="lib.dir" value="${project.dir}/lib"/>
+
+  <property name="jboss.server.deploy.dir" value="${jboss.home.dir}/server/${jboss.configuration}/deploy"/>
+  <property name="jboss.server.lib.dir" value="${jboss.home.dir}/server/${jboss.configuration}/lib"/>
+
+  <!-- =================================================================== -->
+  <!-- Initialization                                                      -->
+  <!-- =================================================================== -->
+  <target name="init" description="Initialization">
+    <tstamp/>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- Environment Report                                                  -->
+  <!-- =================================================================== -->
+  <target name="env-report" depends="init" description="Environment Report">
+    <echo message="base.dir = ${base.dir}"/>
+    <echo message="project.dir = ${project.dir}"/>
+
+    <echo message="jndi.base = ${jndi.base}"/>
+
+    <ant inheritAll="false" antfile="build.xml" dir="${product.shared.dir}" target="env_report"/>
+    <ant inheritAll="false" antfile="build.xml" dir="${product.jboss.dir}" target="env_report"/>
+    <ant inheritAll="false" antfile="build.xml" dir="${product.struts.dir}/WEB-INF" target="env_report"/>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- Remove The Current Build                                            -->
+  <!-- =================================================================== -->
+  <target name="clean" depends="init" description="Delete Generated Items">
+    <delete dir="${product.javadoc.dir}"/>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- Remove The Current Build                                            -->
+  <!-- =================================================================== -->
+  <target name="clean-all" depends="init" description="Delete Generated Items">
+    <delete dir="${product.javadoc.dir}"/>
+
+    <delete file="${product.blessed.dir}/${product.instrument.sar}"/>
+    <delete file="${product.blessed.dir}/${product.pruner.sar}"/>
+    <delete file="${product.blessed.dir}/${product.jboss.ear}"/>
+    <delete file="${product.blessed.dir}/${product.jboss.har}"/>
+    <delete file="${product.blessed.dir}/${product.jboss.client.jar}"/>
+    <delete file="${product.blessed.dir}/${product.jboss.server.jar}"/>
+    <delete file="${product.blessed.dir}/${product.struts.war}"/>
+    <delete file="${product.blessed.dir}/${product.shared.jar}"/>
+    <delete file="${product.blessed.dir}/${support.jar}"/>
+
+    <ant inheritAll="false" antfile="build.xml" dir="${product.shared.dir}" target="clean"/>
+    <ant inheritAll="false" antfile="build.xml" dir="${product.jboss.dir}" target="clean"/>
+    <ant inheritAll="false" antfile="build.xml" dir="${product.struts.dir}/WEB-INF" target="clean"/>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- Build ESSA Application From Scratch                                 -->
+  <!-- =================================================================== -->
+  <target name="build-all" depends="clean-all" description="Clean And ReCompile">
+    <ant inheritAll="false" antfile="build.xml" dir="${product.shared.dir}" target="blessed"/>
+    <ant inheritAll="false" antfile="build.xml" dir="${product.jboss.dir}" target="blessed"/>
+    <ant inheritAll="false" antfile="build.xml" dir="${product.struts.dir}/WEB-INF" target="blessed"/>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- Package 3rd Party Support JAR                                       -->
+  <!-- =================================================================== -->
+  <target name="jar" depends="init" description="Package 3rd Party JAR">
+    <delete file="${product.blessed.dir}/${support.jar}"/>
+
+    <tstamp>
+      <format property="TIME_NOW" pattern="yyyy-MM-dd HH:mm"/>
+    </tstamp>
+
+    <jar jarfile="${product.blessed.dir}/${support.jar}" index="true">
+      <manifest>
+        <attribute name="Built-By" value="${user.name}"/>
+        <attribute name="Build-On" value="${TIME_NOW}"/>
+      </manifest>
+
+      <fileset dir="${lib.dir}" includes="commons-chain-1.1.jar"/>
+      <fileset dir="${lib.dir}" includes="commons-digester-1.6.jar"/>
+      <fileset dir="${product.blessed.dir}" includes="${product.shared.jar}"/>
+    </jar>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- Package ESSA EAR                                                    -->
+  <!-- =================================================================== -->
+  <target name="ear" depends="jar" description="Package ESSA EAR">
+    <delete file="${product.blessed.dir}/${product.jboss.ear}"/>
+
+    <tstamp>
+      <format property="TIME_NOW" pattern="yyyy-MM-dd HH:mm"/>
+    </tstamp>
+
+    <ear destfile="${product.blessed.dir}/${product.jboss.ear}" appxml="${etc.dir}/ear/application.xml">
+      <fileset dir="${product.blessed.dir}" includes="${support.jar}"/>
+      <fileset dir="${product.blessed.dir}" includes="*server.jar"/>
+      <fileset dir="${product.blessed.dir}" includes="**/*.har"/>
+      <fileset dir="${product.blessed.dir}" includes="**/*.war"/>
+
+      <metainf dir="${etc.dir}/ear">
+        <include name="jboss-app.xml"/>
+      </metainf>
+    </ear>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- Deploy EAR to JBoss                                                 -->
+  <!-- =================================================================== -->
+  <target name="deploy" depends="ear" description="Deploy EAR To JBoss">
+    <copy file="${product.blessed.dir}/${product.jboss.ear}" todir="${jboss.server.deploy.dir}"/>
+    <copy file="${product.blessed.dir}/${product.instrument.sar}" todir="${jboss.server.deploy.dir}"/>
+    <copy file="${product.blessed.dir}/${product.pruner.sar}" todir="${jboss.server.deploy.dir}"/>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- Build And Deploy JNI                                                -->
+  <!-- =================================================================== -->
+  <target name="deploy-jni" depends="init" description="Build/Deploy JNI">
+    <ant inheritAll="false" antfile="build.xml" dir="${product.jboss.dir}" target="jni-deploy"/>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- Shared Junit Tests                                                 -->
+  <!-- =================================================================== -->
+  <target name="junit-shared" depends="init" description="Shared Unit Tests">
+    <ant inheritAll="false" antfile="build.xml" dir="${product.shared.dir}" target="junit"/>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- JBoss Junit Tests                                                   -->
+  <!-- =================================================================== -->
+  <target name="junit-jboss" depends="init" description="JBoss Unit Tests">
+    <ant inheritAll="false" antfile="build.xml" dir="${product.jboss.dir}" target="junit"/>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- All Junit Tests                                                     -->
+  <!-- =================================================================== -->
+  <target name="junit-all" depends="junit-shared, junit-jboss" description="All Unit Tests">
+    <!-- empty -->
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- JavaDoc                                                             -->
+  <!-- =================================================================== -->
+  <target name="javadoc" depends="init">
+    <delete dir="${product.javadoc.dir}"/>
+    <mkdir dir="${product.javadoc.dir}"/>
+ 
+    <javadoc sourcepath="${product.shared.dir}/src:${product.jboss.dir}/src:${product.jboss.dir}/build/src:${product.struts.dir}/WEB-INF/src"
+      destdir="${product.javadoc.dir}"
+      classpath="${jbossall_client.jar}:${jboss_logging.jar}:${jboss.server.lib.dir}/hibernate3.jar:${commons_chain.jar}:${product.struts.dir}/WEB-INF/lib/struts.jar:${tomcat.servlet.jar}"
+      packagenames="*"
+      author="true"
+      version="true"
+      private="true"
+      windowtitle="ESM ESSA API Documentation"
+      doctitle="&lt;h1&gt;ESM ESSA Documentation&lt;/h1&gt;">
+
+      <!-- =============================================================== -->
+      <!-- javadoc.tags contains custom tags to avoid unknown tag warnings -->
+      <!-- format is tagname:flags:taghead                                 -->
+      <!-- flags control where a tag is allowed:                           -->
+      <!--   X, disable tag                                                -->
+      <!--   a, all                                                        -->
+      <!--   o, overview                                                   -->
+      <!--   p, packages                                                   -->
+      <!--   t, types (classes and interfaces)                             -->
+      <!--   c, constructors                                               -->
+      <!--   m, methods                                                    -->
+      <!--   f, fields                                                     -->
+      <!-- =============================================================== -->
+      <tag dir="${product.etc.dir}" includes="javadoc.tags"/>
+    </javadoc>
+  </target>
+</project>

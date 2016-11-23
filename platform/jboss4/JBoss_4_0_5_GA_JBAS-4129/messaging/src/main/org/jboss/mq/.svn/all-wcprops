@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq
+END
+Connection.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/Connection.java
+END
+SpyXAResourceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyXAResourceManager.java
+END
+SpyEncapsulatedMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyEncapsulatedMessage.java
+END
+SpyXAConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyXAConnectionFactory.java
+END
+SpyDestination.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyDestination.java
+END
+SpyTemporaryTopic.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyTemporaryTopic.java
+END
+SpyTopicSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyTopicSession.java
+END
+SpyMapMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyMapMessage.java
+END
+MessagePool.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/MessagePool.java
+END
+SpySession.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpySession.java
+END
+SpyMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyMessage.java
+END
+SpyTemporaryQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyTemporaryQueue.java
+END
+SpyQueueSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyQueueSession.java
+END
+GenericConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/GenericConnectionFactory.java
+END
+SpyBytesMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyBytesMessage.java
+END
+SpyTopicPublisher.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyTopicPublisher.java
+END
+MessageStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/MessageStatistics.java
+END
+ConnectionToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/ConnectionToken.java
+END
+DurableSubscriptionID.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/DurableSubscriptionID.java
+END
+SpyJMSException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyJMSException.java
+END
+SpyQueueReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyQueueReceiver.java
+END
+SpyConnectionConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyConnectionConsumer.java
+END
+SpyObjectMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyObjectMessage.java
+END
+SpyTopic.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyTopic.java
+END
+SpyXAResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyXAResource.java
+END
+SpyQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyQueue.java
+END
+AcknowledgementRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/AcknowledgementRequest.java
+END
+SpyQueueSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyQueueSender.java
+END
+JBossMQXid.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/JBossMQXid.java
+END
+DestinationFullException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/DestinationFullException.java
+END
+SpyTransactionRolledBackException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyTransactionRolledBackException.java
+END
+SpyXAException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyXAException.java
+END
+SpyConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyConnectionFactory.java
+END
+Subscription.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/Subscription.java
+END
+SpyQueueBrowser.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyQueueBrowser.java
+END
+SpyMessageProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyMessageProducer.java
+END
+SpyXAConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyXAConnection.java
+END
+SpyTextMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyTextMessage.java
+END
+SpyConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyConsumer.java
+END
+Recoverable.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/Recoverable.java
+END
+SpyConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyConnection.java
+END
+ReceiveRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/ReceiveRequest.java
+END
+SpyStreamMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyStreamMessage.java
+END
+SpyMessageConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyMessageConsumer.java
+END
+SpyConnectionMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyConnectionMetaData.java
+END
+SpyTopicSubscriber.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/SpyTopicSubscriber.java
+END
+TransactionRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/TransactionRequest.java
+END

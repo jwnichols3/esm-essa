@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/jms/asf
+END
+StdServerSessionPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/jms/asf/StdServerSessionPool.java
+END
+StdServerSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/jms/asf/StdServerSession.java
+END
+StdServerSessionPoolFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/jms/asf/StdServerSessionPoolFactory.java
+END
+ServerSessionPoolLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/jms/asf/ServerSessionPoolLoader.java
+END
+ServerSessionPoolFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/jms/asf/ServerSessionPoolFactory.java
+END
+ServerSessionPoolLoaderMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/jms/asf/ServerSessionPoolLoaderMBean.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/jms/asf/package.html
+END

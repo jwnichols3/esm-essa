@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/GraphicsTest
+END
+example1.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/GraphicsTest/example1.html
+END
+AppletFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/GraphicsTest/AppletFrame.java
+END
+GraphicsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/GraphicsTest/GraphicsTest.java
+END
+GraphicsCards.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/GraphicsTest/GraphicsCards.class
+END
+RectShape.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/GraphicsTest/RectShape.class
+END
+GraphicsPanel.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/GraphicsTest/GraphicsPanel.class
+END
+OvalShape.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/GraphicsTest/OvalShape.class
+END
+ArcPanel.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/GraphicsTest/ArcPanel.class
+END
+RoundRectShape.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/GraphicsTest/RoundRectShape.class
+END
+ArcCard.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/GraphicsTest/ArcCard.class
+END
+ColorUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/GraphicsTest/ColorUtils.class
+END
+ShapeTest.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/GraphicsTest/ShapeTest.class
+END
+Shape.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/GraphicsTest/Shape.class
+END
+GraphicsTest.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/GraphicsTest/GraphicsTest.class
+END
+AppletFrame.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/GraphicsTest/AppletFrame.class
+END
+ArcDegreePanel.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/GraphicsTest/ArcDegreePanel.class
+END
+PolygonShape.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/GraphicsTest/PolygonShape.class
+END

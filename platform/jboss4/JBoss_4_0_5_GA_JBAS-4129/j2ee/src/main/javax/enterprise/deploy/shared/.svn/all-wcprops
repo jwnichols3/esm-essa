@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/shared
+END
+ActionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/shared/ActionType.java
+END
+CommandType.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/shared/CommandType.java
+END
+StateType.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/shared/StateType.java
+END
+DConfigBeanVersionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/shared/DConfigBeanVersionType.java
+END
+ModuleType.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/shared/ModuleType.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/shared/package.html
+END

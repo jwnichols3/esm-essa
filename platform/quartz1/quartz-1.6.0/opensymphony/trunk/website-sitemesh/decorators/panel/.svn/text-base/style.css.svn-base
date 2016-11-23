@@ -1,0 +1,98 @@
+.panelDark .top, .panelLight .top {
+	height: 29px;
+	width: 213px;
+}
+
+.panelDark .title, .panelLight .title {
+	position: relative;
+	top: 3px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 12pt;
+}
+
+.panelDark .top {
+	background: url(dark-top.gif) bottom left no-repeat; 
+	color: #fff;	
+}
+
+.panelLight .top {
+	background: url(light-top.gif) bottom left no-repeat; 
+	color: #036;	
+}
+
+.panelDark .bottom, .panelLight .bottom {
+	height: 11px;
+}
+
+.panelDark .bottom {
+	background: url(dark-bottom.gif) top left no-repeat; 
+}
+
+.panelLight .bottom {
+	background: url(light-bottom.gif) top left no-repeat; 
+}
+
+.panelDark .body, .panelLight .body {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.panelDark .body {
+	background: url(dark-background.gif) top left repeat-y; 
+	background-color: #ffc;
+}
+
+.panelLight .body {
+	background: url(light-background.gif) top left repeat-y; 
+}
+
+.panelDark .icon, .panelLight .icon {
+	float: left; 	
+	padding-top: 10px;
+	padding-right: 0px;
+	margin: 0px;
+	width: 65px;
+	text-align: center;
+}
+
+.panelDark .subheading, .panelLight .subheading {
+	font-size: 11pt;
+	font-weight: bold;
+	width: 120px;
+	margin-left: 67px;
+	padding: 0px;
+}
+
+.panelDark .text, .panelLight .text,
+.panelDark .textEmpty, .panelLight .textEmpty {
+	font-size: 9pt;
+	width: 192px;
+	margin-left: 0px;
+	padding-bottom: 5px;
+	border: 1px solid #ffc; /* strange IE thing - without it, there's a blank white bit at the top of the inner panel */
+	color: #333;
+}
+
+
+.panelDark .text ul, .panelLight .text ul, .panelDark .text li, .panelLight .text li {
+	margin-left: 0px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	padding: 0px;
+	list-style-type: none;
+	
+}
+
+.panelDark .footer, .panelLight .footer {
+	clear: all;
+	font-size: 9pt;
+	font-weight: bold;
+	text-align: center;
+	width: 189px;
+}
+
+.panelDark .body h3, .panelLight .body h3 {
+	font-size: 10pt;
+	margin-top: 3px;
+}

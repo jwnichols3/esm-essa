@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/docbook-support/styles/en
+END
+html_chunk.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/docbook-support/styles/en/html_chunk.xsl
+END
+fopdf.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/docbook-support/styles/en/fopdf.xsl
+END
+html.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/docbook-support/styles/en/html.xsl
+END
+html.css
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/docbook-support/styles/en/html.css
+END

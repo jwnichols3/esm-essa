@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/metadata/serviceref
+END
+PortComponentRefMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/metadata/serviceref/PortComponentRefMetaData.java
+END
+InitParamMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/metadata/serviceref/InitParamMetaData.java
+END
+ServiceRefMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/metadata/serviceref/ServiceRefMetaData.java
+END
+HandlerMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/metadata/serviceref/HandlerMetaData.java
+END

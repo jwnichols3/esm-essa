@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/value/jbxb/test
+END
+NoPropertyValue_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/value/jbxb/test/NoPropertyValue_install.xml
+END
+PropertyNotFound_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/value/jbxb/test/PropertyNotFound_bad.xml
+END
+Basic_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/value/jbxb/test/Basic_install.xml
+END
+NoPropertyName_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/value/jbxb/test/NoPropertyName_bad.xml
+END
+ClassNotFound_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/value/jbxb/test/ClassNotFound_bad.xml
+END
+EmptyPropertyName_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/value/jbxb/test/EmptyPropertyName_bad.xml
+END
+ErrorInProperty_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/value/jbxb/test/ErrorInProperty_bad.xml
+END
+ErrorInConstructor_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/value/jbxb/test/ErrorInConstructor_bad.xml
+END
+NoPropertyEditor_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/value/jbxb/test/NoPropertyEditor_bad.xml
+END
+AbstractClass_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/value/jbxb/test/AbstractClass_bad.xml
+END

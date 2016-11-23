@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/main/org/jboss/system/filterfactory
+END
+NotificationFilterSupportFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/main/org/jboss/system/filterfactory/NotificationFilterSupportFactory.java
+END
+DeploymentInfoNotificationFilterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/main/org/jboss/system/filterfactory/DeploymentInfoNotificationFilterFactory.java
+END
+AttributeChangeNotificationFilterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/main/org/jboss/system/filterfactory/AttributeChangeNotificationFilterFactory.java
+END
+MBeanServerNotificationFilterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/main/org/jboss/system/filterfactory/MBeanServerNotificationFilterFactory.java
+END

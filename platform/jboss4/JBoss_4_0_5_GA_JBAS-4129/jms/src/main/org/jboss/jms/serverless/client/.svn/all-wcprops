@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jms/src/main/org/jboss/jms/serverless/client
+END
+CommonInterfaceQueueSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jms/src/main/org/jboss/jms/serverless/client/CommonInterfaceQueueSender.java
+END
+CommonInterfaceQueueReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jms/src/main/org/jboss/jms/serverless/client/CommonInterfaceQueueReceiver.java
+END
+CommonInterfacePublisher.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jms/src/main/org/jboss/jms/serverless/client/CommonInterfacePublisher.java
+END
+Interactive.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jms/src/main/org/jboss/jms/serverless/client/Interactive.java
+END
+CommonInterfaceSubscriber.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jms/src/main/org/jboss/jms/serverless/client/CommonInterfaceSubscriber.java
+END

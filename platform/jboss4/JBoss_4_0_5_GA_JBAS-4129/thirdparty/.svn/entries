@@ -1,0 +1,322 @@
+10
+
+dir
+1460
+https://esm-essa.bgidev.net/svn/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/thirdparty
+https://esm-essa.bgidev.net/svn/esm-essa
+
+
+
+2007-04-10T19:31:29.206915Z
+15
+coleguy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8c14f0ad-622d-0410-be72-f8c38c5cac15
+
+jboss
+dir
+
+apache-xalan
+dir
+
+gjt-jpl-util
+dir
+
+apache-jaxme
+dir
+
+.project
+file
+
+
+
+
+2010-07-19T19:40:15.792504Z
+c78381cf2991e7433678083fd9b1aed6
+2007-04-10T19:31:29.206915Z
+15
+coleguy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+214
+
+apache-discovery
+dir
+
+sun-servlet
+dir
+
+hibernate-annotations
+dir
+
+objectweb-joramtests
+dir
+
+sun-jaf
+dir
+
+apache-logging
+dir
+
+licenses
+dir
+
+jaxen
+dir
+
+apache-tomcat
+dir
+
+javassist
+dir
+
+junitejb
+dir
+
+joesnmp
+dir
+
+apache-scout
+dir
+
+wutka-dtdparser
+dir
+
+oswego-concurrent
+dir
+
+quartz
+dir
+
+apache-avalon-logkit
+dir
+
+xml-sax
+dir
+
+junit
+dir
+
+gnu-getopt
+dir
+
+apache-codec
+dir
+
+apache-log4j
+dir
+
+apache-avalon
+dir
+
+apache-lang
+dir
+
+hibernate
+dir
+
+libraries.ent
+file
+
+
+
+
+2010-07-19T19:40:15.792504Z
+b4923444d8c324811754dfc6bc858232
+2007-04-10T19:31:29.206915Z
+15
+coleguy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+34981
+
+xdoclet
+dir
+
+apache-modeler
+dir
+
+apache-myfaces
+dir
+
+apache-xmlsec
+dir
+
+dom4j
+dir
+
+apache-slide
+dir
+
+cglib
+dir
+
+apache-bcel
+dir
+
+apache-digester
+dir
+
+apache-bsf
+dir
+
+apache-wss4j
+dir
+
+jgroups
+dir
+
+apache-httpclient
+dir
+
+beanshell
+dir
+
+jacorb
+dir
+
+apache-addressing
+dir
+
+apache-beanutils
+dir
+
+hibernate-entitymanager
+dir
+
+commons-el
+dir
+
+ibm-wsdl4j
+dir
+
+hsqldb
+dir
+
+apache-velocity
+dir
+
+antlr
+dir
+
+odmg
+dir
+
+sun-javamail
+dir
+
+apache-pool
+dir
+
+sleepycat
+dir
+
+sun-javacc
+dir
+
+apache-collections
+dir
+
+juddi
+dir
+
+trove
+dir
+
+apache-fileupload
+dir
+
+apache-xerces
+dir
+
+qdox
+dir
+
+readme.txt
+file
+
+
+
+
+2010-07-19T19:40:15.823754Z
+b58de78e9618f9f0531fb0a360d697e6
+2007-04-10T19:31:29.206915Z
+15
+coleguy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+279
+
+jfreechart
+dir
+

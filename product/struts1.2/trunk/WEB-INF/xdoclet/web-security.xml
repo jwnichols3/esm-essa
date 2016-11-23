@@ -1,0 +1,74 @@
+<!--
+  Title: web-security.xml
+  Description: Web application security configuration (as a XDoclet merge point)
+  Development Environment: Jakarta Struts 1.2.9, XDoclet 1.3-SNAPSHOT
+  Author: G.S. Cole (guycole at gmail dot com)
+-->
+
+<!--
+<security-constraint>
+  <display-name>demo display name</display-name>
+
+  <web-resource-collection>
+    <web-resource-name>demo user</web-resource-name>
+    <description>web resource description</description>
+    <url-pattern>/user/*</url-pattern>
+    <url-pattern>/jsp/user/*</url-pattern>
+    <http-method>DELETE</http-method>
+    <http-method>GET</http-method>
+    <http-method>POST</http-method>
+    <http-method>PUT</http-method>
+  </web-resource-collection>
+
+  <auth-constraint>
+    <role-name>demo_user</role-name>
+    <role-name>demo_admin</role-name>
+  </auth-constraint>
+
+  <user-data-constraint>
+    <description>user data description</description>
+    <transport-guarantee>NONE</transport-guarantee>
+  </user-data-constraint>
+</security-constraint>
+
+<security-constraint>
+  <display-name>demo admin</display-name>
+
+  <web-resource-collection>
+    <web-resource-name>protected resource name</web-resource-name>
+    <description>web resource description</description>
+    <url-pattern>/jsp/user/*</url-pattern>
+    <url-pattern>/jsp/admin/*</url-pattern>
+    <http-method>DELETE</http-method>
+    <http-method>GET</http-method>
+    <http-method>POST</http-method>
+    <http-method>PUT</http-method>
+  </web-resource-collection>
+
+  <auth-constraint>
+    <role-name>demo_admin</role-name>
+  </auth-constraint>
+
+  <user-data-constraint>
+    <description>user data description</description>
+    <transport-guarantee>NONE</transport-guarantee>
+  </user-data-constraint>
+</security-constraint>
+
+<login-config>
+  <auth-method>FORM</auth-method>
+  <realm-name>Demo Authentication</realm-name>
+  <form-login-config>
+    <form-login-page>/jsp/public/logon1.jsp</form-login-page>
+    <form-error-page>/jsp/public/accessDenied.jsp</form-error-page>
+  </form-login-config>
+</login-config>
+
+<security-role>
+  <role-name>demo_admin</role-name>
+</security-role>
+
+<security-role>
+  <role-name>demo_user</role-name>
+</security-role>
+-->

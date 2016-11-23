@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/examples/src/java/org/quartz/examples/example6
+END
+BadJob1.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/examples/src/java/org/quartz/examples/example6/BadJob1.java
+END
+BadJob2.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/examples/src/java/org/quartz/examples/example6/BadJob2.java
+END
+JobExceptionExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/examples/src/java/org/quartz/examples/example6/JobExceptionExample.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/compliance/metadata
+END
+MBeanOperationInfoTEST.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/compliance/metadata/MBeanOperationInfoTEST.java
+END
+MBeanParameterInfoTEST.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/compliance/metadata/MBeanParameterInfoTEST.java
+END
+MBeanAttributeInfoTEST.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/compliance/metadata/MBeanAttributeInfoTEST.java
+END
+MBeanConstructorInfoTEST.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/compliance/metadata/MBeanConstructorInfoTEST.java
+END
+MBeanNotificationInfoTEST.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/compliance/metadata/MBeanNotificationInfoTEST.java
+END
+MBeanFeatureInfoTEST.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/compliance/metadata/MBeanFeatureInfoTEST.java
+END
+MetaDataSUITE.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/compliance/metadata/MetaDataSUITE.java
+END
+MBeanInfoTEST.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/compliance/metadata/MBeanInfoTEST.java
+END

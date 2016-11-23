@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/security
+END
+SecurityDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/security/SecurityDomain.java
+END
+RunAsSecurityInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/security/RunAsSecurityInterceptor.java
+END
+RoleBasedAuthorizationInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/security/RoleBasedAuthorizationInterceptor.java
+END
+SecurityConstructorConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/security/SecurityConstructorConfig.java
+END
+Permissions.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/security/Permissions.java
+END
+SecurityContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/security/SecurityContext.java
+END
+SecurityClientInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/security/SecurityClientInterceptor.java
+END
+SecurityClassMetaDataLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/security/SecurityClassMetaDataLoader.java
+END
+AuthenticationInterceptorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/security/AuthenticationInterceptorFactory.java
+END
+RunAsSecurityInterceptorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/security/RunAsSecurityInterceptorFactory.java
+END
+SecurityActions.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/security/SecurityActions.java
+END
+RoleBasedAuthorizationInterceptorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/security/RoleBasedAuthorizationInterceptorFactory.java
+END
+RunAs.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/security/RunAs.java
+END
+Exclude.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/security/Exclude.java
+END
+Unchecked.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/security/Unchecked.java
+END
+SecurityClassMetaDataBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/security/SecurityClassMetaDataBinding.java
+END
+AuthenticationInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/security/AuthenticationInterceptor.java
+END
+SecurityMethodConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/security/SecurityMethodConfig.java
+END

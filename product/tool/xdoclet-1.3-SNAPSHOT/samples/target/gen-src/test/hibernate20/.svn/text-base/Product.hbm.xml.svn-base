@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 2.0//EN" 
+    "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd">
+
+<hibernate-mapping
+
+>
+
+    <class
+            name="test.hibernate20.Product"
+            table="PRODUCTS"
+            dynamic-update="true"
+            discriminator-value="null"
+    >
+
+        <jcs-cache usage="read-only" />
+
+    <id
+        name="id"
+            column="id"
+            type="java.lang.Long"
+            unsaved-value="null"
+    >
+
+    <!-- The generator-class attribute of @hibernate.id is deprecated, use the @hibernate.generator tag instead -->
+    <generator class="sequence">
+
+        <!-- The generator-param tag is deprecated, use the @hibernate.generator and @hibernate.param tags instead -->
+        <param
+                name="table"
+        >
+            <![CDATA[HIVAL]]>
+        </param>
+
+        <!-- The generator-param tag is deprecated, use the @hibernate.generator and @hibernate.param tags instead -->
+        <param
+                name="column"
+        >
+            <![CDATA[NEXT]]>
+        </param>
+
+    </generator>
+
+    </id>
+
+        <discriminator
+            column="PRODUCT_TYPE"
+            not-null="false"
+            type="string"
+            length="16"
+        />
+
+        <version
+            name="version"
+            column="version"
+            type="int"
+        />
+
+        <property
+            name="description"
+                type="java.lang.String"
+                    column="description"
+                length="512"
+        >
+
+        </property>
+
+        <property
+            name="code"
+                type="java.lang.String"
+                    column="code"
+                length="16"
+                unique="true"
+                update="false"
+        >
+
+        </property>
+
+        <property
+            name="image"
+                type="byte[]"
+                    column="image"
+                length="4096"
+        >
+
+        </property>
+
+        <property
+            name="price"
+                type="java.math.BigDecimal"
+                    column="price"
+        >
+
+        </property>
+
+        <property
+            name="updateComment"
+                type="java.lang.String"
+                    column="LAST_UPDATED_BY"
+        >
+
+        </property>
+
+        <property
+            name="created"
+                type="timestamp"
+                    column="created"
+                update="false"
+                insert="true"
+        >
+
+        </property>
+
+    <subclass
+        name="test.hibernate20.Pet"
+            discriminator-value="pet"
+    >
+
+        <one-to-one
+            name="animal"
+            class="test.hibernate20.Animal"
+        >
+
+        </one-to-one>
+
+    </subclass>
+
+    <subclass
+        name="test.hibernate20.ImportedProduct"
+            discriminator-value="imported"
+            dynamic-update="true"
+            dynamic-insert="true"
+            select-before-update="false"
+    >
+
+        <property
+            name="origin"
+                type="java.lang.String"
+                    column="origin"
+                not-null="true"
+        >
+
+        </property>
+
+        <property
+            name="locale"
+                type="java.util.Locale"
+                    column="locale"
+        >
+
+        </property>
+
+    <subclass
+        name="test.hibernate20.Contraband"
+            discriminator-value="contraband"
+    >
+
+    </subclass>
+
+    </subclass>
+
+    </class>    
+
+</hibernate-mapping>
+

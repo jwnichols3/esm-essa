@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/xml/registry/infomodel
+END
+RegistryObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/xml/registry/infomodel/RegistryObject.java
+END
+ExtrinsicObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/xml/registry/infomodel/ExtrinsicObject.java
+END
+ExternalLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/xml/registry/infomodel/ExternalLink.java
+END
+Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/xml/registry/infomodel/Service.java
+END
+Organization.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/xml/registry/infomodel/Organization.java
+END
+URIValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/xml/registry/infomodel/URIValidator.java
+END
+PersonName.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/xml/registry/infomodel/PersonName.java
+END
+PostalAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/xml/registry/infomodel/PostalAddress.java
+END
+Versionable.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/xml/registry/infomodel/Versionable.java
+END
+Association.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/xml/registry/infomodel/Association.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/xml/registry/infomodel/User.java
+END
+ClassificationScheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/xml/registry/infomodel/ClassificationScheme.java
+END
+Slot.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/xml/registry/infomodel/Slot.java
+END
+RegistryPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/xml/registry/infomodel/RegistryPackage.java
+END
+ExternalIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/xml/registry/infomodel/ExternalIdentifier.java
+END
+Key.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/xml/registry/infomodel/Key.java
+END
+ExtensibleObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/xml/registry/infomodel/ExtensibleObject.java
+END
+RegistryEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/xml/registry/infomodel/RegistryEntry.java
+END
+Classification.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/xml/registry/infomodel/Classification.java
+END
+Concept.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/xml/registry/infomodel/Concept.java
+END
+ServiceBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/xml/registry/infomodel/ServiceBinding.java
+END
+AuditableEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/xml/registry/infomodel/AuditableEvent.java
+END
+TelephoneNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/xml/registry/infomodel/TelephoneNumber.java
+END
+LocalizedString.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/xml/registry/infomodel/LocalizedString.java
+END
+EmailAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/xml/registry/infomodel/EmailAddress.java
+END
+SpecificationLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/xml/registry/infomodel/SpecificationLink.java
+END
+InternationalString.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/xml/registry/infomodel/InternationalString.java
+END

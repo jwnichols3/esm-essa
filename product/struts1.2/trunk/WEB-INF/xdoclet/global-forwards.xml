@@ -1,0 +1,11 @@
+<!--
+  Title: global-forwards.xml
+  Description: Struts Global Forwards (as a XDoclet merge point)
+  Development Environment: Jakarta Struts 1.2.9, XDoclet 1.3-SNAPSHOT
+  Author: G.S. Cole (guycole at gmail dot com)
+-->
+
+<global-forwards>
+  <forward name="dispatch_welcome" path="/user/dispatchAction.do?action=welcome"/>
+  <forward name="dispatch_logon" path="/dispatchAction.do?action=logon"/>
+</global-forwards>

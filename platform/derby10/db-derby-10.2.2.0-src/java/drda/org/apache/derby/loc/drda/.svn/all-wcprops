@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda
+END
+messages_de_DE.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/messages_de_DE.properties
+END
+servlet_ja_JP.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/servlet_ja_JP.properties
+END
+messages_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/messages_zh_CN.properties
+END
+messages_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/messages_en.properties
+END
+servlet_ru.properties
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/servlet_ru.properties
+END
+messages_ko_KR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/messages_ko_KR.properties
+END
+messages_cs.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/messages_cs.properties
+END
+messages_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/messages_pt_BR.properties
+END
+messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/messages_es.properties
+END
+messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/messages_fr.properties
+END
+servlet_zh_TW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/servlet_zh_TW.properties
+END
+messages_pl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/messages_pl.properties
+END
+messages_hu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/messages_hu.properties
+END
+messages_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/messages_it.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/build.xml
+END
+servlet_de_DE.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/servlet_de_DE.properties
+END
+servlet_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/servlet_zh_CN.properties
+END
+servlet_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/servlet_en.properties
+END
+servlet_ko_KR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/servlet_ko_KR.properties
+END
+servlet_cs.properties
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/servlet_cs.properties
+END
+messages_ja_JP.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/messages_ja_JP.properties
+END
+servlet_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/servlet_pt_BR.properties
+END
+servlet_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/servlet_es.properties
+END
+servlet_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/servlet_fr.properties
+END
+messages_ru.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/messages_ru.properties
+END
+servlet_pl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/servlet_pl.properties
+END
+servlet_hu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/servlet_hu.properties
+END
+servlet_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/servlet_it.properties
+END
+messages_zh_TW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/drda/org/apache/derby/loc/drda/messages_zh_TW.properties
+END

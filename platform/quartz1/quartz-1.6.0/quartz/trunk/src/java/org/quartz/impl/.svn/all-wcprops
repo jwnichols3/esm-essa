@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/impl
+END
+DirectSchedulerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/impl/DirectSchedulerFactory.java
+END
+StdSchedulerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/impl/StdSchedulerFactory.java
+END
+StdScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/impl/StdScheduler.java
+END
+StdJobRunShellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/impl/StdJobRunShellFactory.java
+END
+RemoteScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/impl/RemoteScheduler.java
+END
+QuartzServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/impl/QuartzServer.java
+END
+RemoteMBeanScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/impl/RemoteMBeanScheduler.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/impl/package.html
+END
+SchedulerRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/impl/SchedulerRepository.java
+END

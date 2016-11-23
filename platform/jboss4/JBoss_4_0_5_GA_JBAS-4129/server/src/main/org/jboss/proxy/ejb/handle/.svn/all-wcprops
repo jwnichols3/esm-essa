@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/proxy/ejb/handle
+END
+StatelessHandleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/proxy/ejb/handle/StatelessHandleImpl.java
+END
+StatefulHandleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/proxy/ejb/handle/StatefulHandleImpl.java
+END
+HomeHandleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/proxy/ejb/handle/HomeHandleImpl.java
+END
+HandleDelegateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/proxy/ejb/handle/HandleDelegateImpl.java
+END
+EntityHandleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/proxy/ejb/handle/EntityHandleImpl.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/hibernate
+END
+Order.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/hibernate/Order.hbm.xml
+END
+CompositeIdEntity.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/hibernate/CompositeIdEntity.hbm.xml
+END
+Product.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/hibernate/Product.hbm.xml
+END
+Animal.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/hibernate/Animal.hbm.xml
+END
+OIDObject.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/hibernate/OIDObject.hbm.xml
+END
+LineItem.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/hibernate/LineItem.hbm.xml
+END
+Error.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/hibernate/Error.hbm.xml
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/bridge
+END
+JDBCAbstractEntityBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/bridge/JDBCAbstractEntityBridge.java
+END
+JDBCCMP2xVersionFieldBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/bridge/JDBCCMP2xVersionFieldBridge.java
+END
+JDBCCMP2xUpdatedPrincipalFieldBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/bridge/JDBCCMP2xUpdatedPrincipalFieldBridge.java
+END
+JDBCAbstractCMPFieldBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/bridge/JDBCAbstractCMPFieldBridge.java
+END
+JDBCLongVersionFieldBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/bridge/JDBCLongVersionFieldBridge.java
+END
+JDBCAbstractCMRFieldBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/bridge/JDBCAbstractCMRFieldBridge.java
+END
+CMRInvocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/bridge/CMRInvocation.java
+END
+JDBCEntityBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/bridge/JDBCEntityBridge.java
+END
+JDBCTimestampVersionFieldBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/bridge/JDBCTimestampVersionFieldBridge.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/bridge/package.html
+END
+JDBCSelectorBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/bridge/JDBCSelectorBridge.java
+END
+JDBCFieldBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/bridge/JDBCFieldBridge.java
+END
+JDBCCMP2xUpdatedTimeFieldBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/bridge/JDBCCMP2xUpdatedTimeFieldBridge.java
+END
+JDBCCMPFieldBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/bridge/JDBCCMPFieldBridge.java
+END
+CMPMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/bridge/CMPMessage.java
+END
+JDBCCMRFieldBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/bridge/JDBCCMRFieldBridge.java
+END
+CMRMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/bridge/CMRMessage.java
+END
+RelationSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/bridge/RelationSet.java
+END
+JDBCKeyGenVersionFieldBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/bridge/JDBCKeyGenVersionFieldBridge.java
+END
+JDBCCMP1xFieldBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/bridge/JDBCCMP1xFieldBridge.java
+END
+JDBCCMP2xAutoUpdatedFieldBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/bridge/JDBCCMP2xAutoUpdatedFieldBridge.java
+END
+JDBCCMP2xFieldBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/bridge/JDBCCMP2xFieldBridge.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/registration/support
+END
+RegistrationAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/registration/support/RegistrationAware.java
+END
+RegistrationAwareMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/registration/support/RegistrationAwareMBean.java
+END

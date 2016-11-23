@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/service_deployment_descriptor/src/org/jboss/tutorial/service_deployment_descriptor/bean
+END
+ServiceOneManagement.java
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/service_deployment_descriptor/src/org/jboss/tutorial/service_deployment_descriptor/bean/ServiceOneManagement.java
+END
+ServiceOne.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/service_deployment_descriptor/src/org/jboss/tutorial/service_deployment_descriptor/bean/ServiceOne.java
+END
+ServiceThreeManagement.java
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/service_deployment_descriptor/src/org/jboss/tutorial/service_deployment_descriptor/bean/ServiceThreeManagement.java
+END
+ServiceTwoManagement.java
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/service_deployment_descriptor/src/org/jboss/tutorial/service_deployment_descriptor/bean/ServiceTwoManagement.java
+END
+ServiceThree.java
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/service_deployment_descriptor/src/org/jboss/tutorial/service_deployment_descriptor/bean/ServiceThree.java
+END
+ServiceTwo.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/service_deployment_descriptor/src/org/jboss/tutorial/service_deployment_descriptor/bean/ServiceTwo.java
+END
+ServiceOneLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/service_deployment_descriptor/src/org/jboss/tutorial/service_deployment_descriptor/bean/ServiceOneLocal.java
+END
+ServiceOneRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/service_deployment_descriptor/src/org/jboss/tutorial/service_deployment_descriptor/bean/ServiceOneRemote.java
+END

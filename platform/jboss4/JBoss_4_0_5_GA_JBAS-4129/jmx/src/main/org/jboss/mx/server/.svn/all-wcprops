@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/org/jboss/mx/server
+END
+MBeanServerBuilderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/org/jboss/mx/server/MBeanServerBuilderImpl.java
+END
+ServerConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/org/jboss/mx/server/ServerConstants.java
+END
+AbstractMBeanInvoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/org/jboss/mx/server/AbstractMBeanInvoker.java
+END
+TimeoutException.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/org/jboss/mx/server/TimeoutException.java
+END
+Suspendable.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/org/jboss/mx/server/Suspendable.java
+END
+Invocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/org/jboss/mx/server/Invocation.java
+END
+ObjectInputStreamWithClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/org/jboss/mx/server/ObjectInputStreamWithClassLoader.java
+END
+InvocationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/org/jboss/mx/server/InvocationContext.java
+END
+MBeanInvoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/org/jboss/mx/server/MBeanInvoker.java
+END
+TCLAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/org/jboss/mx/server/TCLAction.java
+END
+Interceptable.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/org/jboss/mx/server/Interceptable.java
+END
+ServerObjectInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/org/jboss/mx/server/ServerObjectInstance.java
+END
+MethodMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/org/jboss/mx/server/MethodMapper.java
+END
+MBeanServerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/org/jboss/mx/server/MBeanServerImpl.java
+END
+RawDynamicInvoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/org/jboss/mx/server/RawDynamicInvoker.java
+END
+ExceptionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/org/jboss/mx/server/ExceptionHandler.java
+END
+NotificationListenerProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/org/jboss/mx/server/NotificationListenerProxy.java
+END

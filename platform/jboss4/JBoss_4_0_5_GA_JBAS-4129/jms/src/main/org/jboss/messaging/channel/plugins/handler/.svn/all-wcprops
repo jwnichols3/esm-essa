@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jms/src/main/org/jboss/messaging/channel/plugins/handler
+END
+SharedChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jms/src/main/org/jboss/messaging/channel/plugins/handler/SharedChannel.java
+END
+ExclusiveChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jms/src/main/org/jboss/messaging/channel/plugins/handler/ExclusiveChannel.java
+END
+ChannelHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jms/src/main/org/jboss/messaging/channel/plugins/handler/ChannelHandler.java
+END
+AbstractChannelHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jms/src/main/org/jboss/messaging/channel/plugins/handler/AbstractChannelHandler.java
+END
+AbstractChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jms/src/main/org/jboss/messaging/channel/plugins/handler/AbstractChannel.java
+END
+SharedChannelHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jms/src/main/org/jboss/messaging/channel/plugins/handler/SharedChannelHandler.java
+END
+ExclusiveChannelHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jms/src/main/org/jboss/messaging/channel/plugins/handler/ExclusiveChannelHandler.java
+END

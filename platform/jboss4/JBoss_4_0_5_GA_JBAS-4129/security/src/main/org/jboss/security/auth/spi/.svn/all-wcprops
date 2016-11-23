@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/spi
+END
+XMLLoginModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/spi/XMLLoginModule.java
+END
+UsersLoginModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/spi/UsersLoginModule.java
+END
+LdapExtLoginModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/spi/LdapExtLoginModule.java
+END
+UsersObjectModelFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/spi/UsersObjectModelFactory.java
+END
+Users.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/spi/Users.java
+END
+CertRolesLoginModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/spi/CertRolesLoginModule.java
+END
+UsernamePasswordLoginModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/spi/UsernamePasswordLoginModule.java
+END
+UsersRolesLoginModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/spi/UsersRolesLoginModule.java
+END
+RoleMappingLoginModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/spi/RoleMappingLoginModule.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/spi/Util.java
+END
+LdapLoginModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/spi/LdapLoginModule.java
+END
+SimpleServerLoginModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/spi/SimpleServerLoginModule.java
+END
+ProxyLoginModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/spi/ProxyLoginModule.java
+END
+DecodeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/spi/DecodeAction.java
+END
+DatabaseCertLoginModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/spi/DatabaseCertLoginModule.java
+END
+DeploymentRolesLoginModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/spi/DeploymentRolesLoginModule.java
+END
+RunAsLoginModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/spi/RunAsLoginModule.java
+END
+BaseCertLoginModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/spi/BaseCertLoginModule.java
+END
+IdentityLoginModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/spi/IdentityLoginModule.java
+END
+AbstractServerLoginModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/spi/AbstractServerLoginModule.java
+END
+DatabaseServerLoginModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/spi/DatabaseServerLoginModule.java
+END
+RFC2617Digest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/spi/RFC2617Digest.java
+END
+AnonLoginModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/spi/AnonLoginModule.java
+END
+MemoryUsersRolesLoginModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/auth/spi/MemoryUsersRolesLoginModule.java
+END

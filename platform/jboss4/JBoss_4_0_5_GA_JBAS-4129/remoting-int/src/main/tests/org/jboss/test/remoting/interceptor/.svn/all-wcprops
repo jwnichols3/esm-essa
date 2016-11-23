@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/remoting-int/src/main/tests/org/jboss/test/remoting/interceptor
+END
+ServerInterceptorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/remoting-int/src/main/tests/org/jboss/test/remoting/interceptor/ServerInterceptorTest.java
+END
+TestTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/remoting-int/src/main/tests/org/jboss/test/remoting/interceptor/TestTarget.java
+END
+TestInvocationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/remoting-int/src/main/tests/org/jboss/test/remoting/interceptor/TestInvocationHandler.java
+END
+TestTargetMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/remoting-int/src/main/tests/org/jboss/test/remoting/interceptor/TestTargetMBean.java
+END
+TestInvocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/remoting-int/src/main/tests/org/jboss/test/remoting/interceptor/TestInvocation.java
+END
+InterceptorTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/remoting-int/src/main/tests/org/jboss/test/remoting/interceptor/InterceptorTestCase.java
+END
+ClientInterceptorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/remoting-int/src/main/tests/org/jboss/test/remoting/interceptor/ClientInterceptorTest.java
+END

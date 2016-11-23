@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/kernel
+END
+JVMIL.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/kernel/JVMIL.java
+END
+JDBC2PersistenceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/kernel/JDBC2PersistenceManager.java
+END
+Queue.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/kernel/Queue.java
+END
+MessageCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/kernel/MessageCache.java
+END
+DestinationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/kernel/DestinationManager.java
+END
+JDBCStateManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/kernel/JDBCStateManager.java
+END
+Topic.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/kernel/Topic.java
+END

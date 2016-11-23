@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/jbws316
+END
+TestBusinessFacadeBF_WS_getTestBinData_RequestStruct.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/jbws316/TestBusinessFacadeBF_WS_getTestBinData_RequestStruct.java
+END
+TestBusinessFacadeBF_WS.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/jbws316/TestBusinessFacadeBF_WS.java
+END
+TestBusinessFacadeBF_WS_getTestBinData_ResponseStruct.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/jbws316/TestBusinessFacadeBF_WS_getTestBinData_ResponseStruct.java
+END
+BinDataDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/jbws316/BinDataDTO.java
+END
+JBWS316TestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/jbws316/JBWS316TestCase.java
+END
+TestBusinessFacadeBFBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/jbws316/TestBusinessFacadeBFBean.java
+END

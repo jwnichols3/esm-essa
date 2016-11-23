@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/stateful_deployment_descriptor/src/org/jboss/tutorial/stateful_deployment_descriptor/bean
+END
+ShoppingCart.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/stateful_deployment_descriptor/src/org/jboss/tutorial/stateful_deployment_descriptor/bean/ShoppingCart.java
+END
+ShoppingCartBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/stateful_deployment_descriptor/src/org/jboss/tutorial/stateful_deployment_descriptor/bean/ShoppingCartBean.java
+END

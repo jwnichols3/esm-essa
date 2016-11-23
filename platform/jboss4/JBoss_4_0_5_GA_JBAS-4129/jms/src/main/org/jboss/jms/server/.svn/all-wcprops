@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jms/src/main/org/jboss/jms/server
+END
+MessageReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jms/src/main/org/jboss/jms/server/MessageReference.java
+END
+BrowserEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jms/src/main/org/jboss/jms/server/BrowserEndpoint.java
+END
+DeliveryEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jms/src/main/org/jboss/jms/server/DeliveryEndpoint.java
+END
+MessageBroker.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jms/src/main/org/jboss/jms/server/MessageBroker.java
+END
+DeliveryEndpointFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jms/src/main/org/jboss/jms/server/DeliveryEndpointFactory.java
+END
+BrowserEndpointFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jms/src/main/org/jboss/jms/server/BrowserEndpointFactory.java
+END

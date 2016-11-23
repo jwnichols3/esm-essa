@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/tm/usertx/server
+END
+UserTransactionSessionFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/tm/usertx/server/UserTransactionSessionFactoryImpl.java
+END
+ClientUserTransactionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/tm/usertx/server/ClientUserTransactionService.java
+END
+ClientUserTransactionServiceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/tm/usertx/server/ClientUserTransactionServiceMBean.java
+END
+UserTransactionSessionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/tm/usertx/server/UserTransactionSessionImpl.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/tm/usertx/server/package.html
+END

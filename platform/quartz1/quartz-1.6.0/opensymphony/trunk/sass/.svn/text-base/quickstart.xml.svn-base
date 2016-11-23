@@ -1,0 +1,18 @@
+<configuration>
+    <ideaConfig>sass.iml</ideaConfig>
+    <context>/sass</context>
+    <port>8080</port>
+    <!--<sources>-->
+        <!--<dir>src/main/java</dir>-->
+    <!--</sources>-->
+    <classDirs>
+        <dir>target/classes</dir>
+        <dir>src/main/webapp/WEB-INF/classes</dir>
+    </classDirs>
+    <webDirs>
+        <webDir>
+            <path>/</path>
+            <dir>src/main/webapp</dir>
+        </webDir>
+    </webDirs>
+</configuration>

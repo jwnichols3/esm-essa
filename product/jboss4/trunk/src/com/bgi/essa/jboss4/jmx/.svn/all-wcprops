@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/esm-essa/!svn/ver/1338/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/jmx
+END
+InstrumentFactoryIf.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/esm-essa/!svn/ver/92/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/jmx/InstrumentFactoryIf.java
+END
+InstrumentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm-essa/!svn/ver/93/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/jmx/InstrumentFactory.java
+END
+FileWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/esm-essa/!svn/ver/93/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/jmx/FileWrapper.java
+END
+InstrumentFactoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/52/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/jmx/InstrumentFactoryService.java
+END
+JmxFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/esm-essa/!svn/ver/1338/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/jmx/JmxFacade.java
+END
+InstrumentFactoryServiceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/54/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/jmx/InstrumentFactoryServiceMBean.java
+END
+TextFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm-essa/!svn/ver/93/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/jmx/TextFileReader.java
+END
+JniStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm-essa/!svn/ver/1172/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/jmx/JniStub.java
+END

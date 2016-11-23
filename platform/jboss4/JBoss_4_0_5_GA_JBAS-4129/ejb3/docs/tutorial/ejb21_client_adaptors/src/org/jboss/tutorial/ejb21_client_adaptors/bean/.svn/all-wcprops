@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/ejb21_client_adaptors/src/org/jboss/tutorial/ejb21_client_adaptors/bean
+END
+Session1Remote.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/ejb21_client_adaptors/src/org/jboss/tutorial/ejb21_client_adaptors/bean/Session1Remote.java
+END
+Session2Local.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/ejb21_client_adaptors/src/org/jboss/tutorial/ejb21_client_adaptors/bean/Session2Local.java
+END
+Session2LocalHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/ejb21_client_adaptors/src/org/jboss/tutorial/ejb21_client_adaptors/bean/Session2LocalHome.java
+END
+Session1RemoteHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/ejb21_client_adaptors/src/org/jboss/tutorial/ejb21_client_adaptors/bean/Session1RemoteHome.java
+END
+Session1Bean.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/ejb21_client_adaptors/src/org/jboss/tutorial/ejb21_client_adaptors/bean/Session1Bean.java
+END
+DeploymentDescriptorSession1Bean.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/ejb21_client_adaptors/src/org/jboss/tutorial/ejb21_client_adaptors/bean/DeploymentDescriptorSession1Bean.java
+END
+Session2Bean.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/ejb21_client_adaptors/src/org/jboss/tutorial/ejb21_client_adaptors/bean/Session2Bean.java
+END
+DeploymentDescriptorSession2Bean.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/ejb21_client_adaptors/src/org/jboss/tutorial/ejb21_client_adaptors/bean/DeploymentDescriptorSession2Bean.java
+END

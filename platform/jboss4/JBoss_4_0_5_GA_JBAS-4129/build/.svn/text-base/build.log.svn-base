@@ -1,0 +1,934 @@
+
+configure:
+     [echo] groups:  most
+     [echo] modules: jmx,test,system,naming,j2ee,transaction,security,server,deployment,messaging,connector,remoting-int,jaxrpc,cluster,varia,iiop,management,console,aspects,tomcat,hibernate-int,aspects-jdk5,ejb3x,ejb3
+
+init:
+
+_buildmagic:modules:most:
+
+    ======================================================================
+    ==  Executing 'most' in module 'jmx'...
+    ==
+
+_buildmagic:init:
+
+configure:
+Overriding previous definition of reference to xdoclet.task.classpath
+
+init:
+
+_buildmagic:build-bypass-checker:
+
+_buildmagic:build-bypass-notice:
+     [echo] 
+Build disabled because module is already built. To force the module
+to build define build-bypass.disabled=true.
+  
+
+_buildmagic:build-bypass-check:
+
+output:
+
+_default:most:
+
+most:
+
+    ==
+    ==  Finished with 'most' in module 'jmx'.
+    ======================================================================
+    
+
+_module-jmx-most:
+
+_module-jmx-most:
+
+    ======================================================================
+    ==  Executing 'most' in module 'test'...
+    ==
+
+_buildmagic:init:
+
+configure:
+
+_default:task-init:
+
+init:
+
+_buildmagic:build-bypass-checker:
+
+_buildmagic:build-bypass-notice:
+     [echo] 
+Build disabled because module is already built. To force the module
+to build define build-bypass.disabled=true.
+  
+
+_buildmagic:build-bypass-check:
+
+jars:
+
+most:
+
+    ==
+    ==  Finished with 'most' in module 'test'.
+    ======================================================================
+    
+
+    ======================================================================
+    ==  Executing 'most' in module 'system'...
+    ==
+
+_buildmagic:init:
+
+configure:
+
+_default:task-init:
+
+init:
+
+_buildmagic:build-bypass-checker:
+
+_buildmagic:build-bypass-notice:
+     [echo] 
+Build disabled because module is already built. To force the module
+to build define build-bypass.disabled=true.
+  
+
+_buildmagic:build-bypass-check:
+
+jars:
+
+most:
+
+    ==
+    ==  Finished with 'most' in module 'system'.
+    ======================================================================
+    
+
+_module-system-most:
+
+_module-system-most:
+
+    ======================================================================
+    ==  Executing 'most' in module 'naming'...
+    ==
+
+_buildmagic:init:
+
+configure:
+
+init:
+
+_buildmagic:build-bypass-checker:
+
+_buildmagic:build-bypass-notice:
+     [echo] 
+Build disabled because module is already built. To force the module
+to build define build-bypass.disabled=true.
+  
+
+_buildmagic:build-bypass-check:
+
+jars:
+
+most:
+
+    ==
+    ==  Finished with 'most' in module 'naming'.
+    ======================================================================
+    
+
+_module-naming-most:
+
+_module-naming-most:
+
+    ======================================================================
+    ==  Executing 'most' in module 'j2ee'...
+    ==
+
+_buildmagic:init:
+
+configure:
+
+init:
+
+_buildmagic:build-bypass-checker:
+
+_buildmagic:build-bypass-notice:
+     [echo] 
+Build disabled because module is already built. To force the module
+to build define build-bypass.disabled=true.
+  
+
+_buildmagic:build-bypass-check:
+
+internal-jars:
+
+jars:
+
+most:
+
+    ==
+    ==  Finished with 'most' in module 'j2ee'.
+    ======================================================================
+    
+
+_module-j2ee-most:
+
+_module-j2ee-most:
+
+    ======================================================================
+    ==  Executing 'most' in module 'transaction'...
+    ==
+
+_buildmagic:init:
+
+configure:
+Overriding previous definition of reference to xdoclet.task.classpath
+
+init:
+
+_buildmagic:build-bypass-checker:
+
+_buildmagic:build-bypass-notice:
+     [echo] 
+Build disabled because module is already built. To force the module
+to build define build-bypass.disabled=true.
+  
+
+_buildmagic:build-bypass-check:
+
+jars:
+
+most:
+
+    ==
+    ==  Finished with 'most' in module 'transaction'.
+    ======================================================================
+    
+
+_module-transaction-most:
+
+_module-transaction-most:
+
+    ======================================================================
+    ==  Executing 'most' in module 'security'...
+    ==
+
+_buildmagic:init:
+
+configure:
+
+_default:task-init:
+Overriding previous definition of reference to thirdparty.classpath
+Overriding previous definition of reference to javac.classpath
+Overriding previous definition of reference to javadoc.classpath
+
+init:
+
+_buildmagic:build-bypass-checker:
+
+_buildmagic:build-bypass-notice:
+     [echo] 
+Build disabled because module is already built. To force the module
+to build define build-bypass.disabled=true.
+  
+
+_buildmagic:build-bypass-check:
+
+jars:
+
+most:
+
+    ==
+    ==  Finished with 'most' in module 'security'.
+    ======================================================================
+    
+
+_module-security-most:
+
+_module-security-most:
+
+    ======================================================================
+    ==  Executing 'most' in module 'server'...
+    ==
+
+_buildmagic:init:
+
+configure:
+Overriding previous definition of reference to xdoclet.task.classpath
+
+_default:task-init:
+Overriding previous definition of reference to thirdparty.classpath
+Overriding previous definition of reference to javac.classpath
+Overriding previous definition of reference to javadoc.classpath
+
+init:
+
+_buildmagic:build-bypass-checker:
+
+_buildmagic:build-bypass-notice:
+     [echo] 
+Build disabled because module is already built. To force the module
+to build define build-bypass.disabled=true.
+  
+
+_buildmagic:build-bypass-check:
+
+jars:
+
+most:
+
+    ==
+    ==  Finished with 'most' in module 'server'.
+    ======================================================================
+    
+
+_module-server-most:
+
+_module-server-most:
+
+    ======================================================================
+    ==  Executing 'most' in module 'deployment'...
+    ==
+
+_buildmagic:init:
+
+configure:
+
+_default:task-init:
+
+init:
+
+_buildmagic:build-bypass-checker:
+
+_buildmagic:build-bypass-notice:
+     [echo] 
+Build disabled because module is already built. To force the module
+to build define build-bypass.disabled=true.
+  
+
+_buildmagic:build-bypass-check:
+
+jars:
+
+most:
+
+    ==
+    ==  Finished with 'most' in module 'deployment'.
+    ======================================================================
+    
+
+_module-deployment-most:
+
+_module-deployment-most:
+
+    ======================================================================
+    ==  Executing 'most' in module 'messaging'...
+    ==
+Overriding previous definition of reference to compile-rmi.pattern
+
+_buildmagic:init:
+
+configure:
+
+_default:task-init:
+
+init:
+
+_buildmagic:build-bypass-checker:
+
+_buildmagic:build-bypass-notice:
+     [echo] 
+Build disabled because module is already built. To force the module
+to build define build-bypass.disabled=true.
+  
+
+_buildmagic:build-bypass-check:
+
+jars:
+
+most:
+
+    ==
+    ==  Finished with 'most' in module 'messaging'.
+    ======================================================================
+    
+
+_module-messaging-most:
+
+_module-messaging-most:
+
+    ======================================================================
+    ==  Executing 'most' in module 'connector'...
+    ==
+
+_buildmagic:init:
+
+configure:
+Overriding previous definition of reference to xdoclet.task.classpath
+
+init:
+
+_buildmagic:build-bypass-checker:
+
+_buildmagic:build-bypass-notice:
+     [echo] 
+Build disabled because module is already built. To force the module
+to build define build-bypass.disabled=true.
+  
+
+_buildmagic:build-bypass-check:
+
+jars:
+
+most:
+
+    ==
+    ==  Finished with 'most' in module 'connector'.
+    ======================================================================
+    
+
+_module-connector-most:
+
+_module-connector-most:
+
+    ======================================================================
+    ==  Executing 'most' in module 'remoting-int'...
+    ==
+
+_buildmagic:init:
+
+configure:
+
+init:
+
+_buildmagic:build-bypass-checker:
+
+_buildmagic:build-bypass-notice:
+     [echo] 
+Build disabled because module is already built. To force the module
+to build define build-bypass.disabled=true.
+  
+
+_buildmagic:build-bypass-check:
+
+internal-jars:
+
+jars:
+
+most:
+
+    ==
+    ==  Finished with 'most' in module 'remoting-int'.
+    ======================================================================
+    
+
+_module-remoting-int-most:
+
+_module-remoting-int-most:
+
+    ======================================================================
+    ==  Executing 'most' in module 'jaxrpc'...
+    ==
+
+_buildmagic:init:
+
+configure:
+
+_default:task-init:
+
+init:
+
+_buildmagic:build-bypass-checker:
+
+_buildmagic:build-bypass-notice:
+     [echo] 
+Build disabled because module is already built. To force the module
+to build define build-bypass.disabled=true.
+  
+
+_buildmagic:build-bypass-check:
+
+jars:
+
+most:
+
+    ==
+    ==  Finished with 'most' in module 'jaxrpc'.
+    ======================================================================
+    
+
+_module-jaxrpc-most:
+
+_module-jaxrpc-most:
+
+    ======================================================================
+    ==  Executing 'most' in module 'cluster'...
+    ==
+
+_buildmagic:init:
+
+configure:
+Overriding previous definition of reference to xdoclet.task.classpath
+
+init:
+
+_buildmagic:build-bypass-checker:
+
+_buildmagic:build-bypass-notice:
+     [echo] 
+Build disabled because module is already built. To force the module
+to build define build-bypass.disabled=true.
+  
+
+_buildmagic:build-bypass-check:
+
+jars:
+
+most:
+
+    ==
+    ==  Finished with 'most' in module 'cluster'.
+    ======================================================================
+    
+
+_module-cluster-most:
+
+_module-cluster-most:
+
+    ======================================================================
+    ==  Executing 'most' in module 'varia'...
+    ==
+
+_buildmagic:init:
+
+configure:
+
+init:
+
+_buildmagic:build-bypass-checker:
+
+_buildmagic:build-bypass-notice:
+     [echo] 
+Build disabled because module is already built. To force the module
+to build define build-bypass.disabled=true.
+  
+
+_buildmagic:build-bypass-check:
+
+jars:
+
+most:
+
+    ==
+    ==  Finished with 'most' in module 'varia'.
+    ======================================================================
+    
+
+_module-varia-most:
+
+_module-varia-most:
+    [unjar] Expanding: /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/output/lib/persistent-service.sar into /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA/docs/examples/jmx/persistent-service.sar
+    [unjar] Expanding: /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/output/lib/snmp-adaptor.sar into /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA/server/all/deploy/snmp-adaptor.sar
+    [unjar] Expanding: /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/output/lib/jmx-console.war into /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA/server/all/deploy/jmx-console.war
+    [unjar] Expanding: /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/output/lib/juddi-service.sar into /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA/server/all/deploy/juddi-service.sar
+    [unjar] Expanding: /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/output/lib/juddiws.war into /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA/server/all/deploy/juddi-service.sar/juddiws.war
+    [unjar] Expanding: /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/output/lib/httpha-invoker.sar into /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA/server/all/deploy/httpha-invoker.sar
+   [delete] Deleting directory /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA/server/all/deploy-hasingleton/jms/jbossmq-httpil.sar
+    [mkdir] Created dir: /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA/server/all/deploy-hasingleton/jms/jbossmq-httpil.sar
+    [unjar] Expanding: /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/output/lib/jbossmq-httpil.sar into /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA/server/all/deploy-hasingleton/jms/jbossmq-httpil.sar
+     [move] Moving 1 file to /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA/server/all/deploy-hasingleton/jms/jbossmq-httpil.sar
+    [mkdir] Created dir: /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA/server/all/deploy-hasingleton/jms/jbossmq-httpil.sar/jbossmq-httpil.war
+    [unjar] Expanding: /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA/server/all/deploy-hasingleton/jms/jbossmq-httpil.sar/tmp.war into /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA/server/all/deploy-hasingleton/jms/jbossmq-httpil.sar/jbossmq-httpil.war
+   [delete] Deleting: /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA/server/all/deploy-hasingleton/jms/jbossmq-httpil.sar/tmp.war
+
+    ======================================================================
+    ==  Executing 'most' in module 'iiop'...
+    ==
+
+_buildmagic:init:
+
+configure:
+
+init:
+
+_buildmagic:build-bypass-checker:
+
+_buildmagic:build-bypass-notice:
+     [echo] 
+Build disabled because module is already built. To force the module
+to build define build-bypass.disabled=true.
+  
+
+_buildmagic:build-bypass-check:
+
+jars:
+
+most:
+
+    ==
+    ==  Finished with 'most' in module 'iiop'.
+    ======================================================================
+    
+
+_module-iiop-most:
+
+_module-iiop-most:
+
+    ======================================================================
+    ==  Executing 'most' in module 'management'...
+    ==
+
+_buildmagic:init:
+
+configure:
+Overriding previous definition of reference to xdoclet.task.classpath
+
+init:
+
+_buildmagic:build-bypass-checker:
+
+_buildmagic:build-bypass-notice:
+     [echo] 
+Build disabled because module is already built. To force the module
+to build define build-bypass.disabled=true.
+  
+
+_buildmagic:build-bypass-check:
+
+jars:
+
+most:
+
+    ==
+    ==  Finished with 'most' in module 'management'.
+    ======================================================================
+    
+
+_module-management-most:
+
+_module-management-most:
+
+    ======================================================================
+    ==  Executing 'most' in module 'console'...
+    ==
+
+_buildmagic:init:
+
+configure:
+
+init:
+
+_buildmagic:build-bypass-checker:
+
+_buildmagic:build-bypass-notice:
+     [echo] 
+Build disabled because module is already built. To force the module
+to build define build-bypass.disabled=true.
+  
+
+_buildmagic:build-bypass-check:
+
+jars:
+
+most:
+
+    ==
+    ==  Finished with 'most' in module 'console'.
+    ======================================================================
+    
+
+_module-console-most:
+
+_module-console-most:
+    [unjar] Expanding: /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/output/lib/console-mgr.sar into /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA/server/all/deploy/management/console-mgr.sar
+    [unjar] Expanding: /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/output/lib/web-console.war into /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA/server/all/deploy/management/console-mgr.sar/web-console.war
+
+    ======================================================================
+    ==  Executing 'most' in module 'aspects'...
+    ==
+
+_buildmagic:init:
+
+configure:
+Overriding previous definition of reference to xdoclet.task.classpath
+
+init:
+
+_buildmagic:build-bypass-checker:
+
+_buildmagic:build-bypass-notice:
+
+_buildmagic:build-bypass-check:
+
+output:
+
+_buildmagic:init:
+
+init:
+
+_default:compile-etc:
+
+compile-classes:
+
+compile-classes15:
+
+compile:
+
+_buildmagic:init:
+
+init:
+
+_default:compile-checksums:
+
+compile-classes15:
+Overriding previous definition of reference to javac15.classpath
+
+jars15:
+
+most:
+
+    ==
+    ==  Finished with 'most' in module 'aspects'.
+    ======================================================================
+    
+
+_module-aspects-most:
+
+_module-aspects-most:
+
+    ======================================================================
+    ==  Executing 'most' in module 'tomcat'...
+    ==
+
+_buildmagic:init:
+
+configure:
+
+init:
+
+_buildmagic:build-bypass-checker:
+
+_buildmagic:build-bypass-notice:
+     [echo] 
+Build disabled because module is already built. To force the module
+to build define build-bypass.disabled=true.
+  
+
+_buildmagic:build-bypass-check:
+
+jars:
+
+most:
+
+    ==
+    ==  Finished with 'most' in module 'tomcat'.
+    ======================================================================
+    
+
+_module-tomcat-most:
+
+_module-tomcat-most:
+
+    ======================================================================
+    ==  Executing 'most' in module 'hibernate-int'...
+    ==
+
+_buildmagic:init:
+
+configure:
+
+init:
+
+_buildmagic:build-bypass-checker:
+
+_buildmagic:build-bypass-notice:
+     [echo] 
+Build disabled because module is already built. To force the module
+to build define build-bypass.disabled=true.
+  
+
+_buildmagic:build-bypass-check:
+
+jars:
+
+most:
+
+    ==
+    ==  Finished with 'most' in module 'hibernate-int'.
+    ======================================================================
+    
+
+_module-hibernate-int-most:
+
+_module-hibernate-int-most:
+
+    ======================================================================
+    ==  Executing 'most' in module 'aspects-jdk5'...
+    ==
+
+most:
+
+_buildmagic:init:
+
+configure:
+Overriding previous definition of reference to xdoclet.task.classpath
+
+init:
+
+_buildmagic:build-bypass-checker:
+
+_buildmagic:build-bypass-notice:
+
+_buildmagic:build-bypass-check:
+
+output:
+
+_buildmagic:init:
+
+init:
+
+_default:compile-etc:
+
+compile-classes:
+
+compile-classes15:
+
+compile:
+
+_buildmagic:init:
+
+init:
+
+_default:compile-checksums:
+
+compile-classes15:
+Overriding previous definition of reference to javac15.classpath
+
+jars15:
+
+most:
+
+    ==
+    ==  Finished with 'most' in module 'aspects-jdk5'.
+    ======================================================================
+    
+
+_module-aspects-jdk5-most:
+
+_module-aspects-jdk5-most:
+
+    ======================================================================
+    ==  Executing 'most' in module 'ejb3x'...
+    ==
+
+_buildmagic:init:
+
+configure:
+
+init:
+
+_buildmagic:build-bypass-checker:
+
+_buildmagic:build-bypass-notice:
+     [echo] 
+Build disabled because module is already built. To force the module
+to build define build-bypass.disabled=true.
+  
+
+_buildmagic:build-bypass-check:
+
+internal-jars:
+
+jars:
+
+most:
+
+    ==
+    ==  Finished with 'most' in module 'ejb3x'.
+    ======================================================================
+    
+
+_module-ejb3x-most:
+
+_module-ejb3x-most:
+
+    ======================================================================
+    ==  Executing 'most' in module 'ejb3'...
+    ==
+
+_buildmagic:init:
+
+configure:
+
+init:
+
+_buildmagic:build-bypass-checker:
+
+_buildmagic:build-bypass-notice:
+     [echo] 
+Build disabled because module is already built. To force the module
+to build define build-bypass.disabled=true.
+  
+
+_buildmagic:build-bypass-check:
+
+internal-jars:
+
+jars:
+    [unjar] Expanding: /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/thirdparty/hibernate/lib/hibernate3.jar into /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/output/classes
+   [delete] Deleting directory /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/output/classes/org/hibernate
+
+most:
+
+    ==
+    ==  Finished with 'most' in module 'ejb3'.
+    ======================================================================
+    
+
+_module-ejb3-most:
+
+_module-ejb3-most:
+
+modules-most:
+
+thirdparty:
+
+thirdparty:
+    [unjar] Expanding: /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/thirdparty/jboss/jbossws14/lib/jbossws14-client.jar into /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA/bin
+    [unjar] Expanding: /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/thirdparty/jboss/jbossws14/lib/jbossws14.sar into /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA/server/all/deploy/jbossws14.sar
+
+partition-build:
+
+partition-default:
+     [copy] Copying 1 file to /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA/server/default/deploy/jbossweb-tomcat55.sar/META-INF
+     [copy] Copying 12 files to /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA/server/default/deploy/jms
+     [copy] Copying 1 file to /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA/server/default/deploy/jms
+    [unjar] Expanding: /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/output/lib/http-invoker.sar into /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA/server/default/deploy/http-invoker.sar
+
+partition-minimal:
+
+bypass-jboss-all-client:
+
+jboss-all-client:
+
+setup-ejb3-dist:
+
+setup-ejb3-dist:
+     [copy] Copying 19 files to /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA-ejb3/server/default
+     [copy] Copying 5 files to /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA-ejb3/server/all
+   [delete] Deleting 5 files from /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA-ejb3/server/default/deploy
+   [delete] Deleted 2 directories from /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA-ejb3/server/default/deploy
+    [unjar] Expanding: /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/thirdparty/jboss/jbossws/lib/jbossws.sar into /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA-ejb3/server/default/deploy/jbossws.sar
+   [delete] Deleting 5 files from /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA-ejb3/server/all/deploy
+   [delete] Deleted 2 directories from /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA-ejb3/server/all/deploy
+    [unjar] Expanding: /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/thirdparty/jboss/jbossws/lib/jbossws.sar into /home/coleguy/repo1/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/output/jboss-4.0.5.GA-ejb3/server/all/deploy/jbossws.sar
+
+install:
+
+most:
+
+main:
+
+BUILD SUCCESSFUL

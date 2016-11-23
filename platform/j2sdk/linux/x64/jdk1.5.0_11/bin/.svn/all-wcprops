@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin
+END
+native2ascii
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/native2ascii
+END
+idlj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/idlj
+END
+javac
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/javac
+END
+jarsigner
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/jarsigner
+END
+apt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/apt
+END
+orbd
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/orbd
+END
+keytool
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/keytool
+END
+klist
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/klist
+END
+jmap
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/jmap
+END
+javah
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/javah
+END
+jstatd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/jstatd
+END
+rmic
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/rmic
+END
+rmid
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/rmid
+END
+jps
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/jps
+END
+policytool
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/policytool
+END
+extcheck
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/extcheck
+END
+javap
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/javap
+END
+unpack200
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/unpack200
+END
+tnameserv
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/tnameserv
+END
+appletviewer
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/appletviewer
+END
+jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/jar
+END
+jconsole
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/jconsole
+END
+kinit
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/kinit
+END
+jstack
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/jstack
+END
+rmiregistry
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/rmiregistry
+END
+ktab
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/ktab
+END
+java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/java
+END
+jstat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/jstat
+END
+jsadebugd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/jsadebugd
+END
+serialver
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/serialver
+END
+jdb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/jdb
+END
+pack200
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/pack200
+END
+servertool
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/servertool
+END
+jinfo
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/jinfo
+END
+javadoc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/bin/javadoc
+END

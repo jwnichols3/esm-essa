@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<atlassian-plugin name='Snippet Macros' key='confluence.extra.snippet'>
+    <plugin-info>
+        <description>Macro that gets a snippet of the content from a URL</description>
+        <vendor name="Codehaus" url="http://www.codehaus.com"/>
+        <version>0.5</version>
+    </plugin-info>
+
+    <macro name='snippet' class='snippet.SnippetMacro' key='snippet' >
+        <description>Macro that gets a snippet of the content from a URL</description>
+    </macro>
+
+    <xwork name="snippetaction" key="snippetaction">
+        <package name="snippet" extends="default" namespace="/plugins/snippet">
+            <default-interceptor-ref name="defaultStack" />
+
+            <action name="clearCache"
+                class="snippet.ClearCache">
+                <result name="success" type="redirect">${redirect}</result>
+            </action>
+
+            <action name="toggle" class="snippet.Toggle"/>
+        </package>
+    </xwork>
+</atlassian-plugin>

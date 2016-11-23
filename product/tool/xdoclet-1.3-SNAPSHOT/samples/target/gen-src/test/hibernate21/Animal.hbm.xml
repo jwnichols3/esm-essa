@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 2.0//EN" 
+    "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd">
+
+<hibernate-mapping
+
+>
+
+    <class
+            name="test.hibernate21.Animal"
+            table="ANIMALS"
+            dynamic-update="true"
+    >
+
+    <id
+        name="id"
+            column="id"
+            unsaved-value="null"
+    >
+            <meta
+                attribute="scope-get"
+            >
+                <![CDATA[protected]]>
+            </meta>
+
+            <meta
+                attribute="scope-set"
+            >
+                <![CDATA[protected]]>
+            </meta>
+
+    <!-- The generator-class attribute of @hibernate.id is deprecated, use the @hibernate.generator tag instead -->
+    <generator class="sequence">
+
+        <!-- The generator-param tag is deprecated, use the @hibernate.generator and @hibernate.param tags instead -->
+        <param
+                name="table"
+        >
+            <![CDATA[HIVAL]]>
+        </param>
+
+        <!-- The generator-param tag is deprecated, use the @hibernate.generator and @hibernate.param tags instead -->
+        <param
+                name="column"
+        >
+            <![CDATA[NEXT]]>
+        </param>
+
+    </generator>
+
+    </id>
+
+        <discriminator
+            column="disc"
+            not-null="true"
+            force="false"
+        />
+
+        <version
+            name="version"
+            column="version"
+            type="int"
+        />
+
+        <set
+            name="prey"
+            table="PREDATOR_PREY"
+            lazy="true"
+            order-by="PREY_ID"
+        >
+
+            <!-- @hibernate.collection-key tag is deprecated, use @hibernate.key instead -->
+            <key
+                column="PREDATOR_ID"
+            >
+
+            </key>
+
+            <!-- @hibernate.collection-many-to-many tag is deprecated, use @hibernate.many-to-many instead -->
+            <many-to-many
+                class=""
+                column="PREY_ID"
+                outer-join="auto"
+             />
+
+        </set>
+
+        <property
+            name="sex"
+                    column="sex"
+                not-null="true"
+        >
+
+        </property>
+
+        <property
+            name="created"
+                    type="timestamp"
+                    column="created"
+                update="false"
+                insert="true"
+        >
+            <meta
+                attribute="use-in-equals"
+            >
+                <![CDATA[true]]>
+            </meta>
+
+            <meta
+                attribute="use-in-tostring"
+            >
+                <![CDATA[true]]>
+            </meta>
+
+        </property>
+
+    <joined-subclass
+        name="test.hibernate21.Reptile"
+            table="REPTILES"
+    >
+
+            <!-- @hibernate.joined-subclass-key tag is deprecated, use @hibernate.key instead -->
+            <key
+                    column="ANIMAL_ID"
+            />
+
+    <joined-subclass
+        name="test.hibernate21.Lizard"
+            table="LIZARDS"
+    >
+
+            <!-- @hibernate.joined-subclass-key tag is deprecated, use @hibernate.key instead -->
+            <key
+                    column="ANIMAL_ID"
+            />
+
+        <property
+            name="bodyTemperature"
+                    column="bodyTemperature"
+                not-null="true"
+        >
+
+        </property>
+
+    </joined-subclass>
+
+    </joined-subclass>
+
+    <joined-subclass
+        name="test.hibernate21.Human"
+            table="HUMANS"
+            dynamic-update="true"
+    >
+
+            <!-- @hibernate.joined-subclass-key tag is deprecated, use @hibernate.key instead -->
+            <key
+                    column="ANIMAL_ID"
+            />
+
+        <component
+            name="name"
+        >
+
+        <property
+            name="first"
+                    column="FIRST_NAME"
+        >
+
+        </property>
+
+        <property
+            name="initial"
+        >
+
+            <column
+                name="INITIAL" 
+                not-null="true"
+                sql-type="VARCHAR(1)"
+            />
+
+        </property>
+
+        <property
+            name="last"
+                    column="LIST_NAME"
+        >
+
+        </property>
+
+        </component>
+
+        <component
+            name="component1"
+        >
+
+        <property
+            name="component1Prop"
+                    column="component1Prop"
+        >
+
+        </property>
+
+        <property
+            name="commonProp"
+                    column="commonProp"
+        >
+
+        </property>
+
+        </component>
+
+        <property
+            name="occupation"
+                    column="occupation"
+        >
+
+        </property>
+
+        <component
+            name="component2"
+        >
+
+        <property
+            name="component2Prop"
+                    column="component2Prop"
+        >
+
+        </property>
+
+        <property
+            name="commonProp"
+                    column="commonProp"
+        >
+
+        </property>
+
+        </component>
+
+    </joined-subclass>
+
+    </class>    
+
+</hibernate-mapping>
+

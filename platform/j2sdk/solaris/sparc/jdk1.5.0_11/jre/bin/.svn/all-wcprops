@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/jre/bin
+END
+pack200
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/jre/bin/pack200
+END
+rmiregistry
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/jre/bin/rmiregistry
+END
+ControlPanel
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/jre/bin/ControlPanel
+END
+java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/jre/bin/java
+END
+unpack200
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/jre/bin/unpack200
+END
+java_vm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/jre/bin/java_vm
+END
+servertool
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/jre/bin/servertool
+END
+tnameserv
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/jre/bin/tnameserv
+END
+keytool
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/jre/bin/keytool
+END
+orbd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/jre/bin/orbd
+END
+rmid
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/jre/bin/rmid
+END
+javaws
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/jre/bin/javaws
+END
+policytool
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/jre/bin/policytool
+END

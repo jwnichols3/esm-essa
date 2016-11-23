@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/standard/support
+END
+PackageProtectedMBeanFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/standard/support/PackageProtectedMBeanFactory.java
+END
+Torture.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/standard/support/Torture.java
+END
+PackageProtected.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/standard/support/PackageProtected.java
+END
+TortureMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/standard/support/TortureMBean.java
+END
+DynamicDerived1.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/standard/support/DynamicDerived1.java
+END
+PackageProtectedMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/standard/support/PackageProtectedMBean.java
+END
+StandardParent.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/standard/support/StandardParent.java
+END
+Trivial.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/standard/support/Trivial.java
+END
+StandardParentMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/standard/support/StandardParentMBean.java
+END
+TrivialMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/standard/support/TrivialMBean.java
+END
+ArbitraryInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/standard/support/ArbitraryInterface.java
+END
+StandardDerived1.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/standard/support/StandardDerived1.java
+END
+StandardDerived2.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/standard/support/StandardDerived2.java
+END
+StandardDerived3.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/standard/support/StandardDerived3.java
+END
+StandardDerived2MBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/standard/support/StandardDerived2MBean.java
+END
+StandardDerived3MBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/standard/support/StandardDerived3MBean.java
+END

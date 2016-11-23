@@ -1,0 +1,11 @@
+<!--
+  Title: servlet-mappings.xml
+  Description: Standard Action Servlet Mapping (as a XDoclet merge point)
+  Development Environment: Jakarta Struts 1.2.9, XDoclet 1.3-SNAPSHOT
+  Author: G.S. Cole (guycole at gmail dot com)
+-->
+
+<servlet-mapping>
+  <servlet-name>action</servlet-name>
+  <url-pattern>*.do</url-pattern>
+</servlet-mapping>

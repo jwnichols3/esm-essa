@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/esm-essa/!svn/ver/7/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jvmti/waiters/src
+END
+waiters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/7/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jvmti/waiters/src/waiters.cpp
+END
+Agent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/esm-essa/!svn/ver/7/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jvmti/waiters/src/Agent.cpp
+END
+Agent.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/esm-essa/!svn/ver/7/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jvmti/waiters/src/Agent.hpp
+END
+Thread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/esm-essa/!svn/ver/7/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jvmti/waiters/src/Thread.cpp
+END
+Monitor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/7/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jvmti/waiters/src/Monitor.cpp
+END
+sample.makefile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/7/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jvmti/waiters/src/sample.makefile.txt
+END
+Monitor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/7/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jvmti/waiters/src/Monitor.hpp
+END
+Thread.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/esm-essa/!svn/ver/7/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jvmti/waiters/src/Thread.hpp
+END

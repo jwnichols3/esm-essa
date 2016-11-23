@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/webapp/src/org/quartz/ui/web/action/definitions
+END
+Load.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/webapp/src/org/quartz/ui/web/action/definitions/Load.java
+END
+Parameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/webapp/src/org/quartz/ui/web/action/definitions/Parameter.java
+END
+Delete.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/webapp/src/org/quartz/ui/web/action/definitions/Delete.java
+END
+DefinitionCrud-conversion.properties
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/webapp/src/org/quartz/ui/web/action/definitions/DefinitionCrud-conversion.properties
+END
+DefinitionCrud.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/webapp/src/org/quartz/ui/web/action/definitions/DefinitionCrud.java
+END
+Raw.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/webapp/src/org/quartz/ui/web/action/definitions/Raw.java
+END
+Load.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/webapp/src/org/quartz/ui/web/action/definitions/Load.properties
+END
+DefinitionCrud-validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/webapp/src/org/quartz/ui/web/action/definitions/DefinitionCrud-validation.xml
+END
+Parameter-addParameter-validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/webapp/src/org/quartz/ui/web/action/definitions/Parameter-addParameter-validation.xml
+END

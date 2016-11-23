@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/etc
+END
+local.properties-production
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/etc/local.properties-production
+END
+component-info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/etc/component-info.xml
+END
+jboss-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/etc/jboss-web.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/etc/web.xml
+END
+core-jars-component-info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/etc/core-jars-component-info.xml
+END
+local.properties-example
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/build/etc/local.properties-example
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/jndi
+END
+LoginInitialContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/jndi/LoginInitialContextFactory.java
+END
+JndiLoginInitialContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/jndi/JndiLoginInitialContextFactory.java
+END
+SecurityAssociationActions.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/security/src/main/org/jboss/security/jndi/SecurityAssociationActions.java
+END

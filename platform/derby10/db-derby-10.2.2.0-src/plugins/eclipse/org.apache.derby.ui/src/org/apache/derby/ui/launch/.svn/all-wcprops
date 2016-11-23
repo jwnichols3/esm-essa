@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/plugins/eclipse/org.apache.derby.ui/src/org/apache/derby/ui/launch
+END
+StopDerbyServerLaunchConfigurationDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/plugins/eclipse/org.apache.derby.ui/src/org/apache/derby/ui/launch/StopDerbyServerLaunchConfigurationDelegate.java
+END
+IJDerbyLaunchConfigurationDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/plugins/eclipse/org.apache.derby.ui/src/org/apache/derby/ui/launch/IJDerbyLaunchConfigurationDelegate.java
+END
+StartDerbyServerLaunchConfigurationDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/plugins/eclipse/org.apache.derby.ui/src/org/apache/derby/ui/launch/StartDerbyServerLaunchConfigurationDelegate.java
+END
+SysInfoDerbyLaunchConfigurationDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/plugins/eclipse/org.apache.derby.ui/src/org/apache/derby/ui/launch/SysInfoDerbyLaunchConfigurationDelegate.java
+END

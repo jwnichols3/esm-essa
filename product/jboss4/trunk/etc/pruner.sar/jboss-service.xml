@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Title: jboss-service.xml
+Description: Pruner MBean, use varia scheduler to delete old sample datum
+Development Environment: JBoss Application Server 4.0.5.GA
+Author: G.S. Cole (guycole at gmail dot com)
+-->
+
+<server>
+  <mbean code="org.jboss.varia.scheduler.Scheduler" name="essa:service=Scheduler">
+    <attribute name="StartAtStartup">true</attribute>
+    <attribute name="SchedulableClass">com.bgi.essa.jboss4.varia.Pruner</attribute>
+    <attribute name="SchedulableArguments">ESSA Pruner</attribute>
+    <attribute name="SchedulableArgumentTypes">java.lang.String</attribute>
+    <attribute name="InitialStartDate">NOW</attribute>
+    <attribute name="SchedulePeriod">14400000</attribute>
+    <attribute name="InitialRepetitions">-1</attribute>
+  </mbean>
+</server>

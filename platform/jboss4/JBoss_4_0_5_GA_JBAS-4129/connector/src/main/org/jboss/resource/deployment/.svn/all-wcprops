@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/deployment
+END
+AdminObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/deployment/AdminObject.java
+END
+ResourceAdapterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/deployment/ResourceAdapterFactory.java
+END
+AdminObjectMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/deployment/AdminObjectMBean.java
+END
+DummyResourceAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/deployment/DummyResourceAdapter.java
+END
+ActivationSpecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/deployment/ActivationSpecFactory.java
+END
+RARDeployment.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/deployment/RARDeployment.java
+END
+AdminObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/deployment/AdminObjectFactory.java
+END
+RARDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/deployment/RARDeployer.java
+END
+ResourceAdapterObjectModelFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/deployment/ResourceAdapterObjectModelFactory.java
+END
+RARDeployerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/deployment/RARDeployerMBean.java
+END

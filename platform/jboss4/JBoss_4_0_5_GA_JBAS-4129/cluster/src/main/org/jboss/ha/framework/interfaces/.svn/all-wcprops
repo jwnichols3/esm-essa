@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/framework/interfaces
+END
+HARMIClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/framework/interfaces/HARMIClient.java
+END
+SubPartitionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/framework/interfaces/SubPartitionInfo.java
+END
+FamilyClusterInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/framework/interfaces/FamilyClusterInfo.java
+END
+HARMIProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/framework/interfaces/HARMIProxy.java
+END
+LoadBalancePolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/framework/interfaces/LoadBalancePolicy.java
+END
+FirstAvailableIdenticalAllProxies.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/framework/interfaces/FirstAvailableIdenticalAllProxies.java
+END
+ClusteringTargetsRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/framework/interfaces/ClusteringTargetsRepository.java
+END
+RandomRobin.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/framework/interfaces/RandomRobin.java
+END
+ImmutableArrayList.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/framework/interfaces/ImmutableArrayList.java
+END
+DistributedReplicantManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/framework/interfaces/DistributedReplicantManager.java
+END
+HARMIResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/framework/interfaces/HARMIResponse.java
+END
+FamilyClusterInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/framework/interfaces/FamilyClusterInfoImpl.java
+END
+RoundRobin.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/framework/interfaces/RoundRobin.java
+END
+SubPartitionsInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/framework/interfaces/SubPartitionsInfo.java
+END
+HAPartition.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/framework/interfaces/HAPartition.java
+END
+DistributedState.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/framework/interfaces/DistributedState.java
+END
+HARMIServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/framework/interfaces/HARMIServer.java
+END
+ClusterNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/framework/interfaces/ClusterNode.java
+END
+FirstAvailable.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/framework/interfaces/FirstAvailable.java
+END
+GenericClusteringException.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/framework/interfaces/GenericClusteringException.java
+END

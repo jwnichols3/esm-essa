@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/thirdparty/jboss/jbossws14/lib
+END
+jboss-jaxrpc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/thirdparty/jboss/jbossws14/lib/jboss-jaxrpc.jar
+END
+jbossws14.sar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/thirdparty/jboss/jbossws14/lib/jbossws14.sar
+END
+jbossws14-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/thirdparty/jboss/jbossws14/lib/jbossws14-client.jar
+END
+jboss-saaj.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/thirdparty/jboss/jbossws14/lib/jboss-saaj.jar
+END
+jboss-jaxws14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/thirdparty/jboss/jbossws14/lib/jboss-jaxws14.jar
+END

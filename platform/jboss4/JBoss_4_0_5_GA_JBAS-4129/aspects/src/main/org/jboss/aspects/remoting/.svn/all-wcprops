@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/remoting
+END
+MergeMetaDataInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/remoting/MergeMetaDataInterceptor.java
+END
+ClusteredRemoting.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/remoting/ClusteredRemoting.java
+END
+ForwardingInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/remoting/ForwardingInterceptor.java
+END
+FamilyWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/remoting/FamilyWrapper.java
+END
+ClusterChooserInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/remoting/ClusterChooserInterceptor.java
+END
+PojiProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/remoting/PojiProxy.java
+END
+Remoting.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/remoting/Remoting.java
+END
+IsLocalInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/remoting/IsLocalInterceptor.java
+END
+InvokeRemoteInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/remoting/InvokeRemoteInterceptor.java
+END
+AOPRemotingInvocationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/remoting/AOPRemotingInvocationHandler.java
+END
+NotRegisteredException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/remoting/NotRegisteredException.java
+END
+ReplicantsManagerInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/remoting/ReplicantsManagerInterceptor.java
+END
+ClusterConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/remoting/ClusterConstants.java
+END
+AlreadyRegisteredException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/remoting/AlreadyRegisteredException.java
+END

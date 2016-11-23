@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm
+END
+TransactionLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/TransactionLocal.java
+END
+TransactionManagerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/TransactionManagerService.java
+END
+TransactionManagerLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/TransactionManagerLocator.java
+END
+TransactionManagerServiceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/TransactionManagerServiceMBean.java
+END
+XidImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/XidImpl.java
+END
+LocalId.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/LocalId.java
+END
+TransactionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/TransactionImpl.java
+END
+TransactionManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/TransactionManagerFactory.java
+END
+JBossRollbackException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/JBossRollbackException.java
+END
+XAExceptionFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/XAExceptionFormatter.java
+END
+LastResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/LastResource.java
+END
+XidFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/XidFactory.java
+END
+TxUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/TxUtils.java
+END
+TransactionLocalDelegateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/TransactionLocalDelegateImpl.java
+END
+GlobalId.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/GlobalId.java
+END
+JBossXATerminator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/JBossXATerminator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/package.html
+END
+XidFactoryMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/XidFactoryMBean.java
+END
+TransactionPropagationContextImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/TransactionPropagationContextImporter.java
+END
+TransactionTimeoutConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/TransactionTimeoutConfiguration.java
+END
+TransactionPropagationContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/TransactionPropagationContextFactory.java
+END
+TxManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/TxManager.java
+END
+JBossXAException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/JBossXAException.java
+END
+TransactionDemarcationSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/TransactionDemarcationSupport.java
+END
+TransactionLocalDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/TransactionLocalDelegate.java
+END
+TransactionPropagationContextUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/TransactionPropagationContextUtil.java
+END

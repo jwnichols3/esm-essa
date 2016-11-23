@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb3/cache/tree
+END
+PassivationEvictionPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb3/cache/tree/PassivationEvictionPolicy.java
+END
+StatefulCacheLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb3/cache/tree/StatefulCacheLoader.java
+END
+PassivationTreeCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb3/cache/tree/PassivationTreeCache.java
+END
+StatefulEvictionPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb3/cache/tree/StatefulEvictionPolicy.java
+END
+PassivationCacheLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb3/cache/tree/PassivationCacheLoader.java
+END
+StatefulTreeCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/main/org/jboss/ejb3/cache/tree/StatefulTreeCache.java
+END

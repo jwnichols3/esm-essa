@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/thirdparty/jboss/microcontainer/lib
+END
+jboss-microcontainer.jar
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/thirdparty/jboss/microcontainer/lib/jboss-microcontainer.jar
+END
+jboss-dependency.jar
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/thirdparty/jboss/microcontainer/lib/jboss-dependency.jar
+END
+jboss-container.jar
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/thirdparty/jboss/microcontainer/lib/jboss-container.jar
+END

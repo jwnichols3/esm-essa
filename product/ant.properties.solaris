@@ -1,0 +1,102 @@
+#
+# Title: ant.properties.solaris
+# Description: Local ant configuration file.
+# Development Environment: Solaris 10, Java 1.5.0_06, Apache Ant 1.6.5
+# Author: G.S. Cole (guycole at gmail dot com)
+#
+###############################################
+# ---Compiler---
+###############################################
+javac.debug=on
+javac.depreciation=on
+javac.optimize=off
+javac.verbose=off
+###############################################
+# ---Base Directory---
+###############################################
+base.dir=/home/coleguy/repo1/esm-essa/trunk
+###############################################
+# ---JavaDoc---
+###############################################
+#javadoc.dir=${base.dir}/javadoc
+###############################################
+# ---JNDI---
+###############################################
+jndi.base=essa
+###############################################
+# ---Platform---
+###############################################
+base.platform.dir=${base.dir}/platform
+#
+base.jre.lib=${base.platform.dir}/j2sdk/solaris/sparc/jdk1.5.0_11/jre/lib/sparc
+###############################################
+# ---Product---
+###############################################
+product.dir=${base.dir}/product
+#
+product.blessed.dir=${product.dir}/blessed
+#
+product.javadoc.dir=${product.dir}/javadoc
+#
+product.jboss.dir=${product.dir}/jboss4/trunk
+#product.jboss.dir=${product.dir}/ws/core
+#
+product.jboss.ear=essa.ear
+#
+product.jboss.client.jar=essa-jboss-client.jar
+product.jboss.server.jar=essa-jboss-server.jar
+#
+product.jboss.har=essa.har
+#
+product.instrument.sar=essa-instrument-service.sar
+#
+product.lib.dir=${product.dir}/lib
+#
+product.shared.dir=${product.dir}/shared/trunk
+#product.shared.dir=${product.dir}/ws/shared
+#
+product.shared.jar=essa-shared.jar
+#
+product.struts.dir=${product.dir}/struts1.2/trunk
+#product.struts.dir=${product.dir}/ws/struts
+#
+product.struts.war=essa.war
+#
+product.tool.dir=${product.dir}/tool
+###############################################
+# ---JBoss---
+###############################################
+jboss.home.dir=/home/coleguy/solaris/esm-essa/trunk/deploy/jboss-4.0.5.GA
+#
+jboss.client.dir=${jboss.home.dir}/client
+jboss.lib.dir=${jboss.home.dir}/lib
+#
+jboss.configuration=default
+#
+jbossall_client.jar=${jboss.client.dir}/jbossall-client.jar
+jboss_logging.jar=${jboss.client.dir}/commons-logging.jar
+#
+jboss_system.jar=${jboss.lib.dir}/jboss-system.jar
+#
+jboss_servlet.jar=${jboss.client.dir}/javax.servlet.jar
+###############################################
+# ---TomCat---
+###############################################
+tomcat.home.dir=/home/gsc/local/japp/apache-tomcat-5.5.15
+#
+#tomcat.servlet.jar=${tomcat.home.dir}/common/lib/servlet-api.jar
+tomcat.servlet.jar=${tomcat.home.dir}/common/lib/servlet-api.jar
+###############################################
+commons_chain.jar=${product.lib.dir}/commons-chain-1.1.jar
+junit.jar=${product.lib.dir}/junit-3.8.1.jar
+servlet.jar=${jboss_servlet.jar}
+###############################################
+# ---XDoclet---
+###############################################
+#xdoclet.home.dir=${product.tool.dir}/xdoclet-1.2.3
+xdoclet.home.dir=${product.tool.dir}/xdoclet-1.3-SNAPSHOT
+xdoclet.force=false
+xdoclet.verbose=true
+xdoclet.ejb.version=2.0
+xdoclet.jboss.version=4.0
+###############################################

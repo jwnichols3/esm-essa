@@ -1,0 +1,23 @@
+
+configure:
+Overriding previous definition of reference to xdoclet.task.classpath
+
+init:
+
+_buildmagic:build-bypass-checker:
+
+_buildmagic:build-bypass-notice:
+     [echo] 
+Build disabled because module is already built. To force the module
+to build define build-bypass.disabled=true.
+  
+
+_buildmagic:build-bypass-check:
+
+jars:
+
+most:
+
+main:
+
+BUILD SUCCESSFUL

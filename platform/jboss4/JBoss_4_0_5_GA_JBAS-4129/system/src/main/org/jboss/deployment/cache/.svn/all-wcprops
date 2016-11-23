@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/main/org/jboss/deployment/cache
+END
+DeploymentStoreMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/main/org/jboss/deployment/cache/DeploymentStoreMBean.java
+END
+FileDeploymentStoreMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/main/org/jboss/deployment/cache/FileDeploymentStoreMBean.java
+END
+DeploymentCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/main/org/jboss/deployment/cache/DeploymentCache.java
+END
+DeploymentCacheMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/main/org/jboss/deployment/cache/DeploymentCacheMBean.java
+END
+DeploymentStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/main/org/jboss/deployment/cache/DeploymentStore.java
+END
+FileDeploymentStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/main/org/jboss/deployment/cache/FileDeploymentStore.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/main/org/jboss/deployment/cache/package.html
+END

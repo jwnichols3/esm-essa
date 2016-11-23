@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit
+END
+T_b2i_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/T_b2i_derby.properties
+END
+recoverBadLogSetup_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/recoverBadLogSetup_derby.properties
+END
+logSwitchFail_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/logSwitchFail_derby.properties
+END
+recoverBadLog2_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/recoverBadLog2_derby.properties
+END
+T_FileSystemData_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/T_FileSystemData_derby.properties
+END
+recoverBadLog4_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/recoverBadLog4_derby.properties
+END
+recoverBadLog6_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/recoverBadLog6_derby.properties
+END
+recoveryTest_sed.properties
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/recoveryTest_sed.properties
+END
+fillLog.policy
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/fillLog.policy
+END
+T_AccessFactory_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/T_AccessFactory_derby.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/build.xml
+END
+fullRecovery_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/fullRecovery_derby.properties
+END
+recoverBadChecksumLogSetup_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/recoverBadChecksumLogSetup_derby.properties
+END
+T_CipherECB_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/T_CipherECB_app.properties
+END
+T_CipherCFB_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/T_CipherCFB_app.properties
+END
+recoverBadChecksumLog2_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/recoverBadChecksumLog2_derby.properties
+END
+daemonService_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/daemonService_derby.properties
+END
+recoverBadChecksumLog4_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/recoverBadChecksumLog4_derby.properties
+END
+recoverBadChecksumLog6_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/recoverBadChecksumLog6_derby.properties
+END
+fillLog_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/fillLog_derby.properties
+END
+T_SortController_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/T_SortController_app.properties
+END
+T_RawStoreFactory_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/T_RawStoreFactory_app.properties
+END
+recoveryTest_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/recoveryTest_derby.properties
+END
+default_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/default_app.properties
+END
+T_CipherOFB_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/T_CipherOFB_app.properties
+END
+cacheService_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/cacheService_app.properties
+END
+recoverBadLog1_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/recoverBadLog1_derby.properties
+END
+T_Heap_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/T_Heap_derby.properties
+END
+recoverBadLog3_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/recoverBadLog3_derby.properties
+END
+recoverBadLog5_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/recoverBadLog5_derby.properties
+END
+T_CipherDES_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/T_CipherDES_app.properties
+END
+TLockFactory_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/TLockFactory_derby.properties
+END
+recoverBadLog7_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/recoverBadLog7_derby.properties
+END
+T_CipherBlowfish_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/T_CipherBlowfish_app.properties
+END
+T_CipherECB_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/T_CipherECB_derby.properties
+END
+T_Cipher_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/T_Cipher_app.properties
+END
+T_CipherCFB_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/T_CipherCFB_derby.properties
+END
+fullRecoveryFail_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/fullRecoveryFail_derby.properties
+END
+readme
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/readme
+END
+T_StreamFile_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/T_StreamFile_derby.properties
+END
+T_SortController_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/T_SortController_derby.properties
+END
+recoverySetup_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/recoverySetup_derby.properties
+END
+T_MarkedLimitInputStream_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/T_MarkedLimitInputStream_derby.properties
+END
+T_RawStoreFactory_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/T_RawStoreFactory_derby.properties
+END
+recoverBadChecksumLog1_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/recoverBadChecksumLog1_derby.properties
+END
+TUUIDFactory_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/TUUIDFactory_derby.properties
+END
+recoverBadChecksumLog3_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/recoverBadChecksumLog3_derby.properties
+END
+cacheService_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/cacheService_derby.properties
+END
+T_CipherOFB_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/T_CipherOFB_derby.properties
+END
+recoverBadChecksumLog5_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/recoverBadChecksumLog5_derby.properties
+END
+recoverBadChecksumLog7_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/recoverBadChecksumLog7_derby.properties
+END
+T_CipherDES_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/T_CipherDES_derby.properties
+END
+T_XA_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/T_XA_derby.properties
+END
+T_CipherBlowfish_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/T_CipherBlowfish_derby.properties
+END
+T_Diagnosticable_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/T_Diagnosticable_derby.properties
+END
+T_Cipher_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/unit/T_Cipher_derby.properties
+END

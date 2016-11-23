@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/cache/invalidation/triggers
+END
+EntityBeanCacheBatchInvalidatorInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/cache/invalidation/triggers/EntityBeanCacheBatchInvalidatorInterceptor.java
+END

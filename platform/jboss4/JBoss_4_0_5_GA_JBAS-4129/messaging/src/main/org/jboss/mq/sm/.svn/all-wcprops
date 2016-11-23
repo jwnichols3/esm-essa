@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/sm
+END
+AbstractStateManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/sm/AbstractStateManager.java
+END
+AbstractStateManagerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/sm/AbstractStateManagerMBean.java
+END
+StateManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/sm/StateManager.java
+END

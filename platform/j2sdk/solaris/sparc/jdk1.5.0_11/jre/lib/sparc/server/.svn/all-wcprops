@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/jre/lib/sparc/server
+END
+libjsig.so
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/jre/lib/sparc/server/libjsig.so
+END
+libjvm.so
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/jre/lib/sparc/server/libjvm.so
+END
+libjvm_db.so
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/jre/lib/sparc/server/libjvm_db.so
+END
+Xusage.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/jre/lib/sparc/server/Xusage.txt
+END

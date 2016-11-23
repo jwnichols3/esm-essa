@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/naming
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/naming/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/naming/.project
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/naming/build.bat
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/naming/build.sh
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/naming/.cvsignore
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/naming/build.xml
+END

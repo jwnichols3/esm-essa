@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/esm-essa/!svn/ver/1460/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer
+END
+FileAgeDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/esm-essa/!svn/ver/737/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/FileAgeDTO.java
+END
+CannedActionAddressDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/997/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/CannedActionAddressDTO.java
+END
+DtoIf.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/esm-essa/!svn/ver/492/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/DtoIf.java
+END
+AbstractSample.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/634/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/AbstractSample.java
+END
+DirectorySizeDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm-essa/!svn/ver/829/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/DirectorySizeDTO.java
+END
+RuleSample.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm-essa/!svn/ver/1294/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/RuleSample.java
+END
+TaskDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm-essa/!svn/ver/1276/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/TaskDTO.java
+END
+VpoDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm-essa/!svn/ver/1403/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/VpoDTO.java
+END
+AlertRecordDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm-essa/!svn/ver/1460/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/AlertRecordDTO.java
+END
+FileSizeDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/esm-essa/!svn/ver/1345/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/FileSizeDTO.java
+END
+ProcessSampleDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/esm-essa/!svn/ver/1231/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/ProcessSampleDTO.java
+END
+DirectoryAgeDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm-essa/!svn/ver/1373/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/DirectoryAgeDTO.java
+END
+FileSystemSizeSampleDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/659/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/FileSystemSizeSampleDTO.java
+END
+BootTimeSampleDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/esm-essa/!svn/ver/636/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/BootTimeSampleDTO.java
+END
+FileSystemSampleDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm-essa/!svn/ver/1160/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/FileSystemSampleDTO.java
+END
+StatVfsDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/esm-essa/!svn/ver/999/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/StatVfsDTO.java
+END
+FileAgeSampleDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/esm-essa/!svn/ver/1205/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/FileAgeSampleDTO.java
+END
+DirectorySizeSampleDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/623/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/DirectorySizeSampleDTO.java
+END
+AbstractDto.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/esm-essa/!svn/ver/1180/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/AbstractDto.java
+END
+AlarmInhibitDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm-essa/!svn/ver/1258/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/AlarmInhibitDTO.java
+END
+CustomMessageAttributeDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/997/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/CustomMessageAttributeDTO.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm-essa/!svn/ver/27/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/package.html
+END
+AbstractVersioned.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/esm-essa/!svn/ver/746/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/AbstractVersioned.java
+END
+FileSizeSampleDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/esm-essa/!svn/ver/652/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/FileSizeSampleDTO.java
+END
+UserDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm-essa/!svn/ver/1278/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/UserDTO.java
+END
+ProcessDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm-essa/!svn/ver/1225/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/ProcessDTO.java
+END
+FileSystemSizeDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/esm-essa/!svn/ver/933/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/FileSystemSizeDTO.java
+END
+FileSampleDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/esm-essa/!svn/ver/654/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/FileSampleDTO.java
+END
+BootTimeDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm-essa/!svn/ver/636/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/BootTimeDTO.java
+END
+DirectoryAgeSampleDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/1373/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/DirectoryAgeSampleDTO.java
+END
+CannedActionDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm-essa/!svn/ver/1044/trunk/product/shared/trunk/src/com/bgi/essa/shared/transfer/CannedActionDTO.java
+END

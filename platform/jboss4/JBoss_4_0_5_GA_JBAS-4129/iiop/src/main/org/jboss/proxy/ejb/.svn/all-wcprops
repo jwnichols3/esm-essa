@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/proxy/ejb
+END
+ForeignTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/proxy/ejb/ForeignTransaction.java
+END
+EjbObjectCorbaServant.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/proxy/ejb/EjbObjectCorbaServant.java
+END
+IORFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/proxy/ejb/IORFactory.java
+END
+IIOPHomeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/proxy/ejb/IIOPHomeFactory.java
+END
+DynamicIIOPStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/proxy/ejb/DynamicIIOPStub.java
+END
+EjbHomeCorbaServant.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/proxy/ejb/EjbHomeCorbaServant.java
+END
+EJBMetaDataImplIIOP.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/proxy/ejb/EJBMetaDataImplIIOP.java
+END
+HomeHandleImplIIOP.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/proxy/ejb/HomeHandleImplIIOP.java
+END
+LocalIIOPInvoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/proxy/ejb/LocalIIOPInvoker.java
+END
+NoTxPropagationInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/proxy/ejb/NoTxPropagationInterceptor.java
+END
+HandleImplIIOP.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/proxy/ejb/HandleImplIIOP.java
+END

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30
+END
+Persistent.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30/Persistent.java
+END
+Customer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30/Customer.java
+END
+Animal.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30/Animal.java
+END
+HairlessCat.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30/HairlessCat.java
+END
+OIDObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30/OIDObject.java
+END
+Reptile.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30/Reptile.java
+END
+Mammal.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30/Mammal.java
+END
+WorkRequestError.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30/WorkRequestError.java
+END
+Query.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30/Query.java
+END
+Updateable.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30/Updateable.java
+END
+LineItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30/LineItem.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30/Person.java
+END
+Human.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30/Human.java
+END
+Order.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30/Order.java
+END
+Contraband.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30/Contraband.java
+END
+CompositeIdEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30/CompositeIdEntity.java
+END
+CompositeId.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30/CompositeId.java
+END
+Name.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30/Name.java
+END
+Product.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30/Product.java
+END
+PhoneNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30/PhoneNumber.java
+END
+ImportedProduct.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30/ImportedProduct.java
+END
+Lizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30/Lizard.java
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30/Address.java
+END
+LegacyClassWithCompositeId.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30/LegacyClassWithCompositeId.java
+END
+ClassWithQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30/ClassWithQuery.java
+END
+ICompositeId.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30/ICompositeId.java
+END
+Pet.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30/Pet.java
+END
+Error.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/src/java/test/hibernate30/Error.java
+END

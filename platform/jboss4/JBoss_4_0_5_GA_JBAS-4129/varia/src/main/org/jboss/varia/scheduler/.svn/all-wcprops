@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/scheduler
+END
+TCLActions.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/scheduler/TCLActions.java
+END
+SingleScheduleProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/scheduler/SingleScheduleProvider.java
+END
+Schedulable.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/scheduler/Schedulable.java
+END
+SingleScheduleProviderMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/scheduler/SingleScheduleProviderMBean.java
+END
+DBScheduleProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/scheduler/DBScheduleProvider.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/scheduler/package.html
+END
+Scheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/scheduler/Scheduler.java
+END
+DBScheduleProviderMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/scheduler/DBScheduleProviderMBean.java
+END
+SchedulerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/scheduler/SchedulerMBean.java
+END
+ScheduleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/scheduler/ScheduleManager.java
+END
+XMLScheduleProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/scheduler/XMLScheduleProvider.java
+END
+ScheduleManagerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/scheduler/ScheduleManagerMBean.java
+END
+XMLScheduleProviderMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/scheduler/XMLScheduleProviderMBean.java
+END
+AbstractScheduleProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/scheduler/AbstractScheduleProvider.java
+END
+AbstractScheduleProviderMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/main/org/jboss/varia/scheduler/AbstractScheduleProviderMBean.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/src/test/org/jboss/test/aop/annotated/declare
+END
+SystemOutDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/src/test/org/jboss/test/aop/annotated/declare/SystemOutDecorator.java
+END
+DeclareAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/src/test/org/jboss/test/aop/annotated/declare/DeclareAspect.java
+END
+POJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/src/test/org/jboss/test/aop/annotated/declare/POJO.java
+END
+AnnotatedDeclareTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/src/test/org/jboss/test/aop/annotated/declare/AnnotatedDeclareTestCase.java
+END

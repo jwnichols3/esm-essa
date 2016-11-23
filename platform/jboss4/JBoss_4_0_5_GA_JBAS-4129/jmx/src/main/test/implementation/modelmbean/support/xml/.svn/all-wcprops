@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/implementation/modelmbean/support/xml
+END
+jboss_xmbean_1_0.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/implementation/modelmbean/support/xml/jboss_xmbean_1_0.dtd
+END
+xmbean.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/implementation/modelmbean/support/xml/xmbean.dtd
+END
+TrivialManagementInterface.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/implementation/modelmbean/support/xml/TrivialManagementInterface.xml
+END
+TrivialManagementInterface2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/implementation/modelmbean/support/xml/TrivialManagementInterface2.xml
+END
+TrivialManagementInterface3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/implementation/modelmbean/support/xml/TrivialManagementInterface3.xml
+END
+UserManagementInterface.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/implementation/modelmbean/support/xml/UserManagementInterface.xml
+END
+TrivialManagementInterface4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/implementation/modelmbean/support/xml/TrivialManagementInterface4.xml
+END
+TrivialManagementInterface5.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/implementation/modelmbean/support/xml/TrivialManagementInterface5.xml
+END
+User.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/jmx/src/main/test/implementation/modelmbean/support/xml/User.xml
+END

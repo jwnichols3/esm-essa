@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tools/lib
+END
+ant-javamail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tools/lib/ant-javamail.jar
+END
+ant-xslp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tools/lib/ant-xslp.jar
+END
+ant-nodeps.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tools/lib/ant-nodeps.jar
+END
+ant-junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tools/lib/ant-junit.jar
+END
+bsf.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tools/lib/bsf.jar
+END
+xercesImpl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tools/lib/xercesImpl.jar
+END
+ant-launcher.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tools/lib/ant-launcher.jar
+END
+ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tools/lib/ant.jar
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tools/lib/README
+END
+buildmagic-tasks.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tools/lib/buildmagic-tasks.jar
+END
+pretty.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tools/lib/pretty.jar
+END
+junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tools/lib/junit.jar
+END
+xml-apis.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tools/lib/xml-apis.jar
+END
+ant-trax.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tools/lib/ant-trax.jar
+END
+jbossbuild.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tools/lib/jbossbuild.jar
+END
+resolver.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tools/lib/resolver.jar
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tools/lib/.cvsignore
+END
+xalan.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tools/lib/xalan.jar
+END

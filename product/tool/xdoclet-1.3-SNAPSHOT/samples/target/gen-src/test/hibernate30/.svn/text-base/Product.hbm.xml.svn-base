@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+    "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping
+
+>
+
+    <class
+            name="test.hibernate30.Product"
+            table="PRODUCTS"
+            dynamic-update="true"
+            discriminator-value="null"
+    >
+
+    <id
+        name="id"
+            column="id"
+            unsaved-value="null"
+    >
+
+    <generator
+        class="sequence"
+    >
+    <param name="table">
+        <![CDATA[HIVAL]]>
+    </param>
+
+    <param name="column">
+        <![CDATA[NEXT]]>
+    </param>
+
+    </generator>
+
+    </id>
+
+        <discriminator
+            column="PRODUCT_TYPE"
+            not-null="false"
+            type="string"
+            length="16"
+        />
+
+        <version
+            name="version"
+            column="version"
+            type="int"
+        />
+
+    <properties
+        name="legacyprops"
+    >
+
+        <property
+            name="code"
+                    column="code"
+                length="16"
+                unique="true"
+                update="false"
+        >
+            <meta
+                attribute="testatt"
+            >
+                <![CDATA[attvalue]]>
+            </meta>
+
+            <formula>
+                <![CDATA[value="formula 3"]]>
+            </formula>
+
+        </property>
+
+        <property
+            name="price"
+                    column="price"
+        >
+
+        </property>
+
+    </properties>
+
+        <property
+            name="description"
+                node="description"
+                access="property"
+                    type="string"
+                    column="description"
+                length="512"
+                precision="5"
+                scale="2"
+                not-null="false"
+                unique="false"
+                update="true"
+                insert="true"
+                optimistic-lock="true"
+                formula="xyzzy"
+                index="ix-product-description"
+                lazy="true"
+        >
+            <meta
+                attribute="scope-set"
+            >
+                <![CDATA[protected]]>
+            </meta>
+
+            <meta
+                attribute="scope-get"
+            >
+                <![CDATA[public]]>
+            </meta>
+
+            <column
+                name="description" 
+                length="512"
+                precision="5"
+                scale="2"
+                not-null="false"
+                unique="false"
+                unique-key="unique-key"
+                sql-type="varchar"
+                index="ix-product-description"
+                check="sql expression"
+            />
+
+            <formula>
+                <![CDATA[formula 1]]>
+            </formula>
+
+            <formula>
+                <![CDATA[formula 2]]>
+            </formula>
+
+            <type name="my.custom.type">
+    <param name="param1">
+        <![CDATA[0]]>
+    </param>
+
+    <param name="param2">
+        <![CDATA[text]]>
+    </param>
+
+            </type>
+
+        </property>
+
+        <property
+            name="image"
+                length="4096"
+        >
+
+            <column
+                name="image1" 
+            />
+
+            <column
+                name="image2" 
+            />
+
+        </property>
+
+        <property
+            name="updateComment"
+                    column="LAST_UPDATED_BY"
+        >
+
+        </property>
+
+        <property
+            name="created"
+                    type="timestamp"
+                    column="created"
+                update="false"
+                insert="true"
+        >
+
+        </property>
+
+    <subclass
+        name="test.hibernate30.ImportedProduct"
+            discriminator-value="imported"
+            dynamic-update="true"
+            dynamic-insert="true"
+            select-before-update="false"
+    >
+
+        <property
+            name="origin"
+                    column="origin"
+                not-null="true"
+        >
+
+        </property>
+
+        <property
+            name="locale"
+                    column="locale"
+        >
+
+        </property>
+
+    <subclass
+        name="test.hibernate30.Contraband"
+            discriminator-value="contraband"
+    >
+
+    </subclass>
+
+    </subclass>
+
+    <subclass
+        name="test.hibernate30.Pet"
+            discriminator-value="pet"
+    >
+
+        <one-to-one
+            name="animal"
+        >
+
+        </one-to-one>
+
+    <idbag
+
+	name="lovers"
+
+	    table="PEOPLE"
+
+    >
+
+    <collection-id
+            column="ID"
+            type="long"
+    >
+
+    <generator
+        class="sequence"
+    >
+
+    </generator>
+
+    </collection-id>
+
+            <key
+                column="ID"
+            >
+
+            </key>          
+
+            <many-to-many
+                class="test.hibernate30.Person"
+                column="LOVER"
+                outer-join="true"
+             >
+
+             </many-to-many>
+
+    </idbag>
+
+    </subclass>
+
+    </class>    
+
+</hibernate-mapping>
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/il/jvm
+END
+JVMServerILFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/il/jvm/JVMServerILFactory.java
+END
+JVMClientIL.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/il/jvm/JVMClientIL.java
+END
+JVMClientILService.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/il/jvm/JVMClientILService.java
+END
+JVMServerIL.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/il/jvm/JVMServerIL.java
+END
+JVMServerILService.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/il/jvm/JVMServerILService.java
+END
+JVMServerILServiceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/16/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/messaging/src/main/org/jboss/mq/il/jvm/JVMServerILServiceMBean.java
+END

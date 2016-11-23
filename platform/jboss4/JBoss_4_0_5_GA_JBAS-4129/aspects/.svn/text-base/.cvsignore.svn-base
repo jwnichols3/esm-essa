@@ -1,0 +1,4 @@
+output
+.settings
+build.log
+jboss-aop_*.zip

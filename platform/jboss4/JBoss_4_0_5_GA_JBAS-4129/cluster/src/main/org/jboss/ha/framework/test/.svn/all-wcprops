@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/framework/test
+END
+ExplicitFailoverServerInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/framework/test/ExplicitFailoverServerInterceptor.java
+END
+ServiceUnavailableClientInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/framework/test/ServiceUnavailableClientInterceptor.java
+END
+ExplicitFailoverClientInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/ha/framework/test/ExplicitFailoverClientInterceptor.java
+END

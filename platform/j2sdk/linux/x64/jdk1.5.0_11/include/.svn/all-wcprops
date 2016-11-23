@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/include
+END
+jvmti.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/include/jvmti.h
+END
+jvmdi.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/include/jvmdi.h
+END
+jni.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/include/jni.h
+END
+jdwpTransport.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/include/jdwpTransport.h
+END
+jvmpi.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/include/jvmpi.h
+END
+jawt.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/include/jawt.h
+END

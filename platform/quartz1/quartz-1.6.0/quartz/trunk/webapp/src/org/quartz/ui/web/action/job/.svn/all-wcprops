@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/webapp/src/org/quartz/ui/web/action/job
+END
+SimpleJobActions.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/webapp/src/org/quartz/ui/web/action/job/SimpleJobActions.java
+END
+saveJob-conversion.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/webapp/src/org/quartz/ui/web/action/job/saveJob-conversion.properties
+END
+CreateJob.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/webapp/src/org/quartz/ui/web/action/job/CreateJob.properties
+END
+CreateJob-saveDefinedJob-validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/webapp/src/org/quartz/ui/web/action/job/CreateJob-saveDefinedJob-validation.xml
+END
+CreateJob-saveJob-validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/webapp/src/org/quartz/ui/web/action/job/CreateJob-saveJob-validation.xml
+END
+CreateDefJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/webapp/src/org/quartz/ui/web/action/job/CreateDefJob.java
+END
+CreateJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/webapp/src/org/quartz/ui/web/action/job/CreateJob.java
+END

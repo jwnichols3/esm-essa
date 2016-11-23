@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/test/test/patterns/readwritelock
+END
+ProcessTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/test/test/patterns/readwritelock/ProcessTransaction.java
+END
+AccountWithReadWriteLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/test/test/patterns/readwritelock/AccountWithReadWriteLock.java
+END
+Driver.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/test/test/patterns/readwritelock/Driver.java
+END
+Account.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/test/test/patterns/readwritelock/Account.java
+END
+JUnitTestReadWriteLockAspects.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/test/test/patterns/readwritelock/JUnitTestReadWriteLockAspects.java
+END

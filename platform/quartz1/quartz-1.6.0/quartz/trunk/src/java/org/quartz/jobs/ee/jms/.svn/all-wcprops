@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/jobs/ee/jms
+END
+JmsJobException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/jobs/ee/jms/JmsJobException.java
+END
+JmsMessageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/jobs/ee/jms/JmsMessageFactory.java
+END
+SendTopicMessageJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/jobs/ee/jms/SendTopicMessageJob.java
+END
+JmsHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/jobs/ee/jms/JmsHelper.java
+END
+SendDestinationMessageJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/jobs/ee/jms/SendDestinationMessageJob.java
+END
+SendQueueMessageJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/jobs/ee/jms/SendQueueMessageJob.java
+END

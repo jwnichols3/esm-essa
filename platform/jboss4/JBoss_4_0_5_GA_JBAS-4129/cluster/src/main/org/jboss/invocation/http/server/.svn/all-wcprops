@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/invocation/http/server
+END
+HttpProxyFactoryHA.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/invocation/http/server/HttpProxyFactoryHA.java
+END
+HttpProxyFactoryHAMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/invocation/http/server/HttpProxyFactoryHAMBean.java
+END
+HttpInvokerHA.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/invocation/http/server/HttpInvokerHA.java
+END
+HAInvokerWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/main/org/jboss/invocation/http/server/HAInvokerWrapper.java
+END

@@ -1,0 +1,4 @@
+ij.protocol=jdbc:derby:
+
+usedefaults=true
+useextdirs=true

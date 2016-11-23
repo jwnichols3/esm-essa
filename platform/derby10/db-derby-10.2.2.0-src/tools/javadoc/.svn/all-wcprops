@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/tools/javadoc
+END
+publishedapi_jdbc3.ant
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/tools/javadoc/publishedapi_jdbc3.ant
+END
+publishedapi_jdbc4.ant
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/tools/javadoc/publishedapi_jdbc4.ant
+END
+derbydocs_jdbc4_exclusions.ant
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/tools/javadoc/derbydocs_jdbc4_exclusions.ant
+END
+package-list
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/tools/javadoc/package-list
+END
+publishedapi.ant
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/tools/javadoc/publishedapi.ant
+END
+derbydocs_exclusions.ant
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/tools/javadoc/derbydocs_exclusions.ant
+END

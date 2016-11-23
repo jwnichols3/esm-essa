@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/consumer/src/org/jboss/tutorial/consumer/bean
+END
+ExampleProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/consumer/src/org/jboss/tutorial/consumer/bean/ExampleProducer.java
+END
+Tester.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/consumer/src/org/jboss/tutorial/consumer/bean/Tester.java
+END
+ExampleProducerXA.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/consumer/src/org/jboss/tutorial/consumer/bean/ExampleProducerXA.java
+END
+ExampleProducerLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/consumer/src/org/jboss/tutorial/consumer/bean/ExampleProducerLocal.java
+END
+ExampleProducerRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/consumer/src/org/jboss/tutorial/consumer/bean/ExampleProducerRemote.java
+END
+TesterBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/consumer/src/org/jboss/tutorial/consumer/bean/TesterBean.java
+END
+ExampleConsumerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/consumer/src/org/jboss/tutorial/consumer/bean/ExampleConsumerBean.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/esm-essa/!svn/ver/228/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk
+END
+checkstyle.ant
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/checkstyle.ant
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/license.txt
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/build.properties
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/readme.txt
+END
+suppressions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/suppressions.xml
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/.cvsignore
+END
+checkstyle_checks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/checkstyle_checks.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/esm-essa/!svn/ver/228/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/build.xml
+END

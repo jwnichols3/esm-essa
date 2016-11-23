@@ -1,0 +1,30 @@
+<project>
+    <name>OSUser</name>
+    <jiraId>10003</jiraId>
+    <jiraName>USER</jiraName>
+    <confluenceName>USER</confluenceName>
+
+    <forums>
+        <usersId>27</usersId>
+        <devId>28</devId>
+        <cvsId>29</cvsId>
+    </forums>
+
+    <docs>
+        <url>index.html</url>
+    </docs>
+
+    <owners>
+        <person>
+            <name>Mike Cannon-Brookes</name>
+            <email>mike@atlassian.com</email>
+        </person>
+    </owners>
+
+    <developers>
+    </developers>
+
+    <releases>
+    </releases>
+
+</project>

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/security
+END
+JBossSecurityMgrRealm.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/security/JBossSecurityMgrRealm.java
+END
+BasicAuthValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/security/BasicAuthValve.java
+END
+SecurityAssociationValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/security/SecurityAssociationValve.java
+END
+JaccAuthorizationRealm.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/security/JaccAuthorizationRealm.java
+END
+JaccContextValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/security/JaccContextValve.java
+END
+HttpServletRequestCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/security/HttpServletRequestCallback.java
+END
+CustomPrincipalValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/security/CustomPrincipalValve.java
+END
+ExtendedFormAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/security/ExtendedFormAuthenticator.java
+END
+JBossGenericPrincipal.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/security/JBossGenericPrincipal.java
+END
+GenericHeaderAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/security/GenericHeaderAuthenticator.java
+END
+HttpServletRequestPolicyContextHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/security/HttpServletRequestPolicyContextHandler.java
+END
+AllRolesMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/security/AllRolesMode.java
+END
+SecurityFlushSessionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/security/SecurityFlushSessionListener.java
+END
+FormAuthValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/security/FormAuthValve.java
+END
+mbeans-descriptors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/security/mbeans-descriptors.xml
+END
+SecurityAssociationActions.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/security/SecurityAssociationActions.java
+END
+WebCallbackHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/security/WebCallbackHandler.java
+END
+DigestCallbackHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/security/DigestCallbackHandler.java
+END
+HttpServletRequestValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/security/HttpServletRequestValve.java
+END
+HttpServletRequestLoginModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/security/HttpServletRequestLoginModule.java
+END
+RunAsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/security/RunAsListener.java
+END
+FormAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/security/FormAuthenticator.java
+END

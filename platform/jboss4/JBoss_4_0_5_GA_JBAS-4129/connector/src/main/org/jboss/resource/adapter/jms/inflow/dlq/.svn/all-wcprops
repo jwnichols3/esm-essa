@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/adapter/jms/inflow/dlq
+END
+AbstractDLQHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/adapter/jms/inflow/dlq/AbstractDLQHandler.java
+END
+GenericDLQHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/adapter/jms/inflow/dlq/GenericDLQHandler.java
+END
+JBossMQDLQHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/adapter/jms/inflow/dlq/JBossMQDLQHandler.java
+END

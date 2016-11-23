@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/plugins/eclipse/org.apache.derby.ui/src/org/apache/derby/ui/popup/actions
+END
+RemoveDerbyNature.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/plugins/eclipse/org.apache.derby.ui/src/org/apache/derby/ui/popup/actions/RemoveDerbyNature.java
+END
+AddDerbyNature.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/plugins/eclipse/org.apache.derby.ui/src/org/apache/derby/ui/popup/actions/AddDerbyNature.java
+END

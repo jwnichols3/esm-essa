@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esm-essa/!svn/ver/227/trunk/platform/jboss4/essa/deploy
+END
+ejb-deployer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/esm-essa/!svn/ver/227/trunk/platform/jboss4/essa/deploy/ejb-deployer.xml
+END
+schedule-manager-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/esm-essa/!svn/ver/227/trunk/platform/jboss4/essa/deploy/schedule-manager-service.xml
+END
+derby-ds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/esm-essa/!svn/ver/227/trunk/platform/jboss4/essa/deploy/derby-ds.xml
+END
+quartz-service.tar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/esm-essa/!svn/ver/227/trunk/platform/jboss4/essa/deploy/quartz-service.tar
+END
+quartz-ds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/esm-essa/!svn/ver/227/trunk/platform/jboss4/essa/deploy/quartz-ds.xml
+END

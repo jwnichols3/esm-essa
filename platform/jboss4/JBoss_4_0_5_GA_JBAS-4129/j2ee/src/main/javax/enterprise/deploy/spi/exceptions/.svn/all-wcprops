@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/spi/exceptions
+END
+DeploymentManagerCreationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/spi/exceptions/DeploymentManagerCreationException.java
+END
+ClientExecuteException.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/spi/exceptions/ClientExecuteException.java
+END
+BeanNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/spi/exceptions/BeanNotFoundException.java
+END
+TargetException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/spi/exceptions/TargetException.java
+END
+ConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/spi/exceptions/ConfigurationException.java
+END
+OperationUnsupportedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/spi/exceptions/OperationUnsupportedException.java
+END
+InvalidModuleException.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/spi/exceptions/InvalidModuleException.java
+END
+DConfigBeanVersionUnsupportedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/spi/exceptions/DConfigBeanVersionUnsupportedException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/j2ee/src/main/javax/enterprise/deploy/spi/exceptions/package.html
+END

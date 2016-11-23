@@ -1,0 +1,80 @@
+10
+
+dir
+1460
+https://esm-essa.bgidev.net/svn/esm-essa/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/unitTests
+https://esm-essa.bgidev.net/svn/esm-essa
+
+
+
+2007-04-26T18:47:45.428231Z
+115
+coleguy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8c14f0ad-622d-0410-be72-f8c38c5cac15
+
+crypto
+dir
+
+lang
+dir
+
+harness
+dir
+
+services
+dir
+
+store
+dir
+
+util
+dir
+
+build.xml
+file
+
+
+
+
+2010-07-19T20:00:55.308129Z
+386545f497df3012b077c85dd9f1b9b4
+2007-04-26T18:47:45.428231Z
+115
+coleguy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3167
+

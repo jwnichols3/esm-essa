@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/adapter/jdbc/vendor
+END
+OracleXAExceptionFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/adapter/jdbc/vendor/OracleXAExceptionFormatter.java
+END
+MySQLExceptionSorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/adapter/jdbc/vendor/MySQLExceptionSorter.java
+END
+OracleExceptionSorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/adapter/jdbc/vendor/OracleExceptionSorter.java
+END
+OracleXAExceptionFormatterMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/adapter/jdbc/vendor/OracleXAExceptionFormatterMBean.java
+END
+SybaseExceptionSorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/adapter/jdbc/vendor/SybaseExceptionSorter.java
+END
+MSSQLValidConnectionChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/adapter/jdbc/vendor/MSSQLValidConnectionChecker.java
+END
+PostgreSQLValidConnectionChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/adapter/jdbc/vendor/PostgreSQLValidConnectionChecker.java
+END
+InformixExceptionSorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/adapter/jdbc/vendor/InformixExceptionSorter.java
+END
+OracleValidConnectionChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/adapter/jdbc/vendor/OracleValidConnectionChecker.java
+END
+MySQLValidConnectionChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/adapter/jdbc/vendor/MySQLValidConnectionChecker.java
+END

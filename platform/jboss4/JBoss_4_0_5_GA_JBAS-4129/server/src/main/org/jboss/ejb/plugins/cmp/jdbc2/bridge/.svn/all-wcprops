@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc2/bridge
+END
+JDBCCMPFieldBridge2.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc2/bridge/JDBCCMPFieldBridge2.java
+END
+JDBCCMRFieldBridge2.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc2/bridge/JDBCCMRFieldBridge2.java
+END
+EJBSelectBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc2/bridge/EJBSelectBridge.java
+END
+JDBCEntityBridge2.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc2/bridge/JDBCEntityBridge2.java
+END

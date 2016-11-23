@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+    "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping
+
+>
+
+    <class
+            name="test.hibernate30.Animal"
+            table="ANIMALS"
+            dynamic-update="true"
+    >
+
+    <id
+        name="id"
+            column="id"
+            unsaved-value="null"
+    >
+
+    <generator
+        class="sequence"
+    >
+    <param name="table">
+        <![CDATA[HIVAL]]>
+    </param>
+
+    <param name="column">
+        <![CDATA[NEXT]]>
+    </param>
+
+    </generator>
+
+    </id>
+
+        <discriminator
+            column="disc"
+            not-null="true"
+            force="false"
+        />
+
+        <version
+            name="version"
+            column="version"
+            type="int"
+        />
+
+    <query-list
+	name="querylist1"
+	query-ref="queryref1"
+    />
+
+    <query-list
+	name="querylist2"
+	query-ref="queryref2"
+    />
+
+        <set
+            name="prey"
+            access="property"
+            table="PREDATOR_PREY"
+            schema="schema"
+            catalog="catalog"
+            subselect="subselect sql"
+            lazy="true"
+            sort="natural"
+            inverse="false"
+            order-by="PREY_ID"
+            where="sql"
+            batch-size="10"
+            outer-join="auto"
+            fetch="subselect"
+            persister="persistClass"
+            collection-type="collection-type"
+            check="check sql"
+            optimistic-lock="true"
+            node="animal"
+            embed-xml="true"
+        >
+
+            <!-- @hibernate.collection-key tag is deprecated, use @hibernate.key instead -->
+            <key
+                column="PREDATOR_ID"
+            >
+
+            </key>
+
+            <!-- @hibernate.collection-many-to-many tag is deprecated, use @hibernate.many-to-many instead -->
+            <many-to-many
+                class=""
+                column="PREY_ID"
+                outer-join="auto"
+             />
+
+        </set>
+
+        <property
+            name="sex"
+                    column="sex"
+                not-null="true"
+                optimistic-lock="false"
+        >
+
+        </property>
+
+        <property
+            name="created"
+                    type="timestamp"
+                    column="created"
+                update="false"
+                insert="true"
+        >
+
+        </property>
+
+    <union-subclass
+            entity-name="HUMANS"
+        name="test.hibernate30.Human"
+            proxy="test.hibernate30.Human"
+            table="HUMANS"
+            schema="THINGS"
+            catalog="CAT"
+            subselect="sql expression"
+            dynamic-update="true"
+            dynamic-insert="true"
+            select-before-update="true"
+            extends="test.hibernate30.Animal"
+            lazy="true"
+            abstract="false"
+            persister="my.PersisterClass"
+            check="sql expression 2"
+            batch-size="10"
+            node="human"
+    >
+
+        <meta
+            attribute="meta attribute"
+        >
+            <![CDATA[meta value]]>
+        </meta>
+
+            <subselect>
+                <![CDATA[subselect sql expression]]>
+            </subselect>
+
+	<synchronize 
+	    table="SYNC_TABLE_1"
+	/>
+
+	<synchronize 
+	    table="SYNC_TABLE_2"
+	/>
+
+    <query-list
+	name="querylist1"
+	query-ref="queryref1"
+    />
+
+    <query-list
+	name="querylist2"
+	query-ref="queryref2"
+    />
+
+        <component
+            name="name"
+        >
+
+        <property
+            name="first"
+                    column="FIRST_NAME"
+        >
+
+        </property>
+
+        <property
+            name="initial"
+        >
+
+            <column
+                name="INITIAL" 
+                not-null="true"
+                sql-type="VARCHAR(1)"
+            />
+
+        </property>
+
+        <property
+            name="last"
+                    column="LIST_NAME"
+        >
+
+        </property>
+
+        </component>
+
+        <property
+            name="occupation"
+                    column="occupation"
+        >
+
+        </property>
+
+        <loader query-ref="query ref"/>
+
+        <sql-insert 
+            callable="true"
+        >
+            <![CDATA[sql insert]]>
+        </sql-insert>
+
+        <sql-update 
+        >
+            <![CDATA[sql update]]>
+        </sql-update>
+
+        <sql-delete 
+            callable="true"
+        >
+            <![CDATA[sql delete]]>
+        </sql-delete>
+
+    </union-subclass>
+
+    <union-subclass
+        name="test.hibernate30.Reptile"
+            table="REPTILES"
+    >
+
+    <union-subclass
+        name="test.hibernate30.Lizard"
+            table="LIZARDS"
+    >
+
+        <property
+            name="bodyTemperature"
+                    column="bodyTemperature"
+                not-null="true"
+        >
+
+        </property>
+
+    </union-subclass>
+
+    </union-subclass>
+
+    </class>    
+
+    <sql-query 
+
+        name="custom-query-1"
+
+            flush-mode="never"
+
+            cacheable="true"
+
+            cache-region="queries"
+
+            fetch-size="10"
+
+            timeout="5"
+
+            callable="true"
+
+    >
+
+        <return-scalar
+            column="scalar_column"
+            type="int"
+        />
+
+	<synchronize 
+	    table="table"
+	/>
+
+            <![CDATA[select scalar from table]]>
+
+    </sql-query>
+
+    <sql-query 
+
+        name="custom-query-2"
+
+    >
+
+	<return
+
+		alias="alias"
+
+		entity-name="entity-name"
+
+		class="class"
+
+		lock-mode="none"
+
+	>
+
+	<return-discriminator
+	    column="discriminator_column"
+	/>
+
+	<return-property
+
+		name="property1"
+
+		column="column"
+
+	>
+
+	</return-property>
+
+	<return-property
+
+		name="property2"
+
+	>
+
+	<return-column
+	    name="column1"
+	/>
+
+	<return-column
+	    name="column2"
+	/>
+
+	</return-property>
+
+	</return>
+
+            <![CDATA[select object from table]]>
+
+    </sql-query>
+
+    <sql-query 
+
+        name="custom-query-3"
+
+    >
+
+	<return-join
+
+		alias="alias"
+
+		property="property"
+
+		lock-mode="none"
+
+	/>
+
+	<load-collection
+
+		alias="alias"
+
+		role="role"
+
+		lock-mode="none"
+
+	/>
+
+            <![CDATA[select join]]>
+
+    </sql-query>
+
+</hibernate-mapping>
+

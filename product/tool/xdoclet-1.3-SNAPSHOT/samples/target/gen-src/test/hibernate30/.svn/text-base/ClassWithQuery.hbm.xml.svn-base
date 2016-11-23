@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+    "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping
+
+>
+
+    <sql-query 
+
+        name="query1"
+
+    >
+
+	<return
+
+		alias="return1"
+
+	>
+
+	</return>
+
+            <![CDATA[{ SQL QUERY 1 }]]>
+
+    </sql-query>
+
+    <sql-query 
+
+        name="query2"
+
+    >
+
+	<return
+
+		alias="return2"
+
+	>
+
+	</return>
+
+            <![CDATA[{ SQL QUERY 2 }]]>
+
+    </sql-query>
+
+</hibernate-mapping>
+

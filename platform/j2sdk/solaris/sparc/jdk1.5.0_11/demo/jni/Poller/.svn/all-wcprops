@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/esm-essa/!svn/ver/6/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jni/Poller
+END
+PollingServer$Consumer.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/6/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jni/Poller/PollingServer$Consumer.class
+END
+LinkedQueue.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/esm-essa/!svn/ver/6/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jni/Poller/LinkedQueue.class
+END
+LinkedQueue$LinkedNode.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/6/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jni/Poller/LinkedQueue$LinkedNode.class
+END
+Client.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm-essa/!svn/ver/6/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jni/Poller/Client.class
+END
+Poller.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm-essa/!svn/ver/6/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jni/Poller/Poller.h
+END
+SimpleServer.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/6/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jni/Poller/SimpleServer.class
+END
+LinkedQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/esm-essa/!svn/ver/6/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jni/Poller/LinkedQueue.java
+END
+Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm-essa/!svn/ver/6/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jni/Poller/Client.java
+END
+PollingServer.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm-essa/!svn/ver/6/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jni/Poller/PollingServer.class
+END
+SimpleServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/esm-essa/!svn/ver/6/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jni/Poller/SimpleServer.java
+END
+Poller.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm-essa/!svn/ver/6/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jni/Poller/Poller.class
+END
+SimpleServer$ConnHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/6/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jni/Poller/SimpleServer$ConnHandler.class
+END
+PollingServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/6/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jni/Poller/PollingServer.java
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm-essa/!svn/ver/6/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jni/Poller/README.txt
+END
+Poller.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm-essa/!svn/ver/6/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jni/Poller/Poller.java
+END
+Poller.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm-essa/!svn/ver/6/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jni/Poller/Poller.c
+END

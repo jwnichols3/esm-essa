@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/junitTests/derbyNet
+END
+CompatibilityTest_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/junitTests/derbyNet/CompatibilityTest_app.properties
+END
+OwnServerTests_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/junitTests/derbyNet/OwnServerTests_app.properties
+END
+CompatibilityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/junitTests/derbyNet/CompatibilityTest.java
+END
+OwnServerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/junitTests/derbyNet/OwnServerTests.java
+END
+copyfiles.ant
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/junitTests/derbyNet/copyfiles.ant
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/testing/org/apache/derbyTesting/functionTests/tests/junitTests/derbyNet/build.xml
+END

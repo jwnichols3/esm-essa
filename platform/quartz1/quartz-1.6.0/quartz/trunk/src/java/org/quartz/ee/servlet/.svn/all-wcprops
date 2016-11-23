@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/ee/servlet
+END
+QuartzInitializerServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/ee/servlet/QuartzInitializerServlet.java
+END
+QuartzInitializerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/ee/servlet/QuartzInitializerListener.java
+END

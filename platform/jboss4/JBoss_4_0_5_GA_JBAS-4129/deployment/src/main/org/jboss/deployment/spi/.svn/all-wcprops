@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/deployment/src/main/org/jboss/deployment/spi
+END
+LocalhostTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/deployment/src/main/org/jboss/deployment/spi/LocalhostTarget.java
+END
+SerializableTargetModuleID.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/deployment/src/main/org/jboss/deployment/spi/SerializableTargetModuleID.java
+END
+DConfigBeanImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/deployment/src/main/org/jboss/deployment/spi/DConfigBeanImpl.java
+END
+DeploymentMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/deployment/src/main/org/jboss/deployment/spi/DeploymentMetaData.java
+END
+JMXTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/deployment/src/main/org/jboss/deployment/spi/JMXTarget.java
+END
+DConfigBeanRootImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/deployment/src/main/org/jboss/deployment/spi/DConfigBeanRootImpl.java
+END
+JBossTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/deployment/src/main/org/jboss/deployment/spi/JBossTarget.java
+END
+DeploymentWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/deployment/src/main/org/jboss/deployment/spi/DeploymentWorker.java
+END
+DeploymentConfigurationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/deployment/src/main/org/jboss/deployment/spi/DeploymentConfigurationImpl.java
+END
+TargetModuleIDImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/deployment/src/main/org/jboss/deployment/spi/TargetModuleIDImpl.java
+END
+JarUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/deployment/src/main/org/jboss/deployment/spi/JarUtils.java
+END
+DeploymentManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/deployment/src/main/org/jboss/deployment/spi/DeploymentManagerImpl.java
+END

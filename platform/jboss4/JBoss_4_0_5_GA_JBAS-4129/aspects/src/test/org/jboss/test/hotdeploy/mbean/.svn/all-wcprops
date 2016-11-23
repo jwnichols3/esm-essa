@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/test/org/jboss/test/hotdeploy/mbean
+END
+Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/test/org/jboss/test/hotdeploy/mbean/Service.java
+END
+POJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/test/org/jboss/test/hotdeploy/mbean/POJO.java
+END
+SimpleInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/test/org/jboss/test/hotdeploy/mbean/SimpleInterceptor.java
+END

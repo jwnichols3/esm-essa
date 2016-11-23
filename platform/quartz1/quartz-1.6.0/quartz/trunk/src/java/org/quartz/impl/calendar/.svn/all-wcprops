@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/impl/calendar
+END
+HolidayCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/impl/calendar/HolidayCalendar.java
+END
+BaseCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/impl/calendar/BaseCalendar.java
+END
+MonthlyCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/impl/calendar/MonthlyCalendar.java
+END
+AnnualCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/impl/calendar/AnnualCalendar.java
+END
+WeeklyCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/impl/calendar/WeeklyCalendar.java
+END
+CronCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/impl/calendar/CronCalendar.java
+END
+DailyCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/java/org/quartz/impl/calendar/DailyCalendar.java
+END

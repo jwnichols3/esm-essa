@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/esm-essa/!svn/ver/1453/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/xml
+END
+RawCannedAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm-essa/!svn/ver/1440/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/xml/RawCannedAction.java
+END
+DirSizeRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm-essa/!svn/ver/1445/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/xml/DirSizeRule.java
+END
+FileSizeRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm-essa/!svn/ver/1445/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/xml/FileSizeRule.java
+END
+ProcessRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm-essa/!svn/ver/1445/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/xml/ProcessRule.java
+END
+FileSystemSizeRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/1445/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/xml/FileSystemSizeRule.java
+END
+RawCma.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/esm-essa/!svn/ver/1440/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/xml/RawCma.java
+END
+ConfigurationRuleSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm-essa/!svn/ver/1446/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/xml/ConfigurationRuleSet.java
+END
+RawAlarmInhibit.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm-essa/!svn/ver/1440/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/xml/RawAlarmInhibit.java
+END
+ConfigurationParseTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/1436/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/xml/ConfigurationParseTree.java
+END
+TaskTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm-essa/!svn/ver/1441/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/xml/TaskTree.java
+END
+RebootRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm-essa/!svn/ver/1445/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/xml/RebootRule.java
+END
+ConfigurationParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm-essa/!svn/ver/1428/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/xml/ConfigurationParser.java
+END
+VpoTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm-essa/!svn/ver/1453/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/xml/VpoTree.java
+END
+FileAgeRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm-essa/!svn/ver/1445/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/xml/FileAgeRule.java
+END
+AbstractRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm-essa/!svn/ver/1445/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/xml/AbstractRule.java
+END

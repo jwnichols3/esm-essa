@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/instantiate/plain/test
+END
+PlainMBeanRedeployAfterErrorOldUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/instantiate/plain/test/PlainMBeanRedeployAfterErrorOldUnitTestCase.java
+END
+PlainMBeanOldUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/instantiate/plain/test/PlainMBeanOldUnitTestCase.java
+END
+PlainMBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/instantiate/plain/test/PlainMBeanTest.java
+END
+PlainMBeanRedeployAfterErrorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/instantiate/plain/test/PlainMBeanRedeployAfterErrorTest.java
+END

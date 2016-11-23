@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/docs/api/xdoclet/template
+END
+PrettyPrintWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/docs/api/xdoclet/template/PrettyPrintWriter.html
+END
+TemplateEngine.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/docs/api/xdoclet/template/TemplateEngine.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/docs/api/xdoclet/template/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/docs/api/xdoclet/template/package-use.html
+END
+TemplateTagHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/docs/api/xdoclet/template/TemplateTagHandler.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/docs/api/xdoclet/template/package-summary.html
+END
+XDocletTemplateMessages.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/docs/api/xdoclet/template/XDocletTemplateMessages.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/docs/api/xdoclet/template/package-tree.html
+END
+TemplateParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/docs/api/xdoclet/template/TemplateParser.html
+END
+TemplateException.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/docs/api/xdoclet/template/TemplateException.html
+END

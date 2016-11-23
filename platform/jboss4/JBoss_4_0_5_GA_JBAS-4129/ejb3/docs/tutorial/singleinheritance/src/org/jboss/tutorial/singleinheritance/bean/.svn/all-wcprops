@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/singleinheritance/src/org/jboss/tutorial/singleinheritance/bean
+END
+PetDAOBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/singleinheritance/src/org/jboss/tutorial/singleinheritance/bean/PetDAOBean.java
+END
+Cat.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/singleinheritance/src/org/jboss/tutorial/singleinheritance/bean/Cat.java
+END
+Pet.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/singleinheritance/src/org/jboss/tutorial/singleinheritance/bean/Pet.java
+END
+Dog.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/singleinheritance/src/org/jboss/tutorial/singleinheritance/bean/Dog.java
+END
+PetDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/singleinheritance/src/org/jboss/tutorial/singleinheritance/bean/PetDAO.java
+END

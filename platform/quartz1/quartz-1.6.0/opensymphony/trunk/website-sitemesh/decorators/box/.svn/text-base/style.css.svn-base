@@ -1,0 +1,45 @@
+.box {
+	width: 178px;
+}	
+
+.box .top {
+	background: url(top.gif) bottom left no-repeat; 
+	height: 11px;
+}
+
+.box .bottom {
+	background: url(bottom.gif) top left no-repeat; 
+	height: 11px;
+}
+
+.box .body {
+	background: url(background.gif) top left repeat-y; 
+	padding: 0px;
+	background-color: #ffc;
+}
+
+.box .icon {
+	float: left;
+	width: 50px;
+	text-align: right;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-right: 0px;
+}
+
+.box .label {
+	color: #999;
+	font-size: 8pt;
+	text-align: center;
+	width: 110px;
+	margin-left: 57px;
+}
+
+.box .text {
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: center;
+	width: 110px;
+	margin-left: 57px;
+	padding-bottom: 5px;
+}

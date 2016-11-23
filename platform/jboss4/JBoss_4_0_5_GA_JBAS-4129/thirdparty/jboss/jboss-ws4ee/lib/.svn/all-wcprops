@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/thirdparty/jboss/jboss-ws4ee/lib
+END
+axis-ws4ee.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/thirdparty/jboss/jboss-ws4ee/lib/axis-ws4ee.jar
+END
+jboss-ws4ee.sar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/thirdparty/jboss/jboss-ws4ee/lib/jboss-ws4ee.sar
+END
+jboss-ws4ee-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/thirdparty/jboss/jboss-ws4ee/lib/jboss-ws4ee-client.jar
+END

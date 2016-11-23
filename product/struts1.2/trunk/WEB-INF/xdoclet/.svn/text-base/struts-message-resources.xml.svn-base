@@ -1,0 +1,8 @@
+<!--
+  Title: struts-message-resources.xml
+  Description: Struts Message Resources (as a XDoclet merge point)
+  Development Environment: Jakarta Struts 1.2.9, XDoclet 1.3-SNAPSHOT
+  Author: G.S. Cole (guycole at gmail dot com)
+-->
+
+<message-resources parameter="message_resources"/>

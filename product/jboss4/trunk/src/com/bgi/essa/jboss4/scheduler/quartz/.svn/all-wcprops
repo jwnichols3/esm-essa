@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm-essa/!svn/ver/1324/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/scheduler/quartz
+END
+FileSystemJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/625/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/scheduler/quartz/FileSystemJob.java
+END
+EssaJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm-essa/!svn/ver/153/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/scheduler/quartz/EssaJob.java
+END
+JniStatVfsJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/625/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/scheduler/quartz/JniStatVfsJob.java
+END
+ParentTaskJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/1324/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/scheduler/quartz/ParentTaskJob.java
+END
+PingJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm-essa/!svn/ver/172/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/scheduler/quartz/PingJob.java
+END
+FileSampleJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/625/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/scheduler/quartz/FileSampleJob.java
+END
+JniBootTimeJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/639/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/scheduler/quartz/JniBootTimeJob.java
+END

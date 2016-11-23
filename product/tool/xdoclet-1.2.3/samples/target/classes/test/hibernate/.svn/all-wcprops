@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/classes/test/hibernate
+END
+Order.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/classes/test/hibernate/Order.class
+END
+Contraband.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/classes/test/hibernate/Contraband.class
+END
+CompositeIdEntity.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/classes/test/hibernate/CompositeIdEntity.class
+END
+CompositeId.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/classes/test/hibernate/CompositeId.class
+END
+Product.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/classes/test/hibernate/Product.class
+END
+Name.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/classes/test/hibernate/Name.class
+END
+ImportedProduct.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/classes/test/hibernate/ImportedProduct.class
+END
+Address.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/classes/test/hibernate/Address.class
+END
+Lizard.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/classes/test/hibernate/Lizard.class
+END
+Pet.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/classes/test/hibernate/Pet.class
+END
+Error.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/classes/test/hibernate/Error.class
+END
+Persistent.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/classes/test/hibernate/Persistent.class
+END
+Animal.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/classes/test/hibernate/Animal.class
+END
+OIDObject.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/classes/test/hibernate/OIDObject.class
+END
+Reptile.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/classes/test/hibernate/Reptile.class
+END
+WorkRequestError.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/classes/test/hibernate/WorkRequestError.class
+END
+LineItem.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/classes/test/hibernate/LineItem.class
+END
+Updateable.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/classes/test/hibernate/Updateable.class
+END
+Human.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/classes/test/hibernate/Human.class
+END

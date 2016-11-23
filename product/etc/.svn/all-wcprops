@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/esm-essa/!svn/ver/271/trunk/product/etc
+END
+jndi.properties
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/esm-essa/!svn/ver/18/trunk/product/etc/jndi.properties
+END
+javadoc.tags
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esm-essa/!svn/ver/18/trunk/product/etc/javadoc.tags
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esm-essa/!svn/ver/18/trunk/product/etc/log4j.properties
+END

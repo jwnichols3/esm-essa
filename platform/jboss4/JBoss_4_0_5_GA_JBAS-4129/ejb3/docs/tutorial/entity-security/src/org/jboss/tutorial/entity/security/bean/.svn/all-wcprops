@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/entity-security/src/org/jboss/tutorial/entity/security/bean
+END
+SomeEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/entity-security/src/org/jboss/tutorial/entity/security/bean/SomeEntity.java
+END
+AllEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/entity-security/src/org/jboss/tutorial/entity/security/bean/AllEntity.java
+END
+StarEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/entity-security/src/org/jboss/tutorial/entity/security/bean/StarEntity.java
+END
+Stateless.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/entity-security/src/org/jboss/tutorial/entity/security/bean/Stateless.java
+END
+StatelessBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/entity-security/src/org/jboss/tutorial/entity/security/bean/StatelessBean.java
+END

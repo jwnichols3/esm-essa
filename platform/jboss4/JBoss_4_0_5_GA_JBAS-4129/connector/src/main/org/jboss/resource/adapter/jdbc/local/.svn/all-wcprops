@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/adapter/jdbc/local
+END
+LocalManagedConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/adapter/jdbc/local/LocalManagedConnectionFactory.java
+END
+LocalTxDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/adapter/jdbc/local/LocalTxDataSource.java
+END
+LocalManagedConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/adapter/jdbc/local/LocalManagedConnection.java
+END
+HALocalManagedConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/connector/src/main/org/jboss/resource/adapter/jdbc/local/HALocalManagedConnectionFactory.java
+END

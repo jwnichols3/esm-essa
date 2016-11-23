@@ -1,0 +1,8 @@
+#wrapper  {
+	float:  left;
+	width:  70%;
+	border-right: 1px dotted #999999;
+	color: #111111;
+	background-color: white;
+	margin:  0 25px 0 0;
+}

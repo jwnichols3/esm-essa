@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/src/test/org/jboss/test/aop/annotated
+END
+Precedence2.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/src/test/org/jboss/test/aop/annotated/Precedence2.java
+END
+Interceptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/src/test/org/jboss/test/aop/annotated/Interceptions.java
+END
+NoInterfacesPOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/src/test/org/jboss/test/aop/annotated/NoInterfacesPOJO.java
+END
+VariaPOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/src/test/org/jboss/test/aop/annotated/VariaPOJO.java
+END
+CFlowAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/src/test/org/jboss/test/aop/annotated/CFlowAspect.java
+END
+PreparedPOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/src/test/org/jboss/test/aop/annotated/PreparedPOJO.java
+END
+NoInterfacesPOJO2.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/src/test/org/jboss/test/aop/annotated/NoInterfacesPOJO2.java
+END
+PrecedenceInterceptor1.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/src/test/org/jboss/test/aop/annotated/PrecedenceInterceptor1.java
+END
+Precedence1.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/src/test/org/jboss/test/aop/annotated/Precedence1.java
+END
+PrecedenceInterceptor2.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/src/test/org/jboss/test/aop/annotated/PrecedenceInterceptor2.java
+END
+PrecedenceAspect1.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aop/src/test/org/jboss/test/aop/annotated/PrecedenceAspect1.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/logging
+END
+ThreadLocalAppender.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/logging/ThreadLocalAppender.java
+END
+CallLoggingInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/logging/CallLoggingInterceptor.java
+END
+InvocationLogInterceptorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/logging/InvocationLogInterceptorFactory.java
+END
+LoggingConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/logging/LoggingConstants.java
+END
+CallLoggingInterceptorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/logging/CallLoggingInterceptorFactory.java
+END
+InvocationLogClientInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/logging/InvocationLogClientInterceptor.java
+END
+InvocationLogInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/logging/InvocationLogInterceptor.java
+END

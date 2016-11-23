@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session
+END
+IntervalSnapshotManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/IntervalSnapshotManager.java
+END
+JBossCacheManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/JBossCacheManager.java
+END
+AbstractJBossManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/AbstractJBossManager.java
+END
+FieldBasedClusteredSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/FieldBasedClusteredSession.java
+END
+SessionBasedClusteredSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/SessionBasedClusteredSession.java
+END
+JBossCacheManagerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/JBossCacheManagerMBean.java
+END
+JBossCacheWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/JBossCacheWrapper.java
+END
+JBossCacheCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/JBossCacheCluster.java
+END
+SessionIDGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/SessionIDGenerator.java
+END
+CacheListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/CacheListener.java
+END
+JBossCacheClusterMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/JBossCacheClusterMBean.java
+END
+JvmRouteValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/JvmRouteValve.java
+END
+JBossManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/JBossManager.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/Util.java
+END
+JBossManagerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/JBossManagerMBean.java
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/LocalStrings.properties
+END
+AttributeBasedClusteredSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/AttributeBasedClusteredSession.java
+END
+AopMarker.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/AopMarker.java
+END
+SessionReplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/SessionReplicationContext.java
+END
+JBossCacheClusteredSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/JBossCacheClusteredSession.java
+END
+ClusteringNotSupportedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/ClusteringNotSupportedException.java
+END
+JBossCacheService.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/JBossCacheService.java
+END
+BatchReplicationClusteredSessionValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/BatchReplicationClusteredSessionValve.java
+END
+LocalStrings_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/LocalStrings_ja.properties
+END
+SnapshotManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/SnapshotManager.java
+END
+InstanceOfAopMarker.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/InstanceOfAopMarker.java
+END
+InstantSnapshotManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/InstantSnapshotManager.java
+END
+ClusteredSessionValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/ClusteredSessionValve.java
+END
+ClusteredSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/session/ClusteredSession.java
+END

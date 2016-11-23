@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/clustering/src/org/jboss/tutorial/clustering/client
+END
+StatelessRun.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/clustering/src/org/jboss/tutorial/clustering/client/StatelessRun.java
+END
+StatefulRun.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/clustering/src/org/jboss/tutorial/clustering/client/StatefulRun.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/asynchronous/aspects
+END
+AsynchronousFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/asynchronous/aspects/AsynchronousFacade.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/asynchronous/aspects/Utils.java
+END
+AsynchronousFacadeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/asynchronous/aspects/AsynchronousFacadeImpl.java
+END
+AsynchronousFacadeFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/asynchronous/aspects/AsynchronousFacadeFields.java
+END
+AsynchronousFacadeFieldsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/asynchronous/aspects/AsynchronousFacadeFieldsImpl.java
+END
+AsynchronousFacadeFieldsThreadLocalImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/asynchronous/aspects/AsynchronousFacadeFieldsThreadLocalImpl.java
+END

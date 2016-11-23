@@ -1,0 +1,5 @@
+xdoclet-generated:a:XDoclet generated:
+ejb.interface-method:a:XDoclet ejb.interface-method.
+ejb.bean:a:XDoclet ejb.bean:
+ejb.transaction:a:XDoclet ejb.transaction:
+ejb.transaction-type:a:XDoclet ejb.transaction-type:

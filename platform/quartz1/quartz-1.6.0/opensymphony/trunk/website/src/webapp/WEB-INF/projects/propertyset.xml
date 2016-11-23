@@ -1,0 +1,60 @@
+<project>
+    <name>PropertySet</name>
+    <jiraId>10040</jiraId>
+    <jiraName>PS</jiraName>
+    <confluenceName>PS</confluenceName>
+    <svn>true</svn>
+
+    <forums>
+        <usersId>24</usersId>
+        <devId>25</devId>
+        <cvsId>26</cvsId>
+    </forums>
+
+    <evaluating>
+        <item>
+            <name>Usage and Configuration</name>
+            <url>usage.jsp</url>
+        </item>
+    </evaluating>
+
+    <docs>
+        <url>default.jsp</url>
+        <doesNotUseWiki>true</doesNotUseWiki>
+        <items>
+            <item>
+                <name>Database Tips</name>
+                <url>tips.jsp</url>
+            </item>
+        </items>
+    </docs>
+
+    <owners>
+        <person>
+            <name>Hani Suileman</name>
+            <email>fate@formicary.net</email>
+        </person>
+    </owners>
+
+    <developers>
+        <person>
+            <name>Patrick Lightbody</name>
+            <email>plightbo@gmail.com</email>
+        </person>
+    </developers>
+
+    <releases>
+        <release>
+            <version>1.3</version>
+            <date>9/22/2003</date>
+            <jiraId>21211</jiraId>
+            <downloads>
+                <download>
+                    <name>Full</name>
+                    <url>https://propertyset.dev.java.net/files/documents/726/1043/propertyset-1.3.zip</url>
+                </download>
+            </downloads>
+        </release>
+    </releases>
+
+</project>

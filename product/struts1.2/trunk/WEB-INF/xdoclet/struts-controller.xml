@@ -1,0 +1,8 @@
+<!--
+  Title: struts-controller.xml
+  Description: action servlet configuration (as a XDoclet merge point).
+  Development Environment: Jakarta Struts 1.2.9, XDoclet 1.3-SNAPSHOT
+  Author: G.S. Cole (guycole at gmail dot com)
+-->
+
+<controller bufferSize="8192" maxFileSize="256M" tempDir="/tmp"/>

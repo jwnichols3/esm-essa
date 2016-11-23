@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/jca
+END
+mbeans-descriptors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/jca/mbeans-descriptors.xml
+END
+CachedConnectionValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/jca/CachedConnectionValve.java
+END

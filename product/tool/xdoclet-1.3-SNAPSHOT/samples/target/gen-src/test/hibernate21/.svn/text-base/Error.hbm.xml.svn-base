@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 2.0//EN" 
+    "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd">
+
+<hibernate-mapping
+
+>
+
+    <class
+            name="test.hibernate21.Error"
+            table="error"
+    >
+
+    <id
+        name="OID"
+            column="oid"
+    >
+
+    <!-- The generator-class attribute of @hibernate.id is deprecated, use the @hibernate.generator tag instead -->
+    <generator class="sequence">
+
+        <!-- The generator-param tag is deprecated, use the @hibernate.generator and @hibernate.param tags instead -->
+        <param
+                name="sequence"
+        >
+            <![CDATA[SequenceName]]>
+        </param>
+
+    </generator>
+
+    </id>
+
+        <property
+            name="message"
+                    column="error_message"
+                not-null="true"
+        >
+
+        </property>
+
+        <property
+            name="description"
+                    column="description"
+        >
+
+        </property>
+
+        <property
+            name="errorMode"
+                    column="errormode"
+                not-null="true"
+        >
+
+        </property>
+
+        <property
+            name="type"
+                    column="error_type"
+                not-null="true"
+        >
+
+        </property>
+
+    <joined-subclass
+        name="test.hibernate21.WorkRequestError"
+            table="workreqerror"
+    >
+
+            <!-- @hibernate.joined-subclass-key tag is deprecated, use @hibernate.key instead -->
+            <key
+                    column="oid"
+            />
+
+        <many-to-one
+            name="workRequest"
+                    column="workrequestoid"
+        >
+
+        </many-to-one>
+
+    </joined-subclass>
+
+    </class>    
+
+</hibernate-mapping>
+

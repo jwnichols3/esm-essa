@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/esm-essa/!svn/ver/5/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/sample/jnlp/servlet
+END
+jardiff.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm-essa/!svn/ver/5/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/sample/jnlp/servlet/jardiff.jar
+END
+jnlp-servlet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm-essa/!svn/ver/5/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/sample/jnlp/servlet/jnlp-servlet.jar
+END
+GNUmakefile
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm-essa/!svn/ver/5/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/sample/jnlp/servlet/GNUmakefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm-essa/!svn/ver/5/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/sample/jnlp/servlet/README
+END
+jnlp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm-essa/!svn/ver/5/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/sample/jnlp/servlet/jnlp.jar
+END

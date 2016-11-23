@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/basic/test
+END
+ControllerBasicTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/basic/test/ControllerBasicTestSuite.java
+END
+BasicTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/basic/test/BasicTest.java
+END
+DoubleInstallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/basic/test/DoubleInstallTest.java
+END
+DoubleInstallOldUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/basic/test/DoubleInstallOldUnitTestCase.java
+END
+BasicOldUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/basic/test/BasicOldUnitTestCase.java
+END

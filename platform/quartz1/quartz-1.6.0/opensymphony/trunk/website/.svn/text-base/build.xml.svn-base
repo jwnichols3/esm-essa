@@ -1,0 +1,53 @@
+<project name="website" default="war" basedir=".">
+
+    <path id="cp">
+        <fileset dir="lib">
+            <include name="**/*.jar"/>
+        </fileset>
+    </path>
+
+    <property file="build.properties"/>
+
+    <property name="lib" value="lib"/>
+    <property name="lib.core" value="${lib}/core"/>
+    <property name="src" value="src"/>
+    <property name="src.java" value="${src}/java"/>
+    <property name="src.webapp" value="${src}/webapp"/>
+    <property name="build" value="build"/>
+    <property name="build.java" value="${build}/java"/>
+    <property name="build.webapp" value="${build}/webapp"/>
+    <property name="dist" value="dist"/>
+    <property name="war.location" value="${dist}/${name}.war"/>
+
+    <target name="clean">
+        <delete dir="${build}"/>
+        <delete dir="${dist}"/>
+    </target>
+
+    <target name="java">
+        <mkdir dir="${build.java}"/>
+        <javac srcdir="${src.java}" destdir="${build.java}" classpathref="cp" debug="on" source="1.4" target="1.4"/>
+        <copy filtering="no" todir="${build.java}">
+            <fileset dir="${src.java}">
+                <exclude name="**/*.java"/>
+                <exclude name="**/package.html"/>
+            </fileset>
+        </copy>
+    </target>
+
+    <target name="jar" depends="java">
+        <mkdir dir="${dist}"/>
+
+        <jar basedir="${build.java}" jarfile="${dist}/${name}.jar"/>
+    </target>
+
+    <target name="war" depends="jar">
+        <war destfile="${war.location}" webxml="${src.webapp}/WEB-INF/web.xml">
+            <fileset dir="${src.webapp}">
+                <exclude name="**/web.xml"/>
+            </fileset>
+            <lib dir="${lib.core}"/>
+            <lib file="${dist}/${name}.jar"/>
+        </war>
+    </target>
+</project>

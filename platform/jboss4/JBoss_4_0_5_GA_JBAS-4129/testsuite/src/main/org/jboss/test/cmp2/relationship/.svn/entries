@@ -1,0 +1,83 @@
+10
+
+dir
+1460
+https://esm-essa.bgidev.net/svn/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/cmp2/relationship
+https://esm-essa.bgidev.net/svn/esm-essa
+
+
+
+2007-04-10T19:31:29.206915Z
+15
+coleguy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8c14f0ad-622d-0410-be72-f8c38c5cac15
+
+oneToOneBidirectional
+dir
+
+oneToOneUnidirectional
+dir
+
+oneToManyBidirectional
+dir
+
+manyToOneUnidirectional
+dir
+
+oneToManyUnidirectional
+dir
+
+manyToManyBidirectional
+dir
+
+manyToManyUnidirectional
+dir
+
+RelationshipUnitTestCase.java
+file
+
+
+
+
+2010-07-19T19:47:51.589379Z
+3f40e1a14f59998a31a0e7847ab6cb2f
+2007-04-10T19:31:29.206915Z
+15
+coleguy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2166
+

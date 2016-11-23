@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/value/javabean/test
+END
+AbstractAttributeClass_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/value/javabean/test/AbstractAttributeClass_bad.xml
+END
+AttributeInfoTypeNotFound_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/value/javabean/test/AttributeInfoTypeNotFound_bad.xml
+END
+NoAttributeInfoType_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/value/javabean/test/NoAttributeInfoType_bad.xml
+END
+NoPropertyValue_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/value/javabean/test/NoPropertyValue_install.xml
+END
+ImplicitClass_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/value/javabean/test/ImplicitClass_install.xml
+END
+PropertyNotFound_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/value/javabean/test/PropertyNotFound_bad.xml
+END
+NoPropertyName_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/value/javabean/test/NoPropertyName_bad.xml
+END
+EmptyPropertyName_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/value/javabean/test/EmptyPropertyName_bad.xml
+END
+ErrorInProperty_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/value/javabean/test/ErrorInProperty_bad.xml
+END
+AttributeClassNotFound_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/value/javabean/test/AttributeClassNotFound_bad.xml
+END
+ErrorInConstructor_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/value/javabean/test/ErrorInConstructor_bad.xml
+END
+ExplicitClass_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/value/javabean/test/ExplicitClass_install.xml
+END
+NoPropertyEditor_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/value/javabean/test/NoPropertyEditor_bad.xml
+END

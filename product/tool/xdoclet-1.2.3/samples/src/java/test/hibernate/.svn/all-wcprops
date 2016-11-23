@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/src/java/test/hibernate
+END
+Persistent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/src/java/test/hibernate/Persistent.java
+END
+Animal.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/src/java/test/hibernate/Animal.java
+END
+OIDObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/src/java/test/hibernate/OIDObject.java
+END
+Reptile.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/src/java/test/hibernate/Reptile.java
+END
+WorkRequestError.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/src/java/test/hibernate/WorkRequestError.java
+END
+Updateable.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/src/java/test/hibernate/Updateable.java
+END
+LineItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/src/java/test/hibernate/LineItem.java
+END
+Human.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/src/java/test/hibernate/Human.java
+END
+Order.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/src/java/test/hibernate/Order.java
+END
+Contraband.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/src/java/test/hibernate/Contraband.java
+END
+CompositeIdEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/src/java/test/hibernate/CompositeIdEntity.java
+END
+CompositeId.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/src/java/test/hibernate/CompositeId.java
+END
+Name.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/src/java/test/hibernate/Name.java
+END
+Product.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/src/java/test/hibernate/Product.java
+END
+ImportedProduct.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/src/java/test/hibernate/ImportedProduct.java
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/src/java/test/hibernate/Address.java
+END
+Lizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/src/java/test/hibernate/Lizard.java
+END
+Pet.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/src/java/test/hibernate/Pet.java
+END
+Error.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/src/java/test/hibernate/Error.java
+END

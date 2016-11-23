@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces
+END
+CustomerUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/CustomerUtil.java
+END
+AddressLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/AddressLocal.java
+END
+PersonData.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/PersonData.java
+END
+AllTypesEntityLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/AllTypesEntityLocal.java
+END
+AccountHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/AccountHome.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/Person.java
+END
+PersonContactForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/PersonContactForm.java
+END
+CustomerNormalValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/CustomerNormalValue.java
+END
+AddressLocalHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/AddressLocalHome.java
+END
+FileData.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/FileData.java
+END
+PersonFullForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/PersonFullForm.java
+END
+AllTypesEntityLocalHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/AllTypesEntityLocalHome.java
+END
+PersonHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/PersonHome.java
+END
+AddressValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/AddressValue.java
+END
+AddressUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/AddressUtil.java
+END
+AllTypesEntityData.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/AllTypesEntityData.java
+END
+AllTypesEntityPK.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/AllTypesEntityPK.java
+END
+CustomerLightValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/CustomerLightValue.java
+END
+Stateful.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/Stateful.java
+END
+Teller.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/Teller.java
+END
+FileLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/FileLocal.java
+END
+AccountUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/AccountUtil.java
+END
+AllTypesEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/AllTypesEntity.java
+END
+CustomerData.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/CustomerData.java
+END
+CustomerPK.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/CustomerPK.java
+END
+CustomerBMPUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/CustomerBMPUtil.java
+END
+TellerHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/TellerHome.java
+END
+StatefulHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/StatefulHome.java
+END
+Customer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/Customer.java
+END
+TellerLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/TellerLocal.java
+END
+StatefulLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/StatefulLocal.java
+END
+FileLocalHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/FileLocalHome.java
+END
+AllTypesEntityHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/AllTypesEntityHome.java
+END
+AccountLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/AccountLocal.java
+END
+QueueBeanUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/QueueBeanUtil.java
+END
+CustomerHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/CustomerHome.java
+END
+TellerLocalHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/TellerLocalHome.java
+END
+StatefulLocalHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/StatefulLocalHome.java
+END
+FileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/FileUtil.java
+END
+PersonNamesForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/PersonNamesForm.java
+END
+AddressData.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/AddressData.java
+END
+AccountLocalHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/AccountLocalHome.java
+END
+PersonLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/PersonLocal.java
+END
+TellerUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/TellerUtil.java
+END
+StatefulUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/StatefulUtil.java
+END
+AccountData.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/AccountData.java
+END
+AccountPK.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/AccountPK.java
+END
+AllTypesEntityUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/AllTypesEntityUtil.java
+END
+AccountValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/AccountValue.java
+END
+PersonLocalHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/PersonLocalHome.java
+END
+Account.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/Account.java
+END
+CustomerValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.3-SNAPSHOT/samples/target/gen-src/test/interfaces/CustomerValue.java
+END

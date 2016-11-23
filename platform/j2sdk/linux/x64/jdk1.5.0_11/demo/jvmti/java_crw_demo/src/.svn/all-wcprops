@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/demo/jvmti/java_crw_demo/src
+END
+java_crw_demo.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/demo/jvmti/java_crw_demo/src/java_crw_demo.c
+END
+java_crw_demo.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/demo/jvmti/java_crw_demo/src/java_crw_demo.h
+END
+classfile_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/demo/jvmti/java_crw_demo/src/classfile_constants.h
+END
+test_crw.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/demo/jvmti/java_crw_demo/src/test_crw.c
+END
+sample.makefile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/demo/jvmti/java_crw_demo/src/sample.makefile.txt
+END

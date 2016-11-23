@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/webservice/metadata/jaxrpcmapping
+END
+JavaWsdlMappingFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/webservice/metadata/jaxrpcmapping/JavaWsdlMappingFactory.java
+END
+JavaXmlTypeMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/webservice/metadata/jaxrpcmapping/JavaXmlTypeMapping.java
+END
+PortMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/webservice/metadata/jaxrpcmapping/PortMapping.java
+END
+VariableMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/webservice/metadata/jaxrpcmapping/VariableMapping.java
+END
+WsdlReturnValueMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/webservice/metadata/jaxrpcmapping/WsdlReturnValueMapping.java
+END
+PackageMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/webservice/metadata/jaxrpcmapping/PackageMapping.java
+END
+MethodParamPartsMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/webservice/metadata/jaxrpcmapping/MethodParamPartsMapping.java
+END
+JavaWsdlMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/webservice/metadata/jaxrpcmapping/JavaWsdlMapping.java
+END
+WsdlMessageMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/webservice/metadata/jaxrpcmapping/WsdlMessageMapping.java
+END
+ExceptionMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/webservice/metadata/jaxrpcmapping/ExceptionMapping.java
+END
+ServiceInterfaceMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/webservice/metadata/jaxrpcmapping/ServiceInterfaceMapping.java
+END
+ServiceEndpointInterfaceMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/webservice/metadata/jaxrpcmapping/ServiceEndpointInterfaceMapping.java
+END
+ServiceEndpointMethodMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/webservice/metadata/jaxrpcmapping/ServiceEndpointMethodMapping.java
+END

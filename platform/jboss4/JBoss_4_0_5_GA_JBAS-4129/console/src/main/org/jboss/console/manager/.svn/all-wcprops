@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/manager
+END
+DeploymentFileRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/manager/DeploymentFileRepository.java
+END
+DeploymentFileRepositoryMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/manager/DeploymentFileRepositoryMBean.java
+END
+PluginManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/manager/PluginManager.java
+END
+PluginManagerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/manager/PluginManagerMBean.java
+END

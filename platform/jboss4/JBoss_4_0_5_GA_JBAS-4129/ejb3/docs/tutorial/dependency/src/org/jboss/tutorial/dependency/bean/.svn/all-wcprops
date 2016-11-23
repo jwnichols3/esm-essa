@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/dependency/src/org/jboss/tutorial/dependency/bean
+END
+HasXmlMBeanDependencyBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/dependency/src/org/jboss/tutorial/dependency/bean/HasXmlMBeanDependencyBean.java
+END
+DependedOn.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/dependency/src/org/jboss/tutorial/dependency/bean/DependedOn.java
+END
+DependedOnMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/dependency/src/org/jboss/tutorial/dependency/bean/DependedOnMBean.java
+END
+HasXmlMBeanDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/dependency/src/org/jboss/tutorial/dependency/bean/HasXmlMBeanDependency.java
+END

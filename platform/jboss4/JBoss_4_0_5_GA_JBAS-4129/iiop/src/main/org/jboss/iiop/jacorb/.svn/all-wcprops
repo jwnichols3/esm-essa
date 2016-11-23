@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/iiop/jacorb
+END
+SSLSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/iiop/jacorb/SSLSocketFactory.java
+END
+ORBSingleton.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/iiop/jacorb/ORBSingleton.java
+END
+SSLServerSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/iiop/src/main/org/jboss/iiop/jacorb/SSLServerSocketFactory.java
+END

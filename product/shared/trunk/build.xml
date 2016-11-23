@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Title: build.xml
+Description: Build for ESSA shared jar and hibernate jar.
+Development Environment: Apache Ant 1.6.5
+Author: G.S. Cole (guycole at gmail dot com)
+-->
+
+<project name="shared" default="jar" basedir=".">
+  <property file="../../ant.properties"/>
+
+  <property name="Name" value="shared"/>
+  <property name="version" value="0.1"/>
+
+  <property name="hibernate.jar" value="${product.jboss.har}"/>
+
+  <property name="junit.filter" value="com/bgi/essa/shared/junit/**"/>
+
+  <property name="project.dir" value="${product.shared.dir}"/>
+
+  <property name="build.dir" value="${project.dir}/build"/>
+  <property name="build.classes.dir" value="${build.dir}/classes"/>
+  <property name="build.deploy.dir" value="${build.dir}/deploy"/>
+
+  <property name="etc.dir" value="${project.dir}/etc"/>
+
+  <property name="javadoc.dir" value="${project.dir}/javadoc"/>
+
+  <property name="junit.dir" value="${project.dir}/junit"/>
+
+  <property name="lib.dir" value="${project.dir}/lib"/>
+  
+  <property name="src.dir" value="${project.dir}/src"/>
+
+  <property name="src.gen.dir" value="${build.dir}/src"/>
+
+  <path id="javac.path">
+    <pathelement location="${commons_chain.jar}"/>
+    <pathelement location="${jboss_logging.jar}"/>
+    <pathelement location="${junit.jar}"/>
+  </path>
+
+  <path id="junit.path">
+    <pathelement location="${junit.jar}"/>
+
+    <pathelement location="${commons_chain.jar}"/>
+    <pathelement location="${jboss_logging.jar}"/>
+
+    <pathelement location="${build.classes.dir}"/>
+  </path>
+
+  <path id="xdoclet.path">
+    <fileset dir="${xdoclet.home.dir}/lib">
+      <include name="*.jar"/>
+    </fileset>
+  </path>
+
+  <!-- =================================================================== -->
+  <!-- Initialization                                                      -->
+  <!-- =================================================================== -->
+  <target name="init" description="Initialization">
+    <tstamp/>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- Environment Report                                                  -->
+  <!-- =================================================================== -->
+  <target name="env-report" depends="init" description="Environment Report">
+    <echo message="base.dir = ${base.dir}"/>
+    <echo message="project.dir = ${project.dir}"/>
+    <echo message="build.dir = ${build.dir}"/>
+    <echo message="jboss.home.dir = ${jboss.home.dir}"/>
+    <echo message="chain.jar = ${commons_chain.jar}"/>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- Remove The Current Build                                            -->
+  <!-- =================================================================== -->
+  <target name="clean" depends="init" description="Delete Generated Items">
+    <delete dir="${build.dir}"/>
+    <delete dir="${javadoc.dir}"/>
+    <delete dir="${junit.dir}"/>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- Compile                                                             -->
+  <!-- =================================================================== -->
+  <target name="compile" depends="init" description="Compile">
+    <mkdir dir="${build.classes.dir}"/>
+ 
+    <javac destdir="${build.classes.dir}" verbose="${javac.verbose}" debug="${javac.debug}" deprecation="${javac.depreciation}" optimize="${javac.optimize}" classpathref="javac.path">
+      <src path="${src.dir}"/>
+    </javac>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- Invoke Hibernate Doclet (part of XDoclet)                           -->
+  <!--   Run after javac to pull hibernate tags and produce descriptors    -->
+  <!--   Hiberate "data transfer objects" must be named *DTO.java          -->
+  <!-- =================================================================== -->
+  <target name="hiberdoc" depends="compile" description="Run HibernateDoclet">
+    <taskdef name="hibernatedoclet" classname="xdoclet.modules.hibernate.HibernateDocletTask" classpathref="xdoclet.path"/>
+
+    <tstamp>
+      <format property="TODAY" pattern="yyyy-MM-dd"/>
+    </tstamp>
+
+    <hibernatedoclet destdir="${src.gen.dir}">
+      <fileset dir="${src.dir}">
+        <include name="**/*DTO.java"/>
+      </fileset>
+
+      <hibernate version="3.0"/>
+    </hibernatedoclet>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- Package (jar) Application                                           -->
+  <!-- =================================================================== -->
+  <target name="jar" depends="hiberdoc" description="Create JAR">
+    <mkdir dir="${build.deploy.dir}"/>
+
+    <tstamp>
+      <format property="TIME_NOW" pattern="yyyy-MM-dd HH:mm"/>
+    </tstamp>
+
+    <!-- shared -->
+    <jar jarfile="${build.deploy.dir}/${product.shared.jar}" index="true">
+      <manifest>
+        <attribute name="Built-By" value="${user.name}"/>
+        <attribute name="Build-On" value="${TIME_NOW}"/>
+      </manifest>
+
+      <fileset dir="${build.classes.dir}"/>
+    </jar>
+    
+    <!-- hibernate -->    
+    <jar jarfile="${build.deploy.dir}/${hibernate.jar}" index="true">
+      <manifest>        
+        <attribute name="Built-By" value="${user.name}"/>        
+        <attribute name="Build-On" value="${TIME_NOW}"/>
+      </manifest>      
+
+      <fileset dir="${src.gen.dir}" includes="**/*.hbm.xml"/>
+
+      <metainf dir="${etc.dir}/har">        
+        <include name="hibernate-service.xml"/>      
+      </metainf>    
+    </jar>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- Copy jar to share w/other tiers                                     -->
+  <!-- =================================================================== -->
+  <target name="blessed" depends="jar" description="Copy JAR To Lib Directory">
+    <copy file="${build.deploy.dir}/${product.shared.jar}" todir="${product.blessed.dir}"/>
+    <copy file="${build.deploy.dir}/${hibernate.jar}" todir="${product.blessed.dir}"/>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- JUnit Tests                                                         -->
+  <!-- =================================================================== -->
+  <target name="junit" depends="compile" description="Unit Tests">
+    <delete dir="${junit.dir}"/>
+    <mkdir dir="${junit.dir}"/>
+    <mkdir dir="${junit.dir}/xml"/>
+    <mkdir dir="${junit.dir}/html"/>
+    <mkdir dir="${junit.dir}/test-images"/>
+    <junit printsummary="yes" haltonfailure="yes" fork="yes">
+      <classpath refid="junit.path"/>
+      <formatter type="xml"/>
+      <batchtest fork="yes" todir="${junit.dir}/xml">
+        <fileset dir="${src.dir}">
+          <include name="${junit.filter}"/>
+        </fileset>
+      </batchtest>
+    </junit>
+    <junitreport todir="${junit.dir}">
+      <fileset dir="${junit.dir}/xml">
+        <include name="TEST-*.xml" />
+      </fileset>
+      <report todir="${junit.dir}/html" />
+    </junitreport>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- JavaDoc                                                             -->
+  <!-- =================================================================== -->
+  <target name="javadoc" depends="init" description="Create JavaDoc">
+    <delete dir="${javadoc.dir}"/>
+    <mkdir dir="${javadoc.dir}"/>
+
+    <javadoc sourcepath="${src.dir}"
+      destdir="${javadoc.dir}"
+      classpath="${commons_chain.jar}:${jboss_logging.jar}"
+      packagenames="*"
+      author="true"
+      version="true"
+      private="true"
+      windowtitle="ESM ESSA API Documentation"
+      doctitle="&lt;h1&gt;ESM ESSA Documentation&lt;/h1&gt;">
+
+      <tag dir="${etc.dir}" includes="javadoc.tags"/>
+    </javadoc>
+  </target>
+</project>

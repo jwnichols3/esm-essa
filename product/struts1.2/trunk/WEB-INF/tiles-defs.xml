@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+ <!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 1.1//EN"
+       "http://jakarta.apache.org/struts/dtds/tiles-config_1_1.dtd">
+
+<tiles-definitions>
+  <!-- =======================================================  -->
+  <!-- Layout1/SideBar1                                         -->
+  <!-- =======================================================  -->
+  <definition name="lay1sb1" path="/jsp/public/layout1.jsp">
+    <put name="title"  value="lay1sb1"/>
+    <put name="header" value="/jsp/public/header1.jsp"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="footer" value="/jsp/public/footer1.jsp"/>
+    <put name="body"   value="/jsp/public/blank.jsp"/>
+  </definition>
+
+  <!-- =======================================================  -->
+  <!-- Log On Page                                              -->
+  <!-- =======================================================  -->
+  <definition name="logon.page" extends="lay1sb1">
+    <put name="title"  value="Log On"/>
+    <put name="header" value="/jsp/public/header2.jsp"/>
+    <put name="menu"   value="/jsp/public/blank.jsp"/>
+    <put name="body"   value="/jsp/public/logon1.jsp"/>
+  </definition>
+  
+  <!-- =======================================================  -->
+  <!-- Boot Time (Ad Hoc)                                       -->
+  <!-- =======================================================  -->
+  <definition name="boot_time.adhoc.page" extends="lay1sb1">
+    <put name="title"  value="Directory Size (Ad Hoc)"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/user/bootTimeAdHoc1.jsp"/>
+  </definition>
+  
+  <!-- =======================================================  -->
+  <!-- Boot Time Ad Hoc Response                                -->
+  <!-- =======================================================  -->
+  <definition name="boot_time.adhoc.response.page" extends="lay1sb1">
+    <put name="title"  value="Boot Time Ad Hoc Response"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/user/bootTimeAdHocResponse1.jsp"/>
+  </definition>
+    
+  <!-- =======================================================  -->
+  <!-- Directory Size (Ad Hoc)                                  -->
+  <!-- =======================================================  -->
+  <definition name="directory_size.adhoc.page" extends="lay1sb1">
+    <put name="title"  value="Directory Size (Ad Hoc)"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/user/directorySizeAdHoc1.jsp"/>
+  </definition>
+  
+  <!-- =======================================================  -->
+  <!-- Directory Size Ad Hoc Response                           -->
+  <!-- =======================================================  -->
+  <definition name="directory_size.adhoc.response.page" extends="lay1sb1">
+    <put name="title"  value="Directory Size Ad Hoc Response"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/user/directorySizeAdHocResponse1.jsp"/>
+  </definition>
+       
+  <!-- =======================================================  -->
+  <!-- File System Size (Ad Hoc)                                -->
+  <!-- =======================================================  -->
+  <definition name="disk_space.adhoc.page" extends="lay1sb1">
+    <put name="title"  value="File System Size (Ad Hoc)"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/user/fileSystemSizeAdHoc1.jsp"/>
+  </definition>
+ 
+  <!-- =======================================================  -->
+  <!-- File System Size Ad Hoc Response                         -->
+  <!-- =======================================================  -->
+  <definition name="disk_space.adhoc.response.page" extends="lay1sb1">
+    <put name="title"  value="File System Size Ad Hoc Response"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/user/fileSystemSizeAdHocResponse1.jsp"/>
+  </definition>
+  
+  <!-- =======================================================  -->
+  <!-- File Test (Ad Hoc)                                       -->
+  <!-- =======================================================  -->
+  <definition name="file.adhoc.page" extends="lay1sb1">
+    <put name="title"  value="File Test (Ad Hoc)"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/user/fileAdHoc1.jsp"/>
+  </definition>
+  
+  <!-- =======================================================  -->
+  <!-- File Test Ad Hoc Response                                -->
+  <!-- =======================================================  -->
+  <definition name="file.adhoc.response.page" extends="lay1sb1">
+    <put name="title"  value="File Test Ad Hoc Response"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/user/fileAdHocResponse1.jsp"/>
+  </definition>
+     
+  <!-- =======================================================  -->
+  <!-- File System Discovery (Ad Hoc)                           -->
+  <!-- =======================================================  -->
+  <definition name="file_system.adhoc.page" extends="lay1sb1">
+    <put name="title"  value="File System (Ad Hoc)"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/user/fileSystemAdHoc1.jsp"/>
+  </definition>
+  
+  <!-- =======================================================  -->
+  <!-- File System Discovery Ad Hoc Response                    -->
+  <!-- =======================================================  -->
+  <definition name="file_system.adhoc.response.page" extends="lay1sb1">
+    <put name="title"  value="File System Ad Hoc Response"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/user/fileSystemAdHocResponse1.jsp"/>
+  </definition>
+
+  <!-- =======================================================  -->
+  <!-- Process Test (Ad Hoc)                                    -->
+  <!-- =======================================================  -->
+  <definition name="process.adhoc.page" extends="lay1sb1">
+    <put name="title"  value="Process Test (Ad Hoc)"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/public/blank.jsp"/>
+  </definition>
+  
+  <!-- =======================================================  -->
+  <!-- Process Test Ad Hoc Response                             -->
+  <!-- =======================================================  -->
+  <definition name="process.adhoc.response.page" extends="lay1sb1">
+    <put name="title"  value="Process Test Ad Hoc Response"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/public/blank.jsp"/>
+  </definition>
+             
+  <!-- =======================================================  -->
+  <!-- *** Alarm Inhibit Attribute Pages ***                    -->
+  <!-- =======================================================  -->
+  <definition name="alarm_inhibit.audit.page" extends="lay1sb1">
+    <put name="title"  value="Audit Alarm Window Attributes"/>
+    <put name="menu"   value="menu.options5"/>
+    <put name="body"   value="/jsp/user/alarmInhibitAudit1.jsp"/>
+  </definition>
+   
+  <definition name="alarm_inhibit.edit.page" extends="lay1sb1">
+    <put name="title"  value="Edit Alarm Window Attribute"/>
+    <put name="menu"   value="menu.options5"/>
+    <put name="body"   value="/jsp/user/alarmInhibitEdit1.jsp"/>
+  </definition>
+  
+  <definition name="alarm_inhibit.failure.page" extends="lay1sb1">
+    <put name="title"  value="Operation Failure"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/public/genericFailure1.jsp"/>
+  </definition>
+  
+  <definition name="alarm_inhibit.new.page" extends="lay1sb1">
+    <put name="title"  value="Create New Alarm Window Attribute"/>
+    <put name="menu"   value="menu.options5"/>
+    <put name="body"   value="/jsp/user/alarmInhibitNew1.jsp"/>
+  </definition>
+                     
+  <!-- =======================================================  -->
+  <!-- *** "Canned Action" Attribute Pages ***                  -->
+  <!-- =======================================================  -->
+  <definition name="canned.audit.page" extends="lay1sb1">
+    <put name="title"  value="Audit VPO Attributes"/>
+    <put name="menu"   value="menu.options5"/>
+    <put name="body"   value="/jsp/user/cannedAudit1.jsp"/>
+  </definition>
+   
+  <definition name="canned.edit.page" extends="lay1sb1">
+    <put name="title"  value="Edit VPO Attribute"/>
+    <put name="menu"   value="menu.options5"/>
+    <put name="body"   value="/jsp/user/cannedEdit1.jsp"/>
+  </definition>
+  
+  <definition name="canned.failure.page" extends="lay1sb1">
+    <put name="title"  value="Operation Failure"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/public/genericFailure1.jsp"/>
+  </definition>
+  
+  <definition name="canned.new.page" extends="lay1sb1">
+    <put name="title"  value="Create New Canned Action Attribute"/>
+    <put name="menu"   value="menu.options5"/>
+    <put name="body"   value="/jsp/user/cannedNew1.jsp"/>
+  </definition>
+                       
+  <!-- =======================================================  -->
+  <!-- *** "Custom Message Attribute" Pages ***                 -->
+  <!-- =======================================================  -->
+  <definition name="cma.audit.page" extends="lay1sb1">
+    <put name="title"  value="Audit Custom Message Attributes"/>
+    <put name="menu"   value="menu.options5"/>
+    <put name="body"   value="/jsp/user/cmaAudit1.jsp"/>
+  </definition>
+   
+  <definition name="cma.edit.page" extends="lay1sb1">
+    <put name="title"  value="Edit Custom Message Attribute"/>
+    <put name="menu"   value="menu.options5"/>
+    <put name="body"   value="/jsp/user/cmaEdit1.jsp"/>
+  </definition>
+  
+  <definition name="cma.failure.page" extends="lay1sb1">
+    <put name="title"  value="Operation Failure"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/public/genericFailure1.jsp"/>
+  </definition>
+  
+  <definition name="cma.new.page" extends="lay1sb1">
+    <put name="title"  value="Create New Custom Message Attribute"/>
+    <put name="menu"   value="menu.options5"/>
+    <put name="body"   value="/jsp/user/cmaNew1.jsp"/>
+  </definition>
+  
+  <!-- =======================================================  -->
+  <!-- Configuration                                            -->
+  <!-- =======================================================  -->
+  <definition name="configuration.upload.page" extends="lay1sb1">
+    <put name="title"  value="Configuration Upload"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/user/configurationUpload1.jsp"/>
+  </definition>
+
+  <definition name="configuration.upload.response.page" extends="lay1sb1">
+    <put name="title"  value="Configuration Upload Response"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/public/blank.jsp"/>
+  </definition>
+          
+  <!-- =======================================================  -->
+  <!-- *** Directory Age Rule Pages ***                              -->
+  <!-- =======================================================  -->
+  <definition name="directory_age.audit.page" extends="lay1sb1">
+    <put name="title"  value="Audit Directory Age Monitors"/>
+    <put name="menu"   value="menu.options5"/>
+    <put name="body"   value="/jsp/user/directoryAgeAudit1.jsp"/>
+  </definition>
+  
+  <definition name="directory_age.edit.page" extends="lay1sb1">
+    <put name="title"  value="Edit Existing Directory Age Monitor"/>
+    <put name="menu"   value="menu.options3"/>
+    <put name="body"   value="/jsp/user/directoryAgeEdit1.jsp"/>
+  </definition>
+  
+  <definition name="directory_age.failure.page" extends="lay1sb1">
+    <put name="title"  value="Operation Failure"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/public/genericFailure1.jsp"/>
+  </definition>
+  
+  <definition name="directory_age.new.page" extends="lay1sb1">
+    <put name="title"  value="Create New Directory Age Monitor"/>
+    <put name="menu"   value="menu.options4"/>
+    <put name="body"   value="/jsp/user/directoryAgeNew1.jsp"/>
+  </definition>
+  
+  <definition name="directory_age.sample.page" extends="lay1sb1">
+    <put name="title"  value="Directory Age Monitor Samples"/>
+    <put name="menu"   value="menu.options5"/>
+    <put name="body"   value="/jsp/user/directoryAgeSample1.jsp"/>
+  </definition>
+
+  <!-- =======================================================  -->
+  <!-- *** Directory Size Rule Pages ***                        -->
+  <!-- =======================================================  -->
+  <definition name="directory_size.audit.page" extends="lay1sb1">
+    <put name="title"  value="Audit Directory Size Monitors"/>
+    <put name="menu"   value="menu.options5"/>
+    <put name="body"   value="/jsp/user/directorySizeAudit1.jsp"/>
+  </definition>
+   
+  <definition name="directory_size.edit.page" extends="lay1sb1">
+    <put name="title"  value="Edit Existing Directory Size Monitor"/>
+    <put name="menu"   value="menu.options3"/>
+    <put name="body"   value="/jsp/user/directorySizeEdit1.jsp"/>
+  </definition>
+  
+  <definition name="directory_size.failure.page" extends="lay1sb1">
+    <put name="title"  value="Operation Failure"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/public/genericFailure1.jsp"/>
+  </definition>
+  
+  <definition name="directory_size.new.page" extends="lay1sb1">
+    <put name="title"  value="Create New Directory Size Monitor"/>
+    <put name="menu"   value="menu.options4"/>
+    <put name="body"   value="/jsp/user/directorySizeNew1.jsp"/>
+  </definition>
+  
+  <definition name="directory_size.sample.page" extends="lay1sb1">
+    <put name="title"  value="Directory Size Monitor Samples"/>
+    <put name="menu"   value="menu.options5"/>
+    <put name="body"   value="/jsp/user/directorySizeSample1.jsp"/>
+  </definition>
+         
+  <!-- =======================================================  -->
+  <!-- *** File Age Rule Pages ***                              -->
+  <!-- =======================================================  -->
+  <definition name="file_age.audit.page" extends="lay1sb1">
+    <put name="title"  value="Audit File Age Monitors"/>
+    <put name="menu"   value="menu.options5"/>
+    <put name="body"   value="/jsp/user/fileAgeAudit1.jsp"/>
+  </definition>
+  
+  <definition name="file_age.edit.page" extends="lay1sb1">
+    <put name="title"  value="Edit Existing File Age Monitor"/>
+    <put name="menu"   value="menu.options3"/>
+    <put name="body"   value="/jsp/user/fileAgeEdit1.jsp"/>
+  </definition>
+  
+  <definition name="file_age.failure.page" extends="lay1sb1">
+    <put name="title"  value="Operation Failure"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/public/genericFailure1.jsp"/>
+  </definition>
+  
+  <definition name="file_age.new.page" extends="lay1sb1">
+    <put name="title"  value="Create New File Age Monitor"/>
+    <put name="menu"   value="menu.options4"/>
+    <put name="body"   value="/jsp/user/fileAgeNew1.jsp"/>
+  </definition>
+  
+  <definition name="file_age.sample.page" extends="lay1sb1">
+    <put name="title"  value="File Age Monitor Samples"/>
+    <put name="menu"   value="menu.options5"/>
+    <put name="body"   value="/jsp/user/fileAgeSample1.jsp"/>
+  </definition>
+       
+  <!-- =======================================================  -->
+  <!-- *** File Size Rule Pages ***                             -->
+  <!-- =======================================================  -->
+  <definition name="file_size.audit.page" extends="lay1sb1">
+    <put name="title"  value="Audit File Size Monitors"/>
+    <put name="menu"   value="menu.options5"/>
+    <put name="body"   value="/jsp/user/fileSizeAudit1.jsp"/>
+  </definition>
+   
+  <definition name="file_size.edit.page" extends="lay1sb1">
+    <put name="title"  value="Edit Existing File Size Monitor"/>
+    <put name="menu"   value="menu.options3"/>
+    <put name="body"   value="/jsp/user/fileSizeEdit1.jsp"/>
+  </definition>
+  
+  <definition name="file_size.failure.page" extends="lay1sb1">
+    <put name="title"  value="Operation Failure"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/public/genericFailure1.jsp"/>
+  </definition>
+  
+  <definition name="file_size.new.page" extends="lay1sb1">
+    <put name="title"  value="Create New File Size Monitor"/>
+    <put name="menu"   value="menu.options4"/>
+    <put name="body"   value="/jsp/user/fileSizeNew1.jsp"/>
+  </definition>
+  
+  <definition name="file_size.sample.page" extends="lay1sb1">
+    <put name="title"  value="File Size Monitor Samples"/>
+    <put name="menu"   value="menu.options5"/>
+    <put name="body"   value="/jsp/user/fileSizeSample1.jsp"/>
+  </definition>
+    
+  <!-- =======================================================  -->
+  <!-- *** File System Size Rule Pages ***                      -->
+  <!-- =======================================================  -->
+  <definition name="file_system_size.audit.page" extends="lay1sb1">
+    <put name="title"  value="Audit File System Size Monitors"/>
+    <put name="menu"   value="menu.options5"/>
+    <put name="body"   value="/jsp/user/fileSystemSizeAudit1.jsp"/>
+  </definition>
+    
+  <definition name="file_system_size.edit.page" extends="lay1sb1">
+    <put name="title"  value="Edit Existing File System Size Monitor"/>
+    <put name="menu"   value="menu.options3"/>
+    <put name="body"   value="/jsp/user/fileSystemSizeEdit1.jsp"/>
+  </definition>
+  
+  <definition name="file_system_size.failure.page" extends="lay1sb1">
+    <put name="title"  value="Operation Failure"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/public/genericFailure1.jsp"/>
+  </definition>
+  
+  <definition name="file_system_size.new.page" extends="lay1sb1">
+    <put name="title"  value="Create New File System Size Monitor"/>
+    <put name="menu"   value="menu.options4"/>
+    <put name="body"   value="/jsp/user/fileSystemSizeNew1.jsp"/>
+  </definition>
+   
+  <definition name="file_system_size.sample.page" extends="lay1sb1">
+    <put name="title"  value="File System Size Samples"/>
+    <put name="menu"   value="menu.options5"/>
+    <put name="body"   value="/jsp/user/fileSystemSizeSample1.jsp"/>
+  </definition>
+  
+  <!-- =======================================================  -->
+  <!-- *** Process Rule Pages ***                               -->
+  <!-- =======================================================  -->
+  <definition name="process.audit.page" extends="lay1sb1">
+    <put name="title"  value="Audit Process Monitors"/>
+    <put name="menu"   value="menu.options5"/>
+    <put name="body"   value="/jsp/user/processAudit1.jsp"/>
+  </definition>
+ 
+  <definition name="process.edit.page" extends="lay1sb1">
+    <put name="title"  value="Edit Existing Process Monitor"/>
+    <put name="menu"   value="menu.options3"/>
+    <put name="body"   value="/jsp/user/processEdit1.jsp"/>
+  </definition>
+  
+  <definition name="process.failure.page" extends="lay1sb1">
+    <put name="title"  value="Operation Failure"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/public/genericFailure1.jsp"/>
+  </definition>
+  
+  <definition name="process.new.page" extends="lay1sb1">
+    <put name="title"  value="Create New Process Monitor"/>
+    <put name="menu"   value="menu.options4"/>
+    <put name="body"   value="/jsp/user/processNew1.jsp"/>
+  </definition>
+  
+  <definition name="process.sample.page" extends="lay1sb1">
+    <put name="title"  value="Process Samples"/>
+    <put name="menu"   value="menu.options5"/>
+    <put name="body"   value="/jsp/user/processSample1.jsp"/>
+  </definition>
+    
+  <!-- =======================================================  -->
+  <!-- *** Reboot Rule Pages ***                                -->
+  <!-- =======================================================  -->
+  <definition name="reboot.audit.page" extends="lay1sb1">
+    <put name="title"  value="Audit Reboot Monitors"/>
+    <put name="menu"   value="menu.options5"/>
+    <put name="body"   value="/jsp/user/bootTimeAudit1.jsp"/>
+  </definition>
+  
+  <definition name="reboot.edit.page" extends="lay1sb1">
+    <put name="title"  value="Edit Existing Reboot Monitor"/>
+    <put name="menu"   value="menu.options3"/>
+    <put name="body"   value="/jsp/user/bootTimeEdit1.jsp"/>
+  </definition>
+  
+  <definition name="reboot.failure.page" extends="lay1sb1">
+    <put name="title"  value="Operation Failure"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/public/genericFailure1.jsp"/>
+  </definition>
+  
+  <definition name="reboot.new.page" extends="lay1sb1">
+    <put name="title"  value="Create New Reboot Monitor"/>
+    <put name="menu"   value="menu.options4"/>
+    <put name="body"   value="/jsp/user/bootTimeNew1.jsp"/>
+  </definition>
+  
+  <definition name="reboot.sample.page" extends="lay1sb1">
+    <put name="title"  value="Reboot Monitor Samples"/>
+    <put name="menu"   value="menu.options5"/>
+    <put name="body"   value="/jsp/user/bootTimeSample1.jsp"/>
+  </definition>
+   
+  <!-- =======================================================  -->
+  <!-- *** Task Pages ***                                       -->
+  <!-- =======================================================  -->
+  <definition name="task.browse.page" extends="lay1sb1">
+    <put name="title"  value="Browse Existing Tasks"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/user/taskBrowse1.jsp"/>
+  </definition>
+  
+  <definition name="task.edit.page" extends="lay1sb1">
+    <put name="title"  value="Browse Existing Tasks"/>
+    <put name="menu"   value="menu.options2"/>
+    <put name="body"   value="/jsp/user/taskEdit1.jsp"/>
+  </definition>
+  
+  <definition name="task.failure.page" extends="lay1sb1">
+    <put name="title"  value="Operation Failure"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/user/taskFailure1.jsp"/>
+  </definition>
+  
+  <definition name="task.new.page" extends="lay1sb1">
+    <put name="title"  value="Create New Task"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/user/taskNew1.jsp"/>
+  </definition>
+  
+  <definition name="task.success.page" extends="lay1sb1">
+    <put name="title"  value="Operation Success"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/user/taskSuccess1.jsp"/>
+  </definition>
+           
+  <!-- =======================================================  -->
+  <!-- *** VPO Attribute Pages ***                              -->
+  <!-- =======================================================  -->
+  <definition name="vpo.audit.page" extends="lay1sb1">
+    <put name="title"  value="Audit VPO Attributes"/>
+    <put name="menu"   value="menu.options5"/>
+    <put name="body"   value="/jsp/user/vpoAudit1.jsp"/>
+  </definition>
+   
+  <definition name="vpo.edit.page" extends="lay1sb1">
+    <put name="title"  value="Edit VPO Attribute"/>
+    <put name="menu"   value="menu.options5"/>
+    <put name="body"   value="/jsp/user/vpoEdit1.jsp"/>
+  </definition>
+  
+  <definition name="vpo.failure.page" extends="lay1sb1">
+    <put name="title"  value="Operation Failure"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/public/genericFailure1.jsp"/>
+  </definition>
+  
+  <definition name="vpo.new.page" extends="lay1sb1">
+    <put name="title"  value="Create New VPO Attribute"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/user/vpoNew1.jsp"/>
+  </definition>
+
+  <!-- =======================================================  -->
+  <!-- Welcome Page                                             -->
+  <!-- =======================================================  -->
+  <definition name="welcome.page" extends="lay1sb1">
+    <put name="title"  value="Welcome to ESSA"/>
+    <put name="menu"   value="menu.options1"/>
+    <put name="body"   value="/jsp/user/welcome1.jsp"/>
+  </definition>
+
+  <!-- =======================================================  -->
+  <!-- *** Menu Options ***                                     -->
+  <!-- =======================================================  -->
+
+  <!-- =======================================================  -->
+  <!-- Menu Options 1                                           -->
+  <!-- =======================================================  -->
+  <definition name="menu.options1" path="/jsp/public/layout2.jsp">
+    <putList name="list">
+      <add value="user.configuration.menu.options"/>
+      <add value="user.task.menu.options1"/>
+    </putList>
+  </definition>
+  
+  <!-- =======================================================  -->
+  <!-- Menu Options 2                                           -->
+  <!-- =======================================================  -->
+  <definition name="menu.options2" path="/jsp/public/layout2.jsp">
+    <putList name="list">
+      <add value="user.task.menu.options1"/>
+      <add value="user.attribute.menu.options1"/>
+      <add value="user.rule.menu.options"/>
+    </putList>
+  </definition>
+    
+  <!-- =======================================================  -->
+  <!-- Menu Options 3 (visible when editing rule)               -->
+  <!-- =======================================================  -->
+  <definition name="menu.options3" path="/jsp/public/layout2.jsp">
+    <putList name="list">
+      <add value="user.task.menu.options2"/>
+      <add value="user.attribute.menu.options2"/>
+    </putList>
+  </definition>
+
+  <!-- =======================================================  -->
+  <!-- Menu Options 4 (visible for new rule)                    -->
+  <!-- =======================================================  -->
+  <definition name="menu.options4" path="/jsp/public/layout2.jsp">
+    <putList name="list">
+      <add value="user.task.menu.options2"/>
+    </putList>
+  </definition>
+      
+  <!-- =======================================================  -->
+  <!-- Menu Options 5(visible when viewing audit)               -->
+  <!-- =======================================================  -->
+  <definition name="menu.options5" path="/jsp/public/layout2.jsp">
+    <putList name="list">
+      <add value="user.task.menu.options2"/>
+    </putList>
+  </definition>
+  
+  <!-- =======================================================  -->
+  <!-- Configuration Menu Options                               -->
+  <!-- =======================================================  -->
+  <definition name="user.configuration.menu.options" path="/jsp/public/layout4.jsp">
+    <put name="title" value="Configuration"/>
+    <putList name="items">
+      <item value="File Upload"  link="/user/configurationPrepAction.do?action=new"/>
+      <item value="XML Dump"     link="/user/configurationPrepAction.do?action=dump"/>
+    </putList>
+  </definition>
+  
+  <!-- =======================================================  -->
+  <!-- Attribute Menu Options (display from edit task)          -->
+  <!-- =======================================================  -->
+  <definition name="user.attribute.menu.options1" path="/jsp/public/layout4.jsp">
+    <put name="title" value="Attribute Add"/>
+    <putList name="items">
+      <item value="Alarm Window"  link="/user/alarmInhibitPrepAction.do?action=new_default"/>
+      <item value="Canned Action" link="/user/cannedPrepAction.do?action=new_default"/>
+      <item value="CMA"           link="/user/cmaPrepAction.do?action=new_default"/>
+    </putList>
+  </definition>
+  
+  <!-- =======================================================  -->
+  <!-- Attribute Menu Options (display from edit rule)          -->
+  <!-- =======================================================  -->
+  <definition name="user.attribute.menu.options2" path="/jsp/public/layout4.jsp">
+    <put name="title" value="Attribute Add"/>
+    <putList name="items">
+      <item value="Canned Action" link="/user/cannedPrepAction.do?action=new"/>
+      <item value="VPO"           link="/user/vpoPrepAction.do?action=new"/>
+    </putList>
+  </definition>
+  
+  <!-- =======================================================  -->
+  <!-- Instrument Menu Options                                  -->
+  <!-- =======================================================  -->
+  <definition name="user.instrument.menu.options" path="/jsp/public/layout4.jsp">
+    <put name="title" value="Instruments"/>
+    <putList name="items">
+      <item value="Boot Time"    link="/user/bootTimeAdHocAction.do?action=prepare"/>       
+      <item value="Directory"    link="/user/directorySizeAdHocPrepAction.do?action=new"/>
+      <item value="Disk Space"   link="/user/diskSpaceAdHocPrepAction.do?action=new"/>
+      <item value="File Systems" link="/user/fileSystemAdHocAction.do?action=prepare"/>
+      <item value="File"         link="/user/fileAdHocPrepAction.do?action=new"/>
+      <item value="Process"      link="/user/processAdHocPrepAction.do?action=new"/>
+    </putList>
+  </definition>
+  
+  <!-- =======================================================  -->
+  <!-- Rule Menu Options                                        -->
+  <!-- =======================================================  -->
+  <definition name="user.rule.menu.options" path="/jsp/public/layout4.jsp">
+    <put name="title" value="Rule Add"/>
+    <putList name="items">
+      <!--
+      <item value="Directory Age"     link="/user/directoryAgePrepAction.do?action=new"/>
+      -->
+      <item value="Directory Size"    link="/user/directorySizePrepAction.do?action=new"/>
+      <item value="File Age"          link="/user/fileAgePrepAction.do?action=new"/>
+      <item value="File Size"         link="/user/fileSizePrepAction.do?action=new"/>
+      <item value="File System Size"  link="/user/fileSystemSizePrepAction.do?action=new"/>
+      <item value="Process"           link="/user/processPrepAction.do?action=new"/>
+      <item value="Reboot"            link="/user/bootTimePrepAction.do?action=new"/>
+    </putList>
+  </definition>
+
+  <!-- =======================================================  -->
+  <!-- Task Menu Options                                        -->
+  <!-- =======================================================  -->
+  <definition name="user.task.menu.options1" path="/jsp/public/layout4.jsp">
+    <put name="title" value="Tasking"/>
+    <putList name="items">
+      <item value="Existing" link="/user/taskPrepAction.do?action=browse"/>
+      <item value="New"      link="/user/taskPrepAction.do?action=new"/>
+    </putList>
+  </definition>
+  
+  <!-- =======================================================  -->
+  <!-- Task Menu Options                                        -->
+  <!-- =======================================================  -->
+  <definition name="user.task.menu.options2" path="/jsp/public/layout4.jsp">
+    <put name="title" value="Tasking"/>
+    <putList name="items">
+      <item value="Current"  link="/user/taskPrepAction.do?action=refresh"/>
+      <item value="Existing" link="/user/taskPrepAction.do?action=browse"/>
+      <item value="New"      link="/user/taskPrepAction.do?action=new"/>
+    </putList>
+  </definition>
+</tiles-definitions>

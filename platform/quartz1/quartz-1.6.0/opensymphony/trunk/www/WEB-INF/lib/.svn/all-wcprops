@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/opensymphony/trunk/www/WEB-INF/lib
+END
+jnlp-servlet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/opensymphony/trunk/www/WEB-INF/lib/jnlp-servlet.jar
+END
+jdom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/opensymphony/trunk/www/WEB-INF/lib/jdom.jar
+END
+oscache-2.1-12Nov04.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/opensymphony/trunk/www/WEB-INF/lib/oscache-2.1-12Nov04.jar
+END
+oscore-2.2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/opensymphony/trunk/www/WEB-INF/lib/oscore-2.2.4.jar
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/opensymphony/trunk/www/WEB-INF/lib/commons-logging.jar
+END
+log4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/opensymphony/trunk/www/WEB-INF/lib/log4j.jar
+END
+sitemesh-2.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/opensymphony/trunk/www/WEB-INF/lib/sitemesh-2.2.1.jar
+END

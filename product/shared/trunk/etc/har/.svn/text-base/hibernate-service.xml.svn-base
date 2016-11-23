@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Title: hibernate-service.xml
+Description: Hibernate service.
+Development Environment: JBoss Application Server 4.0.5.GA
+Author: G.S. Cole (guycole at gmail dot com)
+-->
+
+<server>
+  <mbean code="org.jboss.hibernate.jmx.Hibernate" name="essa.har:service=Hibernate">
+    <!-- Datasource settings -->
+    <attribute name="DatasourceName">java:/DerbyDS</attribute>
+    <attribute name="Dialect">org.hibernate.dialect.DerbyDialect</attribute>
+
+    <!-- Bind the Hibernate service to JNDI -->
+    <attribute name="SessionFactoryName">java:/essa/hibernate/SessionFactory</attribute>
+
+    <!-- Cache -->
+    <attribute name="CacheProviderClass">org.hibernate.cache.HashtableCacheProvider</attribute>
+
+    <!-- Logging -->
+    <attribute name="ShowSqlEnabled">false</attribute>
+  </mbean>
+</server>

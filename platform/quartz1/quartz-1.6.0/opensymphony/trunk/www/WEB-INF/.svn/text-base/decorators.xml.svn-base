@@ -1,0 +1,16 @@
+<decorators defaultdir="/decorators">
+
+   <decorator name="main" page="main.jsp">
+      <pattern>/*</pattern>
+   </decorator>
+
+   <decorator name="apidocs" page="api.jsp">
+      <pattern>/*/api/*</pattern>
+      <pattern>/*/clover/*</pattern>
+      <pattern>/*/junit/*</pattern>
+   </decorator>
+   <decorator name="none">
+      <pattern>/ci/*</pattern>
+   </decorator>
+
+</decorators>

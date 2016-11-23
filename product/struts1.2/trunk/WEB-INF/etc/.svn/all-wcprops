@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/esm-essa/!svn/ver/1425/trunk/product/struts1.2/trunk/WEB-INF/etc
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/esm-essa/!svn/ver/19/trunk/product/struts1.2/trunk/WEB-INF/etc/logging.properties
+END
+javadoc.tags
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/esm-essa/!svn/ver/19/trunk/product/struts1.2/trunk/WEB-INF/etc/javadoc.tags
+END
+message_resources.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm-essa/!svn/ver/1425/trunk/product/struts1.2/trunk/WEB-INF/etc/message_resources.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/esm-essa/!svn/ver/963/trunk/product/struts1.2/trunk/WEB-INF/etc/log4j.properties
+END

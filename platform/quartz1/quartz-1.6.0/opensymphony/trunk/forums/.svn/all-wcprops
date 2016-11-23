@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/opensymphony/trunk/forums
+END
+OSForums.ipr
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/opensymphony/trunk/forums/OSForums.ipr
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/opensymphony/trunk/forums/README.txt
+END
+OSForums.iml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/opensymphony/trunk/forums/OSForums.iml
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/opensymphony/trunk/forums/.cvsignore
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/opensymphony/trunk/forums/build.xml
+END

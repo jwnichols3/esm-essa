@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/esm-essa/!svn/ver/239/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/jms
+END
+EvaluateQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm-essa/!svn/ver/237/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/jms/EvaluateQueue.java
+END
+NotifyQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm-essa/!svn/ver/239/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/jms/NotifyQueue.java
+END
+PersistQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm-essa/!svn/ver/235/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/jms/PersistQueue.java
+END

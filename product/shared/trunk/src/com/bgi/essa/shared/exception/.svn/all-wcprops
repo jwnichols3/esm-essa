@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/esm-essa/!svn/ver/274/trunk/product/shared/trunk/src/com/bgi/essa/shared/exception
+END
+BackEndFailure.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/27/trunk/product/shared/trunk/src/com/bgi/essa/shared/exception/BackEndFailure.java
+END
+CommandFailure.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm-essa/!svn/ver/274/trunk/product/shared/trunk/src/com/bgi/essa/shared/exception/CommandFailure.java
+END
+EssaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/esm-essa/!svn/ver/27/trunk/product/shared/trunk/src/com/bgi/essa/shared/exception/EssaException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm-essa/!svn/ver/27/trunk/product/shared/trunk/src/com/bgi/essa/shared/exception/package.html
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/lifecycle/basic/test
+END
+BasicDependencyDependsOptionalAttributeList_NotAutomatic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/lifecycle/basic/test/BasicDependencyDependsOptionalAttributeList_NotAutomatic.xml
+END
+BasicDependencyDependsOptionalAttributeListNested_NotAutomatic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/lifecycle/basic/test/BasicDependencyDependsOptionalAttributeListNested_NotAutomatic.xml
+END
+BasicDependencyDependsOptionalAttribute_NotAutomatic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/lifecycle/basic/test/BasicDependencyDependsOptionalAttribute_NotAutomatic.xml
+END
+BasicDependencyDependsList_NotAutomatic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/lifecycle/basic/test/BasicDependencyDependsList_NotAutomatic.xml
+END
+BasicDependencyDependsOptionalAttributeNested_NotAutomatic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/lifecycle/basic/test/BasicDependencyDependsOptionalAttributeNested_NotAutomatic.xml
+END
+BasicLifecycle_NotAutomatic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/lifecycle/basic/test/BasicLifecycle_NotAutomatic.xml
+END
+BasicDependencyDependsListNested_NotAutomatic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/lifecycle/basic/test/BasicDependencyDependsListNested_NotAutomatic.xml
+END
+BasicDependencyDepends_NotAutomatic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/lifecycle/basic/test/BasicDependencyDepends_NotAutomatic.xml
+END
+BasicDependencyDependsNested_NotAutomatic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/lifecycle/basic/test/BasicDependencyDependsNested_NotAutomatic.xml
+END

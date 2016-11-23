@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/tools/org/apache/derby/iapi/tools/i18n
+END
+LocalizedInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/tools/org/apache/derby/iapi/tools/i18n/LocalizedInput.java
+END
+LocalizedOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/tools/org/apache/derby/iapi/tools/i18n/LocalizedOutput.java
+END
+LocalizedResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/tools/org/apache/derby/iapi/tools/i18n/LocalizedResource.java
+END

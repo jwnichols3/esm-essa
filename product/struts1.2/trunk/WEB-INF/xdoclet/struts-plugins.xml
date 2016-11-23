@@ -1,0 +1,16 @@
+<!--
+  Title: struts-plugins.xml
+  Description: struts plugins definitions (as a XDoclet merge point)
+  Development Environment: Jakarta Struts 1.2.9, XDoclet 1.3-SNAPSHOT
+  Author: G.S. Cole (guycole at gmail dot com)
+-->
+
+<plug-in className="com.bgi.essa.struts1_2.EssaPlugIn">
+  <set-property property="java.naming.factory.initial" value="org.jnp.interfaces.NamingContextFactory"/>
+  <set-property property="java.naming.factory.url.pkgs" value="org.jboss.naming:org.jnp.interfaces"/>
+  <set-property property="java.naming.provider.url" value="localhost"/>
+</plug-in>
+
+<plug-in className="org.apache.struts.tiles.TilesPlugin">
+  <set-property property="definitions-config" value="/WEB-INF/tiles-defs.xml"/>
+</plug-in>

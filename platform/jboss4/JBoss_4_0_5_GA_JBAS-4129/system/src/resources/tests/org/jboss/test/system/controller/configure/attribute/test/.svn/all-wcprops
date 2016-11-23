@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test
+END
+AttributeBrokenGetAttributes_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/AttributeBrokenGetAttributes_bad.xml
+END
+DependsListAttributeEmptyValue_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/DependsListAttributeEmptyValue_bad.xml
+END
+DependsListAttributeNotFound_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/DependsListAttributeNotFound_bad.xml
+END
+DependsAttributeEmptyValue_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/DependsAttributeEmptyValue_bad.xml
+END
+DependsAttributeNotFound_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/DependsAttributeNotFound_bad.xml
+END
+DependsListAttributeNested_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/DependsListAttributeNested_install.xml
+END
+DependsAttributeNested_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/DependsAttributeNested_install.xml
+END
+AttributeEmptyValue_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/AttributeEmptyValue_install.xml
+END
+DependsListAttributeBrokenSetAttribute_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/DependsListAttributeBrokenSetAttribute_bad.xml
+END
+AttributeNone_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/AttributeNone_install.xml
+END
+DependsListAttributeInvalidValue_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/DependsListAttributeInvalidValue_bad.xml
+END
+DependsAttributeBrokenSetAttribute_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/DependsAttributeBrokenSetAttribute_bad.xml
+END
+DependsAttributeInvalidValue_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/DependsAttributeInvalidValue_bad.xml
+END
+DependsListAttributeTwo_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/DependsListAttributeTwo_install.xml
+END
+AttributeTwo_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/AttributeTwo_install.xml
+END
+AttributeNoValue_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/AttributeNoValue_install.xml
+END
+DependsAttributeTwo_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/DependsAttributeTwo_install.xml
+END
+AttributeNotFound_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/AttributeNotFound_bad.xml
+END
+AttributeEmptyName_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/AttributeEmptyName_bad.xml
+END
+DependsListAttributeOne_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/DependsListAttributeOne_install.xml
+END
+AttributeOne_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/AttributeOne_install.xml
+END
+DependsAttributeOne_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/DependsAttributeOne_install.xml
+END
+DependsListAttributeUnknownElement_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/DependsListAttributeUnknownElement_bad.xml
+END
+DependsListAttributeNoValue_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/DependsListAttributeNoValue_bad.xml
+END
+DependsListAttributePatternValue_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/DependsListAttributePatternValue_bad.xml
+END
+DependsListAttributeMultiple_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/DependsListAttributeMultiple_install.xml
+END
+DependsAttributeNoValue_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/DependsAttributeNoValue_bad.xml
+END
+DependsAttributeUnknownElement_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/DependsAttributeUnknownElement_bad.xml
+END
+DependsAttributePatternValue_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/DependsAttributePatternValue_bad.xml
+END
+AttributeNoName_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/AttributeNoName_bad.xml
+END
+DependsListAttributeNone_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/DependsListAttributeNone_install.xml
+END
+AttributeBrokenSetAttribute_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/AttributeBrokenSetAttribute_bad.xml
+END
+DependsAttributeNone_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/attribute/test/DependsAttributeNone_install.xml
+END

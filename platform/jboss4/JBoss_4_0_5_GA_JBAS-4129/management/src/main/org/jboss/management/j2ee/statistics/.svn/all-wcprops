@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/statistics
+END
+EJBStatsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/statistics/EJBStatsImpl.java
+END
+StatelessSessionBeanStatsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/statistics/StatelessSessionBeanStatsImpl.java
+END
+CountStatisticImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/statistics/CountStatisticImpl.java
+END
+EntityBeanStatsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/statistics/EntityBeanStatsImpl.java
+END
+StatisticsProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/statistics/StatisticsProvider.java
+END
+JMSConsumerStatsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/statistics/JMSConsumerStatsImpl.java
+END
+RangeStatisticImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/statistics/RangeStatisticImpl.java
+END
+BoundedRangeStatisticImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/statistics/BoundedRangeStatisticImpl.java
+END
+TimeStatisticImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/statistics/TimeStatisticImpl.java
+END
+JCAConnectionPoolStatsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/statistics/JCAConnectionPoolStatsImpl.java
+END
+JMSConnectionStatsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/statistics/JMSConnectionStatsImpl.java
+END
+JCAConnectionStatsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/statistics/JCAConnectionStatsImpl.java
+END
+JTAStatsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/statistics/JTAStatsImpl.java
+END
+StatefulSessionBeanStatsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/statistics/StatefulSessionBeanStatsImpl.java
+END
+MessageDrivenBeanStatsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/statistics/MessageDrivenBeanStatsImpl.java
+END
+ServletStatsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/statistics/ServletStatsImpl.java
+END
+StatisticImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/statistics/StatisticImpl.java
+END
+StatsBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/statistics/StatsBase.java
+END
+JMSStatsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/statistics/JMSStatsImpl.java
+END
+JMSEndpointStatsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/statistics/JMSEndpointStatsImpl.java
+END
+JVMStatsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/statistics/JVMStatsImpl.java
+END
+BoundaryStatisticImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/statistics/BoundaryStatisticImpl.java
+END
+JMSSessionStatsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/statistics/JMSSessionStatsImpl.java
+END
+JCAStatsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/statistics/JCAStatsImpl.java
+END
+JMSProducerStatsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/statistics/JMSProducerStatsImpl.java
+END

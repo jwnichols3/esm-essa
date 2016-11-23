@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/examples/org/jboss/ha/jmx/examples
+END
+HANotificationBroadcasterClientExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/examples/org/jboss/ha/jmx/examples/HANotificationBroadcasterClientExample.java
+END
+HANotificationBroadcasterExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/examples/org/jboss/ha/jmx/examples/HANotificationBroadcasterExample.java
+END
+HANotificationBroadcasterClientExampleMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/examples/org/jboss/ha/jmx/examples/HANotificationBroadcasterClientExampleMBean.java
+END
+HANotificationBroadcasterExampleMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/cluster/src/examples/org/jboss/ha/jmx/examples/HANotificationBroadcasterExampleMBean.java
+END

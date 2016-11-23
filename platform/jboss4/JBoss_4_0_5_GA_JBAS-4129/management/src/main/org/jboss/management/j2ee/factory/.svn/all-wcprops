@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/factory
+END
+RARModuleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/factory/RARModuleFactory.java
+END
+JNDIResourceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/factory/JNDIResourceFactory.java
+END
+JavaMailResourceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/factory/JavaMailResourceFactory.java
+END
+EARModuleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/factory/EARModuleFactory.java
+END
+RMIIIOPResourceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/factory/RMIIIOPResourceFactory.java
+END
+ManagedObjectFactoryMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/factory/ManagedObjectFactoryMap.java
+END
+JMSResourceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/factory/JMSResourceFactory.java
+END
+WebModuleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/factory/WebModuleFactory.java
+END
+ManagedObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/factory/ManagedObjectFactory.java
+END
+JCAResourceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/factory/JCAResourceFactory.java
+END
+DefaultManagedObjectFactoryMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/factory/DefaultManagedObjectFactoryMap.java
+END
+ServiceModuleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/factory/ServiceModuleFactory.java
+END
+JTAResourceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/factory/JTAResourceFactory.java
+END
+EJBModuleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/factory/EJBModuleFactory.java
+END

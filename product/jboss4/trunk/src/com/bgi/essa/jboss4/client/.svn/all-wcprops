@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/esm-essa/!svn/ver/1453/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/client
+END
+RmiProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm-essa/!svn/ver/473/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/client/RmiProperties.java
+END
+BusinessDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm-essa/!svn/ver/1406/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/client/BusinessDelegate.java
+END
+CommandQueueProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/esm-essa/!svn/ver/29/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/client/CommandQueueProducer.java
+END
+AbstractQueueProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/45/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/client/AbstractQueueProducer.java
+END
+LegacyConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/1453/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/client/LegacyConfiguration.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm-essa/!svn/ver/29/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/client/package.html
+END

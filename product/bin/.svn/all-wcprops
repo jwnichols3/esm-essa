@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/esm-essa/!svn/ver/1421/trunk/product/bin
+END
+ParseClient1.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esm-essa/!svn/ver/1421/trunk/product/bin/ParseClient1.sh
+END
+PingClient1.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esm-essa/!svn/ver/31/trunk/product/bin/PingClient1.sh
+END
+configuration
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/esm-essa/!svn/ver/1186/trunk/product/bin/configuration
+END
+CmdClient1.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esm-essa/!svn/ver/31/trunk/product/bin/CmdClient1.sh
+END
+Producer1.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esm-essa/!svn/ver/18/trunk/product/bin/Producer1.sh
+END
+CmdClient2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esm-essa/!svn/ver/110/trunk/product/bin/CmdClient2.sh
+END
+CmdClient3.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esm-essa/!svn/ver/162/trunk/product/bin/CmdClient3.sh
+END

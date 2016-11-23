@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/support
+END
+BrokenDynamicMBeanAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/support/BrokenDynamicMBeanAttributes.java
+END
+AbstractRegistrationMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/support/AbstractRegistrationMBean.java
+END
+PostRegisterError.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/support/PostRegisterError.java
+END
+PreRegisterError.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/support/PreRegisterError.java
+END
+JavaBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/support/JavaBean.java
+END
+BrokenDynamicMBeanAttributeInfoTypeNotFound.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/support/BrokenDynamicMBeanAttributeInfoTypeNotFound.java
+END
+Order.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/support/Order.java
+END
+PostDeregisterError.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/support/PostDeregisterError.java
+END
+AbstractSimple.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/support/AbstractSimple.java
+END
+PreDeregisterError.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/support/PreDeregisterError.java
+END
+NotSimpleStandardMBeanInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/support/NotSimpleStandardMBeanInterface.java
+END
+JavaBeanErrorProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/support/JavaBeanErrorProperty.java
+END
+BrokenDynamicMBeanNoAttributeInfoType.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/support/BrokenDynamicMBeanNoAttributeInfoType.java
+END
+JavaBeanErrorConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/support/JavaBeanErrorConstructor.java
+END
+BrokenDynamicMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/support/BrokenDynamicMBean.java
+END
+Simple.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/support/Simple.java
+END
+SimpleMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/support/SimpleMBean.java
+END
+SimpleStandardMBeanInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/support/SimpleStandardMBeanInterface.java
+END
+AbstractRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/support/AbstractRegistration.java
+END

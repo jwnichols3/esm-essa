@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/configure/attribute/test
+END
+DependsAttributeOldUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/configure/attribute/test/DependsAttributeOldUnitTestCase.java
+END
+DependsListAttributeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/configure/attribute/test/DependsListAttributeTest.java
+END
+AttributeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/configure/attribute/test/AttributeTest.java
+END
+DependsAttributeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/configure/attribute/test/DependsAttributeTest.java
+END
+DependsListAttributeOldUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/configure/attribute/test/DependsListAttributeOldUnitTestCase.java
+END
+AttributeOldUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/tests/org/jboss/test/system/controller/configure/attribute/test/AttributeOldUnitTestCase.java
+END

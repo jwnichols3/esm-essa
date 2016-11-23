@@ -1,0 +1,12 @@
+.quote {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	height: 80px;
+}	
+
+.quote td {
+	font-size: 14pt; 
+	font-weight: bold; 
+	text-align: center;
+}
+

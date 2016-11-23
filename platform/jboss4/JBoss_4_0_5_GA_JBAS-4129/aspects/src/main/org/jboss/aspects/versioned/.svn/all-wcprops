@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned
+END
+LockAttemptFailure.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/LockAttemptFailure.java
+END
+DistributedSetUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/DistributedSetUpdate.java
+END
+VersionReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/VersionReference.java
+END
+StateChangeInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/StateChangeInterceptor.java
+END
+OptimisticLockFailure.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/OptimisticLockFailure.java
+END
+LocalSynchronizationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/LocalSynchronizationManager.java
+END
+StateManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/StateManager.java
+END
+VersionedConstructorInterceptorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/VersionedConstructorInterceptorFactory.java
+END
+DistributedPOJOUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/DistributedPOJOUpdate.java
+END
+TxCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/TxCache.java
+END
+VersionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/VersionManager.java
+END
+DistributedListUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/DistributedListUpdate.java
+END
+DistributedMapState.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/DistributedMapState.java
+END
+DistributedTxCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/DistributedTxCache.java
+END
+VersionedConstructorInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/VersionedConstructorInterceptor.java
+END
+DistributedUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/DistributedUpdate.java
+END
+VersionedObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/VersionedObject.java
+END
+VersionedObjectForwardingInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/VersionedObjectForwardingInterceptor.java
+END
+Versioned.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/Versioned.java
+END
+DistributedSetState.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/DistributedSetState.java
+END
+DistributedSynchronizationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/DistributedSynchronizationManager.java
+END
+VersionedObjectInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/VersionedObjectInterceptor.java
+END
+DistributedPOJOState.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/DistributedPOJOState.java
+END
+DistributedListState.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/DistributedListState.java
+END
+CollectionStateChangeInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/CollectionStateChangeInterceptor.java
+END
+DistributedMapUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/DistributedMapUpdate.java
+END
+DistributedState.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/DistributedState.java
+END
+DistributedVersionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/DistributedVersionManager.java
+END
+CollectionStateManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/CollectionStateManager.java
+END
+DistributedFieldUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/DistributedFieldUpdate.java
+END
+SynchronizationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/SynchronizationManager.java
+END
+VersionedObjectInterceptorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/aspects/src/main/org/jboss/aspects/versioned/VersionedObjectInterceptorFactory.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/binding/test
+END
+ServiceBinding_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/binding/test/ServiceBinding_install.xml
+END
+ServiceBindingError_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/configure/binding/test/ServiceBindingError_install.xml
+END

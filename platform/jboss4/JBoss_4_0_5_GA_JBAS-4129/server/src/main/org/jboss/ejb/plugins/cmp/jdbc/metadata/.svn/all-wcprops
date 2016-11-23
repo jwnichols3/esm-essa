@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata
+END
+JDBCEntityMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/JDBCEntityMetaData.java
+END
+MetaDataLibrary.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/MetaDataLibrary.java
+END
+JDBCValuePropertyMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/JDBCValuePropertyMetaData.java
+END
+JDBCCMPFieldMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/JDBCCMPFieldMetaData.java
+END
+MetaDataLibraryMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/MetaDataLibraryMBean.java
+END
+JDBCXmlFileLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/JDBCXmlFileLoader.java
+END
+JDBCCMPFieldPropertyMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/JDBCCMPFieldPropertyMetaData.java
+END
+JDBCDeclaredQueryMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/JDBCDeclaredQueryMetaData.java
+END
+JDBCMappingMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/JDBCMappingMetaData.java
+END
+JDBCUserTypeMappingMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/JDBCUserTypeMappingMetaData.java
+END
+GetTCLAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/GetTCLAction.java
+END
+JDBCQueryMetaDataFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/JDBCQueryMetaDataFactory.java
+END
+JDBCReadAheadMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/JDBCReadAheadMetaData.java
+END
+JDBCValueClassMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/JDBCValueClassMetaData.java
+END
+JDBCApplicationMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/JDBCApplicationMetaData.java
+END
+JDBCQueryMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/JDBCQueryMetaData.java
+END
+JDBCDynamicQLQueryMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/JDBCDynamicQLQueryMetaData.java
+END
+JDBCLeftJoinMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/JDBCLeftJoinMetaData.java
+END
+JDBCEntityCommandMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/JDBCEntityCommandMetaData.java
+END
+JDBCAutomaticQueryMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/JDBCAutomaticQueryMetaData.java
+END
+JDBCRelationMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/JDBCRelationMetaData.java
+END
+JDBCRelationshipRoleMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/JDBCRelationshipRoleMetaData.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/package.html
+END
+JDBCOptimisticLockingMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/JDBCOptimisticLockingMetaData.java
+END
+JDBCTypeMappingMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/JDBCTypeMappingMetaData.java
+END
+JDBCRawSqlQueryMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/JDBCRawSqlQueryMetaData.java
+END
+JDBCFunctionMappingMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/JDBCFunctionMappingMetaData.java
+END
+JDBCQlQueryMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/JDBCQlQueryMetaData.java
+END
+JDBCJBossQLQueryMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/JDBCJBossQLQueryMetaData.java
+END
+JDBCAuditMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/JDBCAuditMetaData.java
+END
+DataSourceMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/DataSourceMetaData.java
+END
+DataSourceMetaDataMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/server/src/main/org/jboss/ejb/plugins/cmp/jdbc/metadata/DataSourceMetaDataMBean.java
+END

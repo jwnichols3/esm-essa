@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/cmp2/optimisticlock/bug1006723/testsession
+END
+TestSessionRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/cmp2/optimisticlock/bug1006723/testsession/TestSessionRemote.java
+END
+TestSessionRemoteHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/cmp2/optimisticlock/bug1006723/testsession/TestSessionRemoteHome.java
+END
+TestSessionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/cmp2/optimisticlock/bug1006723/testsession/TestSessionBean.java
+END

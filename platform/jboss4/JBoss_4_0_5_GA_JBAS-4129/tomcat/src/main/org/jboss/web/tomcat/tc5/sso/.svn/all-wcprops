@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/sso
+END
+SSOClusterManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/sso/SSOClusterManager.java
+END
+SingleSignOnEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/sso/SingleSignOnEntry.java
+END
+mbeans-descriptors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/sso/mbeans-descriptors.xml
+END
+TreeCacheSSOClusterManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/sso/TreeCacheSSOClusterManager.java
+END
+ClusteredSingleSignOn.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/tc5/sso/ClusteredSingleSignOn.java
+END

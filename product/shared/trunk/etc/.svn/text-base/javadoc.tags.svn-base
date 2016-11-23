@@ -1,0 +1,6 @@
+hibernate.class
+hibernate.generator
+hibernate.id
+hibernate.many-to-one
+hibernate.param
+hibernate.property

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+    "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping
+
+>
+
+    <class
+            name="test.hibernate30.Order"
+            table="ORDERS"
+            polymorphism="explicit"
+            mutable="false"
+    >
+
+    <id
+        name="id"
+            column="id"
+            unsaved-value="null"
+    >
+
+    <generator
+        class="sequence"
+    >
+    <param name="table">
+        <![CDATA[HIVAL]]>
+    </param>
+
+    <param name="column">
+        <![CDATA[NEXT]]>
+    </param>
+
+    </generator>
+
+    </id>
+
+        <version
+            name="version"
+            column="version"
+            type="int"
+        />
+
+        <list
+            name="items"
+            lazy="true"
+            inverse="true"
+            cascade="all"
+        >
+
+            <!-- @hibernate.collection-key tag is deprecated, use @hibernate.key instead -->
+            <key
+                column="ORDER_ID"
+            >
+
+            </key>
+
+            <!-- @hibernate.collection-index tag is deprecated, use @hibernate.index instead -->
+            <index
+                column="ORDER_POS"
+            />
+
+            <!-- @hibernate.collection-one-to-many tag is deprecated, use @hibernate.one-to-many instead -->
+            <one-to-many
+                  class="test.hibernate30.LineItem"
+            />
+
+        </list>
+
+        <property
+            name="date"
+                    type="calendar_date"
+                    column="date"
+        >
+
+        </property>
+
+        <many-to-one
+            name="customer"
+                    column="CUSTOMER_ID"
+                not-null="true"
+        >
+
+        </many-to-one>
+
+        <property
+            name="updateComment"
+                    column="LAST_UPDATED_BY"
+        >
+
+        </property>
+
+        <property
+            name="created"
+                    type="timestamp"
+                    column="created"
+                update="false"
+                insert="true"
+        >
+
+        </property>
+
+    </class>    
+
+</hibernate-mapping>
+

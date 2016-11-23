@@ -1,0 +1,83 @@
+10
+
+dir
+1460
+https://esm-essa.bgidev.net/svn/esm-essa/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/impl
+https://esm-essa.bgidev.net/svn/esm-essa
+
+
+
+2007-04-26T18:47:45.428231Z
+115
+coleguy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8c14f0ad-622d-0410-be72-f8c38c5cac15
+
+sql
+dir
+
+load
+dir
+
+jdbc
+dir
+
+services
+dir
+
+db
+dir
+
+io
+dir
+
+store
+dir
+
+build.xml
+file
+
+
+
+
+2010-07-19T20:00:15.464379Z
+5f20ed8a89a3042f9f8209070aa767e4
+2007-04-26T18:47:45.428231Z
+115
+coleguy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2222
+

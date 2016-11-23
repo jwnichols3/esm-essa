@@ -1,0 +1,10 @@
+<!--
+  Title: global-exceptions.xml
+  Description: Struts Global Exceptions (as a XDoclet merge point)
+  Development Environment: Jakarta Struts 1.2.9, XDoclet 1.3-SNAPSHOT
+  Author: G.S. Cole (guycole at gmail dot com)
+-->
+
+<global-exceptions>
+  <exception key="generic.error" type="com.bgi.essa.shared.exception.EssaException" path="/jsp/public/genericFailure.jsp"/>
+</global-exceptions>

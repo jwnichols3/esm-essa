@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Title: build.xml
+Description: Build for ESSA struts servlet.  Uses XDoclet.
+Development Environment: Java 1.5.0_06, Apache Ant 1.6.5, Struts 1.2.9, Tomcat 5.5.20, XDoclet 1.3 SNAPSHOT
+Author: G.S. Cole (guycole at gmail dot com)
+-->
+
+<project name="struts1_2" default="compile" basedir=".">
+  <property file="../../../ant.properties"/>
+   
+  <property name="Name" value="struts1_2"/>
+  <property name="version" value="0.1"/>
+
+  <property name="messages.prop" value="message_resources.properties"/>
+
+  <property name="project.dir" value="${product.struts.dir}/WEB-INF"/>
+
+  <property name="build.dir" value="${project.dir}"/>
+  <property name="build.classes.dir" value="${build.dir}/classes"/>
+
+  <property name="etc.dir" value="${project.dir}/etc"/>
+
+  <property name="javadoc.dir" value="${project.dir}/javadoc"/>
+
+  <property name="lib.dir" value="${project.dir}/lib"/>
+
+  <property name="merge.dir" value="${project.dir}/xdoclet"/>
+
+  <property name="src.dir" value="${project.dir}/src"/>
+
+  <property name="src.gen.dir" value="${project.dir}"/>
+
+  <path id="javac.path">
+    <pathelement location="${lib.dir}/antlr.jar"/>
+
+    <pathelement location="${lib.dir}/commons-beanutils.jar"/>
+    <pathelement location="${lib.dir}/commons-digester.jar"/>
+    <pathelement location="${lib.dir}/commons-fileupload.jar"/>
+    <pathelement location="${lib.dir}/commons-logging.jar"/>
+    <pathelement location="${lib.dir}/commons-validator.jar"/>
+
+    <pathelement location="${lib.dir}/jakarta-oro.jar"/>
+
+    <pathelement location="${lib.dir}/struts.jar"/>
+
+    <pathelement location="${lib.dir}/${product.shared.jar}"/>
+    <pathelement location="${lib.dir}/${product.jboss.client.jar}"/>
+
+    <pathelement location="${lib.dir}/commons-chain-1.1.jar"/>
+
+    <pathelement location="${jboss_servlet.jar}"/>
+  </path>
+
+  <path id="xdoclet.path">
+    <pathelement location="${jboss_servlet.jar}"/>
+
+    <pathelement location="${xdoclet.home.dir}/plugins/xdoclet-plugin-command.jar"/>
+
+    <fileset dir="${xdoclet.home.dir}/lib">
+      <include name="**/*.jar"/>
+    </fileset>
+  </path>
+
+  <target name="test">
+    <taskdef name="xdoclet" classname="org.xdoclet.ant.XDocletTask" classpathref="xdoclet.path"/>
+
+    <xdoclet>
+      <fileset dir="${src.dir}">
+      </fileset>
+      <component classname="org.xdoclet.plugin.struts.StrutsConfigXMLPlugin" destdir="${src.gen.dir}"/>   
+    </xdoclet>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- Initialization                                                      -->
+  <!-- =================================================================== -->
+  <target name="init" description="Initialization">
+    <tstamp/>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- Environment Report                                                  -->
+  <!-- =================================================================== -->
+  <target name="env-report" depends="init" description="Environment Report">
+    <echo message="base.dir = ${base.dir}"/>
+    <echo message="project.dir = ${project.dir}"/>
+    <echo message="build.dir = ${build.dir}"/>
+    <echo message="merge.dir = ${merge.dir}"/>
+    <echo message="src.gen.dir = ${src.gen.dir}"/>
+    <echo message="servlet.jar = ${servlet.jar}"/>
+    <echo message="xdoclet.home.dir = ${xdoclet.home.dir}"/>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- Remove The Current Build                                            -->
+  <!-- =================================================================== -->
+  <target name="clean" depends="init" description="Delete Generated Items">
+    <delete dir="${lib.dir}/${product.jboss.client.jar}"/>
+    <delete dir="${lib.dir}/${product.shared.jar}"/>
+    <delete dir="${javadoc.dir}"/>
+    <delete dir="${build.dir}/classes"/>  <!-- DNFW -->
+    <delete file="struts-config.xml"/>
+    <delete file="validation.xml"/>
+    <delete file="web.xml"/>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- Copy Blessed JAR To Local Lib Directory                             -->
+  <!-- =================================================================== -->
+  <target name="get-blessed" depends="init" description="Get Blessed JAR">
+    <copy file="${product.blessed.dir}/${product.jboss.client.jar}" todir="${lib.dir}"/>
+    <copy file="${product.blessed.dir}/${product.shared.jar}" todir="${lib.dir}"/>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- WebDoclet (part of XDoclet)                                         -->
+  <!--   Must run before javac to generate whatever                        -->
+  <!--   Struts Action classes must be named *Action.java                  -->
+  <!--   Struts Form classes must be named *Form.java                      -->
+  <!--   Servlet listener classes must be named servlet/*Listener.java     -->
+  <!--   Servlet filter classes must be named servlet/*Filter.java         -->
+  <!-- =================================================================== -->
+  <target name="webdoclet" depends="init" description="Run WebDoclet">
+    <taskdef name="webdoclet" classname="xdoclet.modules.web.WebDocletTask" classpathref="xdoclet.path"/>
+
+    <webdoclet destdir="${src.gen.dir}" mergeDir="${merge.dir}" excludedtags="@version,@author" addedtags="@xdoclet-generated at ${TODAY}">
+      <fileset dir="${src.dir}">
+        <include name="**/*Action.java"/>
+        <include name="**/*Form.java"/>
+        <include name="**/servlet/*Listener.java"/>
+        <include name="**/servlet/*Filter.java"/>
+      </fileset>
+
+      <fileset dir="${src.gen.dir}">
+        <include name="**/*Form.java"/>
+      </fileset>
+
+      <deploymentdescriptor displayname="Bogus Display Name" description="Bogus Description" sessiontimeout="33" distributable="false"/>
+      <strutsconfigxml version="1.2"/>
+      <strutsvalidationxml/>
+    </webdoclet>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- Compile Struts Support                                              -->
+  <!-- =================================================================== -->
+  <target name="compile" depends="webdoclet" description="Compile Struts Support">
+    <mkdir dir="${build.classes.dir}"/>
+
+    <copy file="${etc.dir}/message_resources.properties" todir="${build.classes.dir}"/>
+    <copy file="${etc.dir}/log4j.properties" todir="${build.classes.dir}"/>
+
+    <javac destdir="${build.classes.dir}" debug="${javac.debug}" deprecation="${javac.deprecation}" optimize="${javac.optimize}" classpathref="javac.path">
+      <src path="${src.dir}"/>
+    </javac>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- Package Struts Servlet                                              -->
+  <!-- =================================================================== -->
+  <target name="jar" depends="compile">
+    <tstamp>
+      <format property="TIME_NOW" pattern="yyyy-MM-dd HH:mm"/>
+    </tstamp>
+
+    <jar jarfile="${product.blessed.dir}/${product.struts.war}" index="true">
+      <manifest>
+        <attribute name="Built-By" value="${user.name}"/>
+        <attribute name="Build-On" value="${TIME_NOW}"/>
+      </manifest>
+
+      <fileset dir="${product.struts.dir}"/>
+    </jar>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- Copy jars to share w/other tiers                                    -->
+  <!-- =================================================================== -->
+  <target name="blessed" depends="get-blessed, jar" description="Copy JAR To Lib Directory">
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- JavaDoc                                                             -->
+  <!-- =================================================================== -->
+  <target name="javadoc" depends="init" description="Create JavaDoc">
+    <delete dir="${javadoc.dir}"/>
+    <mkdir dir="${javadoc.dir}"/>
+
+    <javadoc sourcepath="${src.dir}"
+      destdir="${javadoc.dir}"
+      classpath="${commons_chain.jar}:${jbossall_client.jar}:${jboss_logging.jar}:${servlet.jar}:${product.blessed.dir}/${product.shared.jar}:${product.blessed.dir}/${product.jboss.client.jar}:${lib.dir}/struts.jar"
+      packagenames="*"
+      author="true"
+      version="true"
+      private="true"
+      windowtitle="ESM ESSA API Documentation"
+      doctitle="&lt;h1&gt;ESM ESSA Documentation&lt;/h1&gt;">
+
+      <tag dir="${etc.dir}" includes="javadoc.tags"/>
+    </javadoc>
+  </target>
+
+</project>

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/kernel/deployment/jboss/test
+END
+ServicePOJOUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/kernel/deployment/jboss/test/ServicePOJOUnitTestCase.java
+END
+DependsPOJOUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/kernel/deployment/jboss/test/DependsPOJOUnitTestCase.java
+END
+ConfigPOJOUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/kernel/deployment/jboss/test/ConfigPOJOUnitTestCase.java
+END
+SimplePOJOUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/kernel/deployment/jboss/test/SimplePOJOUnitTestCase.java
+END
+DependsPOJOEARUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/kernel/deployment/jboss/test/DependsPOJOEARUnitTestCase.java
+END

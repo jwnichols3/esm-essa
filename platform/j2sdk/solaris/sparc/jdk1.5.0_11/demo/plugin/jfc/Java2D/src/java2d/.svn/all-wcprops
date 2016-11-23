@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Java2D/src/java2d
+END
+Tools.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Java2D/src/java2d/Tools.java
+END
+DemoGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Java2D/src/java2d/DemoGroup.java
+END
+CustomControlsContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Java2D/src/java2d/CustomControlsContext.java
+END
+DemoPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Java2D/src/java2d/DemoPanel.java
+END
+AnimatingControlsSurface.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Java2D/src/java2d/AnimatingControlsSurface.java
+END
+CloningFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Java2D/src/java2d/CloningFeature.java
+END
+Java2Demo.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Java2D/src/java2d/Java2Demo.java
+END
+PerformanceMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Java2D/src/java2d/PerformanceMonitor.java
+END
+DemoImages.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Java2D/src/java2d/DemoImages.java
+END
+ControlsSurface.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Java2D/src/java2d/ControlsSurface.java
+END
+Java2DemoApplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Java2D/src/java2d/Java2DemoApplet.java
+END
+MemoryMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Java2D/src/java2d/MemoryMonitor.java
+END
+GlobalPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Java2D/src/java2d/GlobalPanel.java
+END
+AnimatingSurface.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Java2D/src/java2d/AnimatingSurface.java
+END
+TextureChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Java2D/src/java2d/TextureChooser.java
+END
+GlobalControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Java2D/src/java2d/GlobalControls.java
+END
+Surface.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Java2D/src/java2d/Surface.java
+END
+Intro.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Java2D/src/java2d/Intro.java
+END
+RunWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Java2D/src/java2d/RunWindow.java
+END
+DemoFonts.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Java2D/src/java2d/DemoFonts.java
+END
+CustomControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Java2D/src/java2d/CustomControls.java
+END

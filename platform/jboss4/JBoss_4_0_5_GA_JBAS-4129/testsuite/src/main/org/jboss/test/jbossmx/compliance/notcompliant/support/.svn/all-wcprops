@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/notcompliant/support
+END
+DynamicAndStandard.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/notcompliant/support/DynamicAndStandard.java
+END
+OverloadedAttribute1.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/notcompliant/support/OverloadedAttribute1.java
+END
+OverloadedAttribute2.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/notcompliant/support/OverloadedAttribute2.java
+END
+DynamicAndStandardMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/notcompliant/support/DynamicAndStandardMBean.java
+END
+OverloadedAttribute3.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/notcompliant/support/OverloadedAttribute3.java
+END
+OverloadedAttribute1MBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/notcompliant/support/OverloadedAttribute1MBean.java
+END
+OverloadedAttribute2MBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/notcompliant/support/OverloadedAttribute2MBean.java
+END
+OverloadedAttribute3MBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/jbossmx/compliance/notcompliant/support/OverloadedAttribute3MBean.java
+END

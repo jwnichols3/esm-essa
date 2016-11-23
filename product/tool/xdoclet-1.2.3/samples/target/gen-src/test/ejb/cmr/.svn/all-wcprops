@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr
+END
+CountryUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/CountryUtil.java
+END
+EmployeeLocalHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/EmployeeLocalHome.java
+END
+CityUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/CityUtil.java
+END
+LanguageLocalHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/LanguageLocalHome.java
+END
+CityCMP.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/CityCMP.java
+END
+EmployeeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/EmployeeValue.java
+END
+LanguageCodeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/LanguageCodeUtil.java
+END
+EmployeeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/EmployeeUtil.java
+END
+LanguageCodeCMP.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/LanguageCodeCMP.java
+END
+EmployeeAddressData.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/EmployeeAddressData.java
+END
+LanguageUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/LanguageUtil.java
+END
+CityLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/CityLocal.java
+END
+EmployeeAddressCMP.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/EmployeeAddressCMP.java
+END
+LanguageCodeLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/LanguageCodeLocal.java
+END
+CityLocalHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/CityLocalHome.java
+END
+CountryData.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/CountryData.java
+END
+EmployeeAddressLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/EmployeeAddressLocal.java
+END
+CityData.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/CityData.java
+END
+LanguageCodeLocalHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/LanguageCodeLocalHome.java
+END
+CountryCMP.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/CountryCMP.java
+END
+LanguageCodeData.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/LanguageCodeData.java
+END
+EmployeeData.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/EmployeeData.java
+END
+EmployeeAddressLocalHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/EmployeeAddressLocalHome.java
+END
+LanguageData.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/LanguageData.java
+END
+CountryLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/CountryLocal.java
+END
+EmployeeCMP.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/EmployeeCMP.java
+END
+EmployeeAddressValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/EmployeeAddressValue.java
+END
+EmployeeAddressUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/EmployeeAddressUtil.java
+END
+LanguageCMP.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/LanguageCMP.java
+END
+CountryLocalHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/CountryLocalHome.java
+END
+EmployeeLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/EmployeeLocal.java
+END
+LanguageLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/target/gen-src/test/ejb/cmr/LanguageLocal.java
+END

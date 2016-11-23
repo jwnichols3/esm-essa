@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/esm-essa/!svn/ver/271/trunk/product/etc/ear
+END
+application.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esm-essa/!svn/ver/271/trunk/product/etc/ear/application.xml
+END
+jboss-app.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esm-essa/!svn/ver/31/trunk/product/etc/ear/jboss-app.xml
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/opensymphony/trunk/sass/src/main/webapp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/opensymphony/trunk/sass/src/main/webapp/index.jsp
+END
+reset-password-input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/opensymphony/trunk/sass/src/main/webapp/reset-password-input.ftl
+END
+create-input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/opensymphony/trunk/sass/src/main/webapp/create-input.ftl
+END
+index.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/opensymphony/trunk/sass/src/main/webapp/index.ftl
+END
+reset-password-success.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/opensymphony/trunk/sass/src/main/webapp/reset-password-success.ftl
+END
+create-success.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/opensymphony/trunk/sass/src/main/webapp/create-success.ftl
+END

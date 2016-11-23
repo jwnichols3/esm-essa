@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/opensymphony/trunk/website
+END
+resin.conf
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/opensymphony/trunk/website/resin.conf
+END
+OSWebSite.iml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/opensymphony/trunk/website/OSWebSite.iml
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/opensymphony/trunk/website/build.properties
+END
+OSWebSite.ipr
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/opensymphony/trunk/website/OSWebSite.ipr
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/opensymphony/trunk/website/.cvsignore
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/opensymphony/trunk/website/build.xml
+END

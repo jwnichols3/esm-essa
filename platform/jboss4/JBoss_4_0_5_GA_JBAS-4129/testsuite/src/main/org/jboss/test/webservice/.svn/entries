@@ -1,0 +1,285 @@
+10
+
+dir
+1460
+https://esm-essa.bgidev.net/svn/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice
+https://esm-essa.bgidev.net/svn/esm-essa
+
+
+
+2007-04-10T19:31:29.206915Z
+15
+coleguy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8c14f0ad-622d-0410-be72-f8c38c5cac15
+
+jbws64
+dir
+
+jbws68
+dir
+
+message
+dir
+
+secure
+dir
+
+jbws710
+dir
+
+jbws153
+dir
+
+jbws316
+dir
+
+jbws632
+dir
+
+jbws751
+dir
+
+jbws718
+dir
+
+jbws358
+dir
+
+jbws637
+dir
+
+admindevel
+dir
+
+attachmentstepbystep
+dir
+
+jbws70
+dir
+
+jbws71
+dir
+
+jbws79
+dir
+
+jbws124
+dir
+
+jbws163
+dir
+
+jbws128
+dir
+
+jbws165
+dir
+
+jbws643
+dir
+
+jbws167
+dir
+
+jbws168
+dir
+
+jbws484
+dir
+
+jbws82
+dir
+
+jbws-cases.txt
+file
+
+
+
+
+2010-07-19T19:44:07.745629Z
+7c4c1ad6e2dab50a09900bf2acdd4709
+2007-04-10T19:31:29.206915Z
+15
+coleguy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3253
+
+jbws83
+dir
+
+jbws84
+dir
+
+samples2
+dir
+
+jbas897
+dir
+
+attachment
+dir
+
+benchmark
+dir
+
+jbws331
+dir
+
+jbws413
+dir
+
+jbws251
+dir
+
+jbws414
+dir
+
+exception
+dir
+
+jbws217
+dir
+
+marshalltest
+dir
+
+jbws456
+dir
+
+wsdlimport
+dir
+
+jbws772
+dir
+
+utf16
+dir
+
+jbws377
+dir
+
+WebserviceTestBase.java
+file
+
+
+
+
+2010-07-19T19:44:07.855004Z
+2cc947b6e34a404f1dba4a34c1057776
+2007-04-10T19:31:29.206915Z
+15
+coleguy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3799
+
+encstyle
+dir
+
+addressrewrite
+dir
+
+header
+dir
+
+jbws423
+dir
+
+jbws424
+dir
+
+jbws425
+dir
+
+ws4eesimple
+dir
+
+jbws309
+dir
+
+jbws381
+dir
+
+jbws463
+dir
+
+jbws706
+dir
+
+jbws707
+dir
+
+jbws383
+dir
+
+jbws464
+dir
+
+jbws626
+dir
+
+samples
+dir
+
+jbws663
+dir
+
+jbws349
+dir
+
+handlerflow
+dir
+

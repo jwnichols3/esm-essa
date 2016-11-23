@@ -1,0 +1,67 @@
+10
+
+dir
+1460
+https://esm-essa.bgidev.net/svn/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/thirdparty/jboss
+https://esm-essa.bgidev.net/svn/esm-essa
+
+
+
+2007-04-10T19:31:29.206915Z
+15
+coleguy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8c14f0ad-622d-0410-be72-f8c38c5cac15
+
+jbossws14
+dir
+
+jbossretro-rt
+dir
+
+aop
+dir
+
+cache
+dir
+
+dom4j-jarjar
+dir
+
+remoting
+dir
+
+backport-concurrent
+dir
+
+jboss-ws4ee
+dir
+
+common
+dir
+
+jbossws
+dir
+
+jbossxb
+dir
+
+microcontainer
+dir
+
+serialization
+dir
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/extended_pc/src/org/jboss/tutorial/extended/bean
+END
+StatelessSessionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/extended_pc/src/org/jboss/tutorial/extended/bean/StatelessSessionBean.java
+END
+ShoppingCart.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/extended_pc/src/org/jboss/tutorial/extended/bean/ShoppingCart.java
+END
+Customer.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/extended_pc/src/org/jboss/tutorial/extended/bean/Customer.java
+END
+StatelessLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/extended_pc/src/org/jboss/tutorial/extended/bean/StatelessLocal.java
+END
+StatelessRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/extended_pc/src/org/jboss/tutorial/extended/bean/StatelessRemote.java
+END
+ShoppingCartBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/extended_pc/src/org/jboss/tutorial/extended/bean/ShoppingCartBean.java
+END

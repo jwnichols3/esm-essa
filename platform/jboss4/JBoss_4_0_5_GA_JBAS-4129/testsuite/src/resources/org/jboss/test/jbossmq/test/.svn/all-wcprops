@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/resources/org/jboss/test/jbossmq/test
+END
+ClientMonitorConnectionRaceUnitTestCase.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/resources/org/jboss/test/jbossmq/test/ClientMonitorConnectionRaceUnitTestCase.xml
+END
+NackWithRollbackUnitTestCase.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/resources/org/jboss/test/jbossmq/test/NackWithRollbackUnitTestCase.xml
+END

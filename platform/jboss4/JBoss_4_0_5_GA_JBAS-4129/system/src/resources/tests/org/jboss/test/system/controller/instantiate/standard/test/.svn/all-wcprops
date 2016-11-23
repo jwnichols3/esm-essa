@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/standard/test
+END
+StandardMBeanCodeEmpty_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/standard/test/StandardMBeanCodeEmpty_bad.xml
+END
+StandardMBeanAbstractClass_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/standard/test/StandardMBeanAbstractClass_bad.xml
+END
+StandardMBeanConstructorInvalidValue_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/standard/test/StandardMBeanConstructorInvalidValue_bad.xml
+END
+StandardMBeanConstructorInvalidType_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/standard/test/StandardMBeanConstructorInvalidType_bad.xml
+END
+StandardMBean_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/standard/test/StandardMBean_install.xml
+END
+StandardMBeanConstructorError_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/standard/test/StandardMBeanConstructorError_bad.xml
+END
+StandardMBeanConstructorTypeNotFound_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/standard/test/StandardMBeanConstructorTypeNotFound_bad.xml
+END
+StandardMBeanCodeMissing_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/standard/test/StandardMBeanCodeMissing_bad.xml
+END
+StandardMBeanConstructorException_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/standard/test/StandardMBeanConstructorException_bad.xml
+END
+StandardMBeanInterfaceNotImplemented_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/standard/test/StandardMBeanInterfaceNotImplemented_bad.xml
+END
+StandardMBeanInterfaceNotFound_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/standard/test/StandardMBeanInterfaceNotFound_bad.xml
+END
+StandardMBeanCodeClassNotFound_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/standard/test/StandardMBeanCodeClassNotFound_bad.xml
+END
+StandardMBeanRedeployAfterError_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/standard/test/StandardMBeanRedeployAfterError_bad.xml
+END
+StandardMBeanInterface_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/standard/test/StandardMBeanInterface_install.xml
+END
+StandardMBeanRedeployAfterError_good.xml
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/standard/test/StandardMBeanRedeployAfterError_good.xml
+END

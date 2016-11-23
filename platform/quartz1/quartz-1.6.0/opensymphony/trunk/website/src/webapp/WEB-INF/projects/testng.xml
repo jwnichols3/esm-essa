@@ -1,0 +1,28 @@
+<project>
+    <name>TestNG</name>
+    <jiraId>10030</jiraId>
+    <jiraName>WW</jiraName>
+    <confluenceName>WW</confluenceName>
+
+    <forums>
+        <usersId>1</usersId>
+        <usersList>http://groups.google.com</usersList>
+        <devId>2</devId>
+        <cvsId>3</cvsId>
+    </forums>
+
+    <docs>
+        <url>????</url>
+        <doesNotUseWiki>true</doesNotUseWiki>
+    </docs>
+
+    <owners>
+    </owners>
+
+    <developers>
+    </developers>
+
+    <releases>
+    </releases>
+
+</project>

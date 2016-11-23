@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 2.0//EN" 
+    "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd">
+
+<hibernate-mapping
+
+>
+
+    <class
+            name="test.hibernate21.CompositeIdEntity"
+    >
+
+        <!-- Use of @hibernate.id for composite IDs is deprecated, use @hibernate.composite-id instead -->
+        <composite-id
+            name="id"
+            class="test.hibernate21.CompositeId"
+        >
+
+            	<!-- Defining the key-property element from @hibernate.property tags is deprecated, use @hibernate.key-property instead -->
+                <key-property
+                    name="foo"
+                    type="java.lang.Integer"
+                >
+
+                </key-property>
+
+            	<!-- Defining the key-property element from @hibernate.property tags is deprecated, use @hibernate.key-property instead -->
+                <key-property
+                    name="bar"
+                    type="long"
+                >
+
+                </key-property>
+
+            	<!-- Defining the key-property element from @hibernate.property tags is deprecated, use @hibernate.key-property instead -->
+                <key-property
+                    name="baz"
+                    type="java.lang.String"
+                >
+
+                </key-property>
+
+      	    <!-- Defining the key-many-to-one element from @hibernate.many-to-one tags is deprecated, use @hibernate.key-property instead -->
+            <key-many-to-one
+                name="order"
+            >
+
+            <column
+                name="column1" 
+                unique="true"
+            />
+
+            <column
+                name="column2" 
+                unique="false"
+            />
+
+            <column
+                name="column3" 
+                unique="false"
+            />
+
+            </key-many-to-one>
+
+        </composite-id>
+
+        <property
+            name="foo"
+                    column="foo"
+        >
+
+        </property>
+
+    </class>    
+
+</hibernate-mapping>
+

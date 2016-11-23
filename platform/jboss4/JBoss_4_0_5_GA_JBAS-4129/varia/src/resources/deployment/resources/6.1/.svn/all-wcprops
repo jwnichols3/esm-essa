@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/resources/deployment/resources/6.1
+END
+weblogic-cmp-rdbms-jar-output.properties
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/resources/deployment/resources/6.1/weblogic-cmp-rdbms-jar-output.properties
+END
+weblogic-rdbms20-persistence-600.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/resources/deployment/resources/6.1/weblogic-rdbms20-persistence-600.dtd
+END
+weblogic-ejb-jar.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/resources/deployment/resources/6.1/weblogic-ejb-jar.xsl
+END
+weblogic-cmp-rdbms-jar.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/resources/deployment/resources/6.1/weblogic-cmp-rdbms-jar.xsl
+END
+weblogic-ejb-jar-output.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/resources/deployment/resources/6.1/weblogic-ejb-jar-output.properties
+END
+weblogic-ejb-jar.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/varia/src/resources/deployment/resources/6.1/weblogic-ejb-jar.dtd
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/benchmark
+END
+Customer.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/benchmark/Customer.java
+END
+BenchmarkService_echoSimpleType_RequestStruct.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/benchmark/BenchmarkService_echoSimpleType_RequestStruct.java
+END
+LineItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/benchmark/LineItem.java
+END
+BenchmarkService_echoSimpleType_ResponseStruct.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/benchmark/BenchmarkService_echoSimpleType_ResponseStruct.java
+END
+Synthetic.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/benchmark/Synthetic.java
+END
+BenchmarkService.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/benchmark/BenchmarkService.java
+END
+Order.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/benchmark/Order.java
+END
+BenchmarkEJBEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/benchmark/BenchmarkEJBEndpoint.java
+END
+BenchmarkRpcEJBTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/benchmark/BenchmarkRpcEJBTestCase.java
+END
+BenchmarkDocJSETestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/benchmark/BenchmarkDocJSETestCase.java
+END
+BenchmarkService_echoSynthetic_RequestStruct.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/benchmark/BenchmarkService_echoSynthetic_RequestStruct.java
+END
+BenchmarkService_getOrder_RequestStruct.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/benchmark/BenchmarkService_getOrder_RequestStruct.java
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/benchmark/Address.java
+END
+BenchmarkService_echoArrayOfSimpleUserType_RequestStruct.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/benchmark/BenchmarkService_echoArrayOfSimpleUserType_RequestStruct.java
+END
+BenchmarkService_echoSynthetic_ResponseStruct.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/benchmark/BenchmarkService_echoSynthetic_ResponseStruct.java
+END
+BenchmarkService_getOrder_ResponseStruct.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/benchmark/BenchmarkService_getOrder_ResponseStruct.java
+END
+BenchmarkTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/benchmark/BenchmarkTest.java
+END
+SimpleUserType.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/benchmark/SimpleUserType.java
+END
+BenchmarkService_echoArrayOfSimpleUserType_ResponseStruct.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/benchmark/BenchmarkService_echoArrayOfSimpleUserType_ResponseStruct.java
+END
+BenchmarkRpcJSETestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/benchmark/BenchmarkRpcJSETestCase.java
+END
+BenchmarkDocEJBTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/benchmark/BenchmarkDocEJBTestCase.java
+END
+BenchmarkJSEEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/webservice/benchmark/BenchmarkJSEEndpoint.java
+END

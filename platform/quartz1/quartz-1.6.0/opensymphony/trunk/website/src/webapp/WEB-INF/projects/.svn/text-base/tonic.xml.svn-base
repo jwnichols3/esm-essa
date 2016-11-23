@@ -1,0 +1,33 @@
+<project>
+    <name>Tonic</name>
+    <jiraId>10100</jiraId>
+    <jiraName>TON</jiraName>
+    <confluenceName>TON</confluenceName>
+
+    <forums>
+        <usersId>18</usersId>
+        <devId>19</devId>
+        <cvsId>20</cvsId>
+    </forums>
+
+    <evaluating>
+    </evaluating>
+
+    <docs>
+        <url>index.html</url>
+    </docs>
+
+    <owners>
+        <person>
+            <name>Mike Cannon-Brookes</name>
+            <email>mike@atlassian.com</email>
+        </person>
+    </owners>
+
+    <developers>
+    </developers>
+
+    <releases>
+    </releases>
+
+</project>

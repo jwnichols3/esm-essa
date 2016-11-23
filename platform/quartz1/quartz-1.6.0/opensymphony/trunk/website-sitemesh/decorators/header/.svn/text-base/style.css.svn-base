@@ -1,0 +1,102 @@
+#header .top {
+	background: url(top.gif) bottom left no-repeat; 
+	background-color: #036;
+	height: 20px;
+	width: 779px;
+}
+
+#header .bottom {
+	background: url(bottom.gif) top left no-repeat; 
+	background-color: #036;
+	height: 25px;
+	width: 759px;
+	clear: left;
+	padding-left: 20px;
+}
+
+#header .body {
+	background: url(background.gif) top left repeat-y; 
+	background-color: #036;
+	width: 779px;
+}
+
+#header .body .logo {
+	float: left;
+	padding-top: 18px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	width: 548px;
+	text-align: center;
+	color: white;
+}
+
+#header .body .cutout {
+	margin-left: 572px;
+	background-color: #fff;
+	padding: 0px;
+	width: 188px;
+	text-align: center;
+	font-size: 7pt;
+	font-family: verdana, arial, helvetica, sans-serif;
+}	
+
+#header .tabActive .left {
+	background: url(tab-active-left.gif) bottom right no-repeat; 
+}
+
+#header .tabActive .right {
+	background: url(tab-active-right.gif) bottom left no-repeat; 
+}
+
+#header .tabInactive .left {
+	background: url(tab-inactive-left.gif) bottom right no-repeat; 
+}	
+
+#header .tabInactive .right {
+	background: url(tab-inactive-right.gif) bottom left no-repeat; 
+}
+
+#header .tabActive .middle {
+	background: url(tab-active-background.gif) bottom left repeat-x; 
+	background-color: #fff;	
+}	
+
+#header .tabInactive .middle {
+	background: url(tab-inactive-background.gif) bottom left repeat-x; 
+	background-color: #ffc;
+}
+
+
+#header .left, #header .right {
+	width: 7px;
+	height: 25px;
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+	float: left;
+}
+
+#header .left {
+	margin-left: 5px;
+}
+
+#header .middle {
+	height: 25px;
+	padding-left: 5px;
+	padding-right: 5px;
+	float: left;
+}
+
+#header .text {
+	font-size: 11pt;
+	color: #666;
+	font-weight: bold;
+	position: relative;
+	top: 4px;
+}
+
+#header .text a {
+	color: #666;
+	text-decoration: none;
+}
+

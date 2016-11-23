@@ -1,0 +1,86 @@
+10
+
+dir
+1460
+https://esm-essa.bgidev.net/svn/esm-essa/trunk/platform/derby10/db-derby-10.2.2.0-src/plugins/eclipse/org.apache.derby.ui/src/org/apache/derby/ui
+https://esm-essa.bgidev.net/svn/esm-essa
+
+
+
+2007-04-26T18:47:45.428231Z
+115
+coleguy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8c14f0ad-622d-0410-be72-f8c38c5cac15
+
+actions
+dir
+
+popup
+dir
+
+DerbyPlugin.java
+file
+
+
+
+
+2010-07-19T19:59:27.698754Z
+6c7f9797ef72a226f0f0c0d177141cbd
+2007-04-26T18:47:45.428231Z
+115
+coleguy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1644
+
+decorate
+dir
+
+common
+dir
+
+launch
+dir
+
+properties
+dir
+
+util
+dir
+
+nature
+dir
+

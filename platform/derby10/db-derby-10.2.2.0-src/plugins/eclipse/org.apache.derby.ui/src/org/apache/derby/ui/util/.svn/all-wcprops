@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/plugins/eclipse/org.apache.derby.ui/src/org/apache/derby/ui/util
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/plugins/eclipse/org.apache.derby.ui/src/org/apache/derby/ui/util/Logger.java
+END
+SelectionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/plugins/eclipse/org.apache.derby.ui/src/org/apache/derby/ui/util/SelectionUtil.java
+END
+DerbyUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/plugins/eclipse/org.apache.derby.ui/src/org/apache/derby/ui/util/DerbyUtils.java
+END
+DerbyServerUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/plugins/eclipse/org.apache.derby.ui/src/org/apache/derby/ui/util/DerbyServerUtils.java
+END

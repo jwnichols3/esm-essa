@@ -1,0 +1,18 @@
+xdoclet-generated:a:XDoclet generated:
+ejb.interface-method:a:XDoclet ejb.interface-method.
+ejb.bean:a:XDoclet ejb.bean:
+ejb.transaction:a:XDoclet ejb.transaction:
+ejb.transaction-type:a:XDoclet ejb.transaction-type:
+jboss.destination-jndi-name:a:XDoclet jboss.destination-jndi-name: 
+hibernate.class:a:XDoclet hibernate.class:
+hibernate.generator:a:XDoclet hibernate.generator:
+hibernate.id:a:XDoclet hibernate.id:
+hibernate.many-to-one:a:XDoclet.many-to-one:
+hibernate.param:a:XDoclet.hibernate.param:
+hibernate.property:a:hibernate.property:
+struts.action-exception:a:XDoclet struts
+struts.action-forward:a:XDoclet struts
+struts.action-set-property:a:XDoclet struts
+struts.action:a:XDoclet struts
+struts.validator:a:XDoclet struts
+struts.form:a:XDoclet struts

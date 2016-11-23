@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm-essa/!svn/ver/7/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jvmti/java_crw_demo/src
+END
+java_crw_demo.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/7/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jvmti/java_crw_demo/src/java_crw_demo.c
+END
+java_crw_demo.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/7/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jvmti/java_crw_demo/src/java_crw_demo.h
+END
+classfile_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/7/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jvmti/java_crw_demo/src/classfile_constants.h
+END
+sample.makefile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/7/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jvmti/java_crw_demo/src/sample.makefile.txt
+END
+test_crw.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/7/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jvmti/java_crw_demo/src/test_crw.c
+END

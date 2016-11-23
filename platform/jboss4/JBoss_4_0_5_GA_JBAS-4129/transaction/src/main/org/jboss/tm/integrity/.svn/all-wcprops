@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/integrity
+END
+FailIncompleteTransactionIntegrity.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/integrity/FailIncompleteTransactionIntegrity.java
+END
+FailIncompleteTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/integrity/FailIncompleteTransaction.java
+END
+FailIncompleteTransactionMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/integrity/FailIncompleteTransactionMBean.java
+END
+TransactionIntegrity.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/integrity/TransactionIntegrity.java
+END
+AbstractTransactionIntegrity.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/integrity/AbstractTransactionIntegrity.java
+END
+TransactionIntegrityFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/transaction/src/main/org/jboss/tm/integrity/TransactionIntegrityFactory.java
+END

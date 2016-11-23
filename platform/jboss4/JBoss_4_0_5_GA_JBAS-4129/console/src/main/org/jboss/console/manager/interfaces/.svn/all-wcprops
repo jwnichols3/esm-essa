@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/manager/interfaces
+END
+ConsolePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/manager/interfaces/ConsolePlugin.java
+END
+ManageableResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/manager/interfaces/ManageableResource.java
+END
+TreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/manager/interfaces/TreeNode.java
+END
+SimpleTreeNodeMenuEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/manager/interfaces/SimpleTreeNodeMenuEntry.java
+END
+TreeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/manager/interfaces/TreeInfo.java
+END
+TreeNodeMenuEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/manager/interfaces/TreeNodeMenuEntry.java
+END
+ResourceTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/manager/interfaces/ResourceTreeNode.java
+END
+TreeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/manager/interfaces/TreeAction.java
+END

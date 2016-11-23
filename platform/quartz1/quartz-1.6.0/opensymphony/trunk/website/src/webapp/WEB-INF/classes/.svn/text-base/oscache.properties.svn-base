@@ -1,0 +1,3 @@
+# oscache.properties
+cache.path=/usr/src/opensymphony/website/cache
+cache.debug=false

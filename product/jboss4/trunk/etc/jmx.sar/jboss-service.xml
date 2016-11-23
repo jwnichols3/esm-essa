@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Title: jboss-service.xml
+Description: Instrument MBean
+Development Environment: JBoss Application Server 4.0.5.GA
+Author: G.S. Cole (guycole at gmail dot com)
+-->
+
+<server>
+  <mbean code="com.bgi.essa.jboss4.jmx.InstrumentFactoryService" name="essa.jmx:service=InstrumentFactoryService">
+  </mbean>
+</server>

@@ -1,0 +1,46 @@
+body, td, li, br, div, p {
+	font-family : Verdana,Arial,Helvetica,"MS Sans Serif";
+	font-size : 12px;
+
+}
+
+i, b, em, strong {
+	color: #164a7d;
+}
+
+pre,code {
+	color: #164a7d;
+	font-size : 12px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #164a7d;
+	text-align: left;
+}
+
+a, a:visited{
+	color: #164a7d;
+}
+
+li {
+	padding-bottom: 2pt;
+}
+
+INPUT,OPTION,SELECT,TEXTAREA  {
+	font-size : 13px;
+	font-weight : normal;
+	font-family : Verdana,Arial,Helvetica,sans-serif;
+	border : 1 solid;
+	font-style : normal;
+	font-weight : normal;
+}
+
+INPUT.submit,OPTION.submit,TEXTAREA.submit		{
+
+		font-size: 		12px;
+		font-weight: 	normal;
+		font-family:	Verdana,Arial,Helvetica,sans-serif;
+		border:			0;
+}
+
+

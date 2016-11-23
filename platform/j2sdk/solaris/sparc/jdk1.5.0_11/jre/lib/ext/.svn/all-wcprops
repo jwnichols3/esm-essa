@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/jre/lib/ext
+END
+dnsns.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/jre/lib/ext/dnsns.jar
+END
+sunpkcs11.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/jre/lib/ext/sunpkcs11.jar
+END
+localedata.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/jre/lib/ext/localedata.jar
+END
+sunjce_provider.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm-essa/!svn/ver/4/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/jre/lib/ext/sunjce_provider.jar
+END

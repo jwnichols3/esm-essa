@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/src/merge
+END
+jboss-service.ent
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/src/merge/jboss-service.ent
+END
+jboss-webservices.ent
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/src/merge/jboss-webservices.ent
+END
+weblogic-security-role-assignment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/18/trunk/product/tool/xdoclet-1.2.3/samples/src/merge/weblogic-security-role-assignment.xml
+END

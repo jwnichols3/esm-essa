@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/SortDemo
+END
+example1.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/SortDemo/example1.html
+END
+QSortAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/SortDemo/QSortAlgorithm.java
+END
+SortAlgorithm.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/SortDemo/SortAlgorithm.class
+END
+QSortAlgorithm.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/SortDemo/QSortAlgorithm.class
+END
+BidirBubbleSortAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/SortDemo/BidirBubbleSortAlgorithm.java
+END
+SortItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/SortDemo/SortItem.java
+END
+BidirBubbleSortAlgorithm.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/SortDemo/BidirBubbleSortAlgorithm.class
+END
+BubbleSortAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/SortDemo/BubbleSortAlgorithm.java
+END
+SortItem.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/SortDemo/SortItem.class
+END
+BubbleSortAlgorithm.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/SortDemo/BubbleSortAlgorithm.class
+END
+SortAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/applets/SortDemo/SortAlgorithm.java
+END

@@ -1,0 +1,23 @@
+<decorators>
+
+	<decorator name="intro" page="/decorators/intro.jsp">
+		<pattern>/*</pattern>
+		<pattern>/intro/*</pattern>
+	</decorator>
+
+	<decorator name="usersguide" page="/decorators/usersguide.jsp">
+		<pattern>/usersguide/*</pattern>
+	</decorator>
+
+	<decorator name="developers" page="/decorators/developers.jsp">
+		<pattern>/developers/*</pattern>
+	</decorator>
+
+	<decorator name="header"           page="/decorators/header/decorator.jsp"/>
+	<decorator name="quote"            page="/decorators/quote/decorator.jsp"/>
+	<decorator name="box"              page="/decorators/box/decorator.jsp"/>
+	<decorator name="panel-dark"       page="/decorators/panel/decorator-dark.jsp"/>
+	<decorator name="panel-light"      page="/decorators/panel/decorator-light.jsp"/>
+	<decorator name="panelempty-dark"  page="/decorators/panel/decorator-emptydark.jsp"/>
+
+</decorators>

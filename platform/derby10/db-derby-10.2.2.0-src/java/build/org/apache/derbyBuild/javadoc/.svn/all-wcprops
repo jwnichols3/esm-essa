@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/build/org/apache/derbyBuild/javadoc
+END
+EndFormatTaglet.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/build/org/apache/derbyBuild/javadoc/EndFormatTaglet.java
+END
+FormatIdTaglet.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/build/org/apache/derbyBuild/javadoc/FormatIdTaglet.java
+END
+UpgradeTaglet.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/build/org/apache/derbyBuild/javadoc/UpgradeTaglet.java
+END
+DiskLayoutTaglet.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/build/org/apache/derbyBuild/javadoc/DiskLayoutTaglet.java
+END
+PurposeTaglet.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/build/org/apache/derbyBuild/javadoc/PurposeTaglet.java
+END

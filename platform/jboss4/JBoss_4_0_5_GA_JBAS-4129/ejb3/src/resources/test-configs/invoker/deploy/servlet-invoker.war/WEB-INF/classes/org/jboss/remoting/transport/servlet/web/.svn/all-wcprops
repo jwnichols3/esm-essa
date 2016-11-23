@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/resources/test-configs/invoker/deploy/servlet-invoker.war/WEB-INF/classes/org/jboss/remoting/transport/servlet/web
+END
+ServerInvokerServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/src/resources/test-configs/invoker/deploy/servlet-invoker.war/WEB-INF/classes/org/jboss/remoting/transport/servlet/web/ServerInvokerServlet.class
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/esm-essa/!svn/ver/31/trunk/product/struts1.2/trunk/WEB-INF/xdoclet
+END
+servlet-mappings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm-essa/!svn/ver/31/trunk/product/struts1.2/trunk/WEB-INF/xdoclet/servlet-mappings.xml
+END
+web-security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/esm-essa/!svn/ver/31/trunk/product/struts1.2/trunk/WEB-INF/xdoclet/web-security.xml
+END
+struts-plugins.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm-essa/!svn/ver/31/trunk/product/struts1.2/trunk/WEB-INF/xdoclet/struts-plugins.xml
+END
+taglibs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/esm-essa/!svn/ver/31/trunk/product/struts1.2/trunk/WEB-INF/xdoclet/taglibs.xml
+END
+struts-controller.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm-essa/!svn/ver/31/trunk/product/struts1.2/trunk/WEB-INF/xdoclet/struts-controller.xml
+END
+global-forwards.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/esm-essa/!svn/ver/31/trunk/product/struts1.2/trunk/WEB-INF/xdoclet/global-forwards.xml
+END
+error-pages.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/esm-essa/!svn/ver/31/trunk/product/struts1.2/trunk/WEB-INF/xdoclet/error-pages.xml
+END
+servlets.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/esm-essa/!svn/ver/31/trunk/product/struts1.2/trunk/WEB-INF/xdoclet/servlets.xml
+END
+welcomefiles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/esm-essa/!svn/ver/31/trunk/product/struts1.2/trunk/WEB-INF/xdoclet/welcomefiles.xml
+END
+struts-message-resources.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm-essa/!svn/ver/31/trunk/product/struts1.2/trunk/WEB-INF/xdoclet/struts-message-resources.xml
+END
+global-exceptions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm-essa/!svn/ver/31/trunk/product/struts1.2/trunk/WEB-INF/xdoclet/global-exceptions.xml
+END

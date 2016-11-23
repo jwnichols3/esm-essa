@@ -1,0 +1,491 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee
+END
+JavaMailResourceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/JavaMailResourceMBean.java
+END
+EJB.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/EJB.java
+END
+StatelessSessionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/StatelessSessionBean.java
+END
+StatelessSessionBeanMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/StatelessSessionBeanMBean.java
+END
+EntityBeanMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/EntityBeanMBean.java
+END
+J2EEDeployedObjectMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/J2EEDeployedObjectMBean.java
+END
+ServiceModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/ServiceModule.java
+END
+LocalJBossServerDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/LocalJBossServerDomain.java
+END
+StateManageable.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/StateManageable.java
+END
+JDBCResourceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/JDBCResourceMBean.java
+END
+InvalidParentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/InvalidParentException.java
+END
+RMI_IIOPResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/RMI_IIOPResource.java
+END
+MessageDrivenBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/MessageDrivenBean.java
+END
+J2EETypeConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/J2EETypeConstants.java
+END
+JCAManagedConnectionFactoryMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/JCAManagedConnectionFactoryMBean.java
+END
+WebModuleMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/WebModuleMBean.java
+END
+J2EEDomainTargetMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/J2EEDomainTargetMBean.java
+END
+J2EEManagedObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/J2EEManagedObject.java
+END
+ResourceAdapterMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/ResourceAdapterMBean.java
+END
+EventProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/EventProvider.java
+END
+JavaMailResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/JavaMailResource.java
+END
+J2EEManagedObjectMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/J2EEManagedObjectMBean.java
+END
+J2EEResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/J2EEResource.java
+END
+J2EEResourceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/J2EEResourceMBean.java
+END
+ResourceAdapterModuleMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/ResourceAdapterModuleMBean.java
+END
+JCAConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/JCAConnectionFactory.java
+END
+JCAConnectionFactoryMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/JCAConnectionFactoryMBean.java
+END
+ServiceModuleMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/ServiceModuleMBean.java
+END
+LocalJBossServerDomainMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/LocalJBossServerDomainMBean.java
+END
+StateManagement.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/StateManagement.java
+END
+JDBCDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/JDBCDriver.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/package.html
+END
+J2EEServerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/J2EEServerMBean.java
+END
+J2EEDomainTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/J2EEDomainTarget.java
+END
+MessageDrivenBeanMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/MessageDrivenBeanMBean.java
+END
+JTAResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/JTAResource.java
+END
+ServletMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/ServletMBean.java
+END
+StatisticsConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/StatisticsConstants.java
+END
+ResourceAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/ResourceAdapter.java
+END
+J2EEModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/J2EEModule.java
+END
+JVMMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/JVMMBean.java
+END
+JMSResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/JMSResource.java
+END
+JMSResourceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/JMSResourceMBean.java
+END
+EJBModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/EJBModule.java
+END
+URLResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/URLResource.java
+END
+J2EEServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/J2EEServer.java
+END
+J2EEDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/J2EEDomain.java
+END
+J2EEDomainMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/J2EEDomainMBean.java
+END
+JDBCDriverMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/JDBCDriverMBean.java
+END
+RMI_IIOPResourceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/RMI_IIOPResourceMBean.java
+END
+MBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/MBean.java
+END
+WebModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/WebModule.java
+END
+Servlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/Servlet.java
+END
+AppClientModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/AppClientModule.java
+END
+AppClientModuleMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/AppClientModuleMBean.java
+END
+JTAResourceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/JTAResourceMBean.java
+END
+JVM.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/JVM.java
+END
+JNDIResourceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/JNDIResourceMBean.java
+END
+WrapperException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/WrapperException.java
+END
+EntityBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/EntityBean.java
+END
+J2EEDeployedObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/J2EEDeployedObject.java
+END
+EJBMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/EJBMBean.java
+END
+JCAResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/JCAResource.java
+END
+JCAResourceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/JCAResourceMBean.java
+END
+SessionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/SessionBean.java
+END
+EJBModuleMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/EJBModuleMBean.java
+END
+J2EEApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/J2EEApplication.java
+END
+JDBCResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/JDBCResource.java
+END
+SessionBeanMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/SessionBeanMBean.java
+END
+J2EEApplicationMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/J2EEApplicationMBean.java
+END
+URLResourceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/URLResourceMBean.java
+END
+JDBCDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/JDBCDataSource.java
+END
+JDBCDataSourceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/JDBCDataSourceMBean.java
+END
+StatefulSessionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/StatefulSessionBean.java
+END
+JCAManagedConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/JCAManagedConnectionFactory.java
+END
+NotificationConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/NotificationConstants.java
+END
+StatefulSessionBeanMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/StatefulSessionBeanMBean.java
+END
+MBeanMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/MBeanMBean.java
+END
+JNDIResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/JNDIResource.java
+END
+ResourceAdapterModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/ResourceAdapterModule.java
+END
+J2EEModuleMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/org/jboss/management/j2ee/J2EEModuleMBean.java
+END

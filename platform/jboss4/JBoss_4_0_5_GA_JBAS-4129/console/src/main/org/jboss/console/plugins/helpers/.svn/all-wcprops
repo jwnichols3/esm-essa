@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/plugins/helpers
+END
+PluginWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/plugins/helpers/PluginWrapper.java
+END
+AbstractPluginWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/plugins/helpers/AbstractPluginWrapper.java
+END
+PluginContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/plugins/helpers/PluginContext.java
+END
+ServletPluginHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/plugins/helpers/ServletPluginHelper.java
+END
+ScriptPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/plugins/helpers/ScriptPlugin.java
+END
+SimplePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/plugins/helpers/SimplePlugin.java
+END
+BasePluginWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/plugins/helpers/BasePluginWrapper.java
+END
+TreeNodeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/main/org/jboss/console/plugins/helpers/TreeNodeFactory.java
+END

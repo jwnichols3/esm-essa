@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/esm-essa/!svn/ver/1460/trunk/product
+END
+ant.properties.rdcuxsrv121
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esm-essa/!svn/ver/1457/trunk/product/ant.properties.rdcuxsrv121
+END
+ant.properties.solaris
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esm-essa/!svn/ver/1422/trunk/product/ant.properties.solaris
+END
+ant.properties.rdcuxsrv184
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esm-essa/!svn/ver/1458/trunk/product/ant.properties.rdcuxsrv184
+END
+ant.properties.linux
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esm-essa/!svn/ver/1422/trunk/product/ant.properties.linux
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/esm-essa/!svn/ver/1422/trunk/product/build.xml
+END

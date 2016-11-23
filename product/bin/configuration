@@ -1,0 +1,26 @@
+#
+# Title: configuration
+# Description: Shared configuration information for test clients
+# Author: G.S. Cole (guycole at gmail dot com)
+#
+#JDK_HOME=/dbprod/java/jdk1.5.0_06; export JDK_HOME
+#JAVA_HOME=$JDK_HOME; export JAVA_HOME
+#
+#PATH=$JDK_HOME/bin:$PATH; export PATH
+#
+REPO_HOME=/home/coleguy/repo1/esm-essa/trunk; export REPO_HOME
+#
+JBOSS_HOME=$REPO_HOME/deploy/jboss-4.0.5.GA; export JBOSS_HOME
+JBOSS_CLIENT_JAR=$JBOSS_HOME/client/jbossall-client.jar; export JBOSS_CLIENT_JAR
+LOGGING_JAR=$JBOSS_HOME/client/commons-logging.jar; export LOGGING_JAR
+#
+PRODUCT_HOME=$REPO_HOME/product; export PRODUCT_HOME
+#
+BLESSED_DIR=$PRODUCT_HOME/blessed; export BLESSED_DIR
+#
+LIB_DIR=$PRODUCT_HOME/lib; export LIB_DIR
+#
+CLASSPATH=$PRODUCT_HOME/etc:$BLESSED_DIR/essa-shared.jar:$BLESSED_DIR/essa-jboss-client.jar:$PRODUCT_HOME/jboss4/trunk/build/classes:$LIB_DIR/commons-chain-1.1.jar:$JBOSS_CLIENT_JAR:$LOGGING_JAR; export CLASSPATH
+#
+#CLASSPATH=$PRODUCT_HOME/etc:$BLESSED_DIR/essa_shared.jar:$BLESSED_DIR/essa_jboss_client.jar:$LIB_DIR/commons-chain-1.1.jar:$JBOSS_CLIENT_JAR:$LOGGING_JAR; export CLASSPATH
+#

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project name="osforums" default="jar">
+    <path id="cp">
+        <fileset dir="lib">
+            <include name="**/*.jar"/>
+        </fileset>
+    </path>
+
+    <target name="java">
+        <mkdir dir="build/java"/>
+        <javac srcdir="src" destdir="build/java" classpathref="cp" debug="on"/>
+        <copy filtering="no" todir="build/java">
+            <fileset dir="src">
+                <exclude name="**/*.java"/>
+                <exclude name="**/package.html"/>
+            </fileset>
+        </copy>
+    </target>
+
+    <target name="jar" depends="java">
+        <jar basedir="build/java" jarfile="build/osforums.jar"/>
+    </target>
+
+    <target name="war" depends="clean, jar">
+        <!-- group chat first (namespaced!) -->
+        <!--<unwar src="groupchat.war" dest="build/war/groupchat"/>-->
+        <!--<move file="build/war/groupchat/WEB-INF" todir="build/war"/>-->
+
+        <!-- then forums -->
+        <unwar src="jive4.war" dest="build/war" overwrite="yes"/>
+
+        <!-- then our overrides -->
+        <copy file="build/osforums.jar" todir="build/war/WEB-INF/lib" overwrite="yes"/>
+        <copy todir="build/war" overwrite="yes">
+            <fileset dir="webapp" includes="**/*"/>
+        </copy>
+    </target>
+
+    <target name="clean">
+        <delete dir="build"/>
+    </target>
+
+</project>

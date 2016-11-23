@@ -1,0 +1,83 @@
+10
+
+dir
+1460
+https://esm-essa.bgidev.net/svn/esm-essa/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo
+https://esm-essa.bgidev.net/svn/esm-essa
+
+
+
+2007-04-10T00:31:30.981171Z
+11
+coleguy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8c14f0ad-622d-0410-be72-f8c38c5cac15
+
+jni
+dir
+
+jfc
+dir
+
+applets
+dir
+
+jvmti
+dir
+
+applets.html
+file
+
+
+
+
+2010-07-19T20:10:38.401879Z
+7bc8f2fd5b4b49e899029ccca0eea115
+2007-04-10T00:16:04.382124Z
+8
+coleguy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8564
+
+management
+dir
+
+plugin
+dir
+
+jpda
+dir
+

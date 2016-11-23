@@ -1,0 +1,24 @@
+#
+# Title:manifest.txt
+#
+# Description:
+#
+# Development Environment:
+#   OS X 10.4.8
+#
+# Legalise:  
+#   Copyright (C) 2007 Digital Burro, INC.
+#
+# Author:
+#   G.S. Cole (guycole at gmail dot com)
+#
+# -- from struts-blank.war (struts 1.2.9)
+-rw-r--r--    1 gsc  gsc  358273 Feb  9 19:29 antlr.jar
+-rw-r--r--    1 gsc  gsc  188671 Feb  9 19:29 commons-beanutils.jar
+-rw-r--r--    1 gsc  gsc  168446 Feb  9 19:29 commons-digester.jar
+-rw-r--r--    1 gsc  gsc   22379 Feb  9 19:29 commons-fileupload.jar
+-rw-r--r--    1 gsc  gsc   38015 Feb  9 19:29 commons-logging.jar
+-rw-r--r--    1 gsc  gsc   84462 Feb  9 19:29 commons-validator.jar
+-rw-r--r--    1 gsc  gsc   65425 Feb  9 19:29 jakarta-oro.jar
+-rw-r--r--    1 gsc  gsc  549876 Feb  9 19:29 struts.jar
+#

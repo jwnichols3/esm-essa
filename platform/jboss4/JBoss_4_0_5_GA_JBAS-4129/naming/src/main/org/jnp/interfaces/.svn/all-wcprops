@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/naming/src/main/org/jnp/interfaces
+END
+NamingEnumerationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/naming/src/main/org/jnp/interfaces/NamingEnumerationImpl.java
+END
+TimedSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/naming/src/main/org/jnp/interfaces/TimedSocketFactory.java
+END
+FastNamingProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/naming/src/main/org/jnp/interfaces/FastNamingProperties.java
+END
+MarshalledValuePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/naming/src/main/org/jnp/interfaces/MarshalledValuePair.java
+END
+NamingContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/naming/src/main/org/jnp/interfaces/NamingContextFactory.java
+END
+NamingParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/naming/src/main/org/jnp/interfaces/NamingParser.java
+END
+Naming.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/naming/src/main/org/jnp/interfaces/Naming.java
+END
+NamingContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/naming/src/main/org/jnp/interfaces/NamingContext.java
+END

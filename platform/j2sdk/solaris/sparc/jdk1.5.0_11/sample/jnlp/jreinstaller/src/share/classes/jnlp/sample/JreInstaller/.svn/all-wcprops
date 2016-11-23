@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/5/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/sample/jnlp/jreinstaller/src/share/classes/jnlp/sample/JreInstaller
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/5/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/sample/jnlp/jreinstaller/src/share/classes/jnlp/sample/JreInstaller/Main.java
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/esm-essa/!svn/ver/5/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/sample/jnlp/jreinstaller/src/share/classes/jnlp/sample/JreInstaller/Config.java
+END
+WinRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/5/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/sample/jnlp/jreinstaller/src/share/classes/jnlp/sample/JreInstaller/WinRegistry.java
+END
+WindowsInstaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/esm-essa/!svn/ver/5/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/sample/jnlp/jreinstaller/src/share/classes/jnlp/sample/JreInstaller/WindowsInstaller.java
+END
+SolarisInstaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/esm-essa/!svn/ver/5/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/sample/jnlp/jreinstaller/src/share/classes/jnlp/sample/JreInstaller/SolarisInstaller.java
+END

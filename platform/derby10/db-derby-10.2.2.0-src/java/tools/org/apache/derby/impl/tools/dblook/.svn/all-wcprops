@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/tools/org/apache/derby/impl/tools/dblook
+END
+DB_View.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/tools/org/apache/derby/impl/tools/dblook/DB_View.java
+END
+DB_Jar.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/tools/org/apache/derby/impl/tools/dblook/DB_Jar.java
+END
+DB_Check.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/tools/org/apache/derby/impl/tools/dblook/DB_Check.java
+END
+Logs.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/tools/org/apache/derby/impl/tools/dblook/Logs.java
+END
+DB_Schema.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/tools/org/apache/derby/impl/tools/dblook/DB_Schema.java
+END
+DB_Trigger.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/tools/org/apache/derby/impl/tools/dblook/DB_Trigger.java
+END
+DB_GrantRevoke.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/tools/org/apache/derby/impl/tools/dblook/DB_GrantRevoke.java
+END
+DB_Index.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/tools/org/apache/derby/impl/tools/dblook/DB_Index.java
+END
+DB_Table.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/tools/org/apache/derby/impl/tools/dblook/DB_Table.java
+END
+DB_Key.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/tools/org/apache/derby/impl/tools/dblook/DB_Key.java
+END
+DB_Alias.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/tools/org/apache/derby/impl/tools/dblook/DB_Alias.java
+END

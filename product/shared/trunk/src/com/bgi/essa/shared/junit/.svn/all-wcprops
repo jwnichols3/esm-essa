@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/esm-essa/!svn/ver/1460/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit
+END
+DtoTestParent.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/esm-essa/!svn/ver/571/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/DtoTestParent.java
+END
+BootTimeCtxTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/esm-essa/!svn/ver/640/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/BootTimeCtxTest.java
+END
+TrimStringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm-essa/!svn/ver/184/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/TrimStringTest.java
+END
+FileSystemCtxTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm-essa/!svn/ver/1373/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/FileSystemCtxTest.java
+END
+FauxBooleanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/esm-essa/!svn/ver/186/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/FauxBooleanTest.java
+END
+FileAgeDtoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm-essa/!svn/ver/618/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/FileAgeDtoTest.java
+END
+CannedActionAddressDtoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/997/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/CannedActionAddressDtoTest.java
+END
+DirectorySizeDtoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/esm-essa/!svn/ver/829/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/DirectorySizeDtoTest.java
+END
+LongKeyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm-essa/!svn/ver/186/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/LongKeyTest.java
+END
+TaskDtoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/esm-essa/!svn/ver/1340/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/TaskDtoTest.java
+END
+VpoDtoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm-essa/!svn/ver/1403/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/VpoDtoTest.java
+END
+UpTimeSampleDtoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/esm-essa/!svn/ver/1341/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/UpTimeSampleDtoTest.java
+END
+AlertRecordDtoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm-essa/!svn/ver/1460/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/AlertRecordDtoTest.java
+END
+ZuluTimeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/esm-essa/!svn/ver/184/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/ZuluTimeTest.java
+END
+DirectorySizeCtxTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/esm-essa/!svn/ver/626/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/DirectorySizeCtxTest.java
+END
+FileSizeDtoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/esm-essa/!svn/ver/818/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/FileSizeDtoTest.java
+END
+ProcessSampleDtoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/1231/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/ProcessSampleDtoTest.java
+END
+FileSystemSizeSampleDtoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/659/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/FileSystemSizeSampleDtoTest.java
+END
+DirectoryAgeDtoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/esm-essa/!svn/ver/1373/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/DirectoryAgeDtoTest.java
+END
+BootTimeSampleDtoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/636/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/BootTimeSampleDtoTest.java
+END
+FileSystemSampleDtoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm-essa/!svn/ver/658/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/FileSystemSampleDtoTest.java
+END
+FileAgeSampleDtoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/esm-essa/!svn/ver/617/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/FileAgeSampleDtoTest.java
+END
+DirectorySizeSampleDtoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/614/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/DirectorySizeSampleDtoTest.java
+END
+CustomMessageAttributeDtoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/997/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/CustomMessageAttributeDtoTest.java
+END
+AlarmInhibitDtoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/esm-essa/!svn/ver/1258/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/AlarmInhibitDtoTest.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm-essa/!svn/ver/183/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/package.html
+END
+ProcessDtoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/esm-essa/!svn/ver/1225/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/ProcessDtoTest.java
+END
+FileSystemSizeDtoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/659/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/FileSystemSizeDtoTest.java
+END
+FileSampleDtoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/647/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/FileSampleDtoTest.java
+END
+BootTimeDtoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/esm-essa/!svn/ver/997/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/BootTimeDtoTest.java
+END
+DirectoryAgeSampleDtoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/1373/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/DirectoryAgeSampleDtoTest.java
+END
+CannedActionDtoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm-essa/!svn/ver/997/trunk/product/shared/trunk/src/com/bgi/essa/shared/junit/CannedActionDtoTest.java
+END

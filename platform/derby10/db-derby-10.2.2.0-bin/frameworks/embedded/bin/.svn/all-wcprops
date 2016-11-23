@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-bin/frameworks/embedded/bin
+END
+dblook.bat
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-bin/frameworks/embedded/bin/dblook.bat
+END
+sysinfo.bat
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-bin/frameworks/embedded/bin/sysinfo.bat
+END
+ij.ksh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-bin/frameworks/embedded/bin/ij.ksh
+END
+ij.bat
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-bin/frameworks/embedded/bin/ij.bat
+END
+setEmbeddedCP.ksh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-bin/frameworks/embedded/bin/setEmbeddedCP.ksh
+END
+setEmbeddedCP.bat
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-bin/frameworks/embedded/bin/setEmbeddedCP.bat
+END
+sysinfo.ksh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-bin/frameworks/embedded/bin/sysinfo.ksh
+END
+dblook.ksh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-bin/frameworks/embedded/bin/dblook.ksh
+END

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project name="chat" default="jar">
+    <path id="cp">
+        <fileset dir="lib">
+            <include name="**/*.jar"/>
+        </fileset>
+        <fileset dir="../forums/lib">
+            <include name="**/*.jar"/>
+        </fileset>
+        <fileset file="../forums/build/osforums.jar"/>
+    </path>
+
+    <target name="java">
+        <mkdir dir="build/java"/>
+        <javac srcdir="src" destdir="build/java" classpathref="cp" debug="on"/>
+        <copy filtering="no" todir="build/java">
+            <fileset dir="src">
+                <exclude name="**/*.java"/>
+                <exclude name="**/package.html"/>
+            </fileset>
+        </copy>
+    </target>
+
+    <target name="jar" depends="java">
+        <jar basedir="build/java" jarfile="build/forums-plugin.jar"/>
+    </target>
+
+    <target name="clean">
+        <delete dir="build"/>
+    </target>
+
+</project>

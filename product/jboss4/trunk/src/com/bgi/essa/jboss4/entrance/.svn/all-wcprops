@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/esm-essa/!svn/ver/1329/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/entrance
+END
+CommandConsumerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/232/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/entrance/CommandConsumerBean.java
+END
+NotificationConsumerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/237/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/entrance/NotificationConsumerBean.java
+END
+EvaluationConsumerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/237/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/entrance/EvaluationConsumerBean.java
+END
+PersistConsumerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/473/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/entrance/PersistConsumerBean.java
+END
+SessionFacadeBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/1329/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/entrance/SessionFacadeBean.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm-essa/!svn/ver/29/trunk/product/jboss4/trunk/src/com/bgi/essa/jboss4/entrance/package.html
+END

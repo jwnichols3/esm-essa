@@ -1,0 +1,132 @@
+<html>
+  <head>
+    <title>
+      OpenSymphony
+    </title>
+  </head>
+  <body>
+    <table>
+      <tr>
+	<td valign="top"><img src="images/icon.gif"></td>
+	<td valign="top">
+          <h1>The OpenSymphony projects</h1>
+  <!-- Navbar begin -->
+  <table border="0" cellpadding="0" cellspacing="0" summary="Navigation bar">
+    <tr>
+      <td width="16" style="padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;"><img src="images/buttonbar_left.gif" alt="" width="16" height="34" /></td>
+      <td background="images/buttonbar_bg.gif" valign="top" style="padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;">
+        <table border="0" cellpadding="0" cellspacing="0"
+               style="margin-top: 6px" summary="Options">
+          <tr>
+            <!-- java.net -->
+            <td><img src="images/bullet.gif" alt="*" border="0" hspace="4" /></td>
+            <td><a href="http://www.java.net" style="color: white; text-decoration:none; font-family:Arial,sans-serif; font-size:11px; font-weight:bold; white-space:nowrap">java.net</a></td>
+            <!-- community home -->
+            <td><img src="images/bullet.gif" alt="*" border="0" hspace="4" /></td>
+            <td><a href="http://community.java.net/java-enterprise" style="color: white; text-decoration:none; font-family:Arial,sans-serif; font-size:11px; font-weight:bold; white-space:nowrap">community home</a></td>
+            <!-- foundry home -->
+            <td><img src="images/bullet.gif" alt="*" border="0" hspace="4" /></td>
+            <td><a href="http://java-enterprise.dev.java.net/" style="color: white; text-decoration:none; font-family:Arial,sans-serif; font-size:11px; font-weight:bold;white-space:nowrap">projects</a></td>
+            <!-- incubator -->
+            <td><img src="images/bullet.gif" alt="*" border="0" hspace="4" /></td>
+            <td><a href="http://enterprise-incubator.dev.java.net/" style="color: white; text-decoration:none; font-family:Arial,sans-serif; font-size:11px; font-weight:bold;white-space:nowrap">incubator</a></td>
+            <!-- download j2ee 1.4 sdk -->
+            <td><img src="images/bullet.gif" alt="*" border="0" hspace="4" /></td>
+            <td><a href="http://java.sun.com/j2ee/1.4/download.html" style="color: white; text-decoration:none; font-family:Arial,sans-serif; font-size:11px; font-weight:bold;white-space:nowrap">download j2ee 1.4 sdk</a></td>
+          </tr>
+        </table>
+      </td>
+      <td width="22" style="padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;"><img src="images/buttonbar_right.gif" alt="" width="22" height="34" /></td>
+    </tr>
+  </table>
+  <!-- Navbar end -->
+	</td>
+      </tr>
+    </table>
+    <hr>
+
+    <a name="info">
+    <h3>Project Info</h3>
+    </a>
+    <blockquote>
+      OpenSymphony is an Open Source project dedicated to providing enterprise class J2EE
+      applications and components. Our components aim to be specification compliant, and
+      should work in any J2EE compliant application server. (Although some components only
+      require a servlet container rather than a full J2EE app server).
+    </blockquote>
+
+    <a name="contents">
+    <h3>Contents</h3>
+    </a>
+    <blockquote>
+      <dl>
+	<dd><a href="#download">Download and Installation</a></dd>
+	<dd><a href="#building">Building From Source</a></dd>
+	<dd><a href="#support">Support</a></dd>
+	<dd><a href="#participate">Participation</a></dd>
+      </dl>
+    </blockquote>
+
+    <a name="download">
+    <h3>Download and Installation</h3>
+    </a>
+    <blockquote>
+      To download and install, go to the project page of the project
+      you're interested in, and view the files available for download.
+      Follow these simple steps:
+      <ol>
+        <li><a href="http://java.sun.com/j2ee/download.html">Download, install and start J2EE 1.4 SDK</a> or any other <a href="http://java.sun.com/j2ee/compatibility.html">J2EE compatible application server</a>.</li>
+        <li>Download the latest build of the project you're interested in from the Files Section</a>.</li>
+        <li>For applications that provide an example war or ear, deploy the example using your application server's deployment tool.</li>
+    </blockquote>
+
+    <a name="building">
+    <h3>Build Instructions</h3>
+    </a>
+    <blockquote>
+    Please review the build instructions for individuals projects, if available. Generally though, these steps should work:
+    <ol>
+      <li>
+        Download and install <code>ant</code> 1.5.1 or greater from
+        <a href="http://ant.apache.org" target="_blank">
+        http://ant.apache.org/</a>, or use the command <code>asant</code>
+        provided with the J2EE 1.4 SDK.
+      </li>
+      <li>
+        Check out the project's source code from java.net.  You
+        can find instructions for doing so here in the 'version control' section of the project.
+      </li>
+      <li>
+        Run '<code>ant</code>'.  A <code>dist</code> directory will be
+        created with a jar file for the project.
+      </li>
+    </ol>
+    </blockquote>
+
+    <a name="support">
+    <h3>Support</h3>
+    </a>
+    <blockquote>
+      OpenSymphony is a community-supported open-source collection of projects.
+      You can find support by subscribing to the various
+      mailing lists offered in each individual sub-project..
+    </blockquote>
+
+    <a name="participate">
+    <h3>Participation</h3>
+    </a>
+    <blockquote>
+     If you are interested in contributing to any of the projects, whether
+     it be with new features, suggestions, bugfixes, or documentation, then
+     the best approach is to file issues and patches if applicable to
+     the project's <a href="http://jira.opensymphony.com"/>issue tracker</a>
+    </blockquote>
+
+    <hr>
+    <small>
+    <a href="http://java-enterprise.dev.java.net/">
+    <img src="images/foundry-small.gif" border="0" alt="foundry"></a>
+    <i>Part of the <a href="http://java-enterprise.dev.java.net/">
+    Java Enterprise Community</a>.</i></small>
+  </body>
+</html>

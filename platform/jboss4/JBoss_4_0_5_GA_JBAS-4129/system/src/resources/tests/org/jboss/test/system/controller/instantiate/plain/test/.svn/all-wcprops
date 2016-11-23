@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/plain/test
+END
+PlainMBeanAbstractClass_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/plain/test/PlainMBeanAbstractClass_bad.xml
+END
+PlainMBeanCodeEmpty_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/plain/test/PlainMBeanCodeEmpty_bad.xml
+END
+PlainMBeanConstructorInvalidValue_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/plain/test/PlainMBeanConstructorInvalidValue_bad.xml
+END
+PlainMBeanPostDeregisterError_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/plain/test/PlainMBeanPostDeregisterError_install.xml
+END
+PlainMBeanPreDeregisterError_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/plain/test/PlainMBeanPreDeregisterError_install.xml
+END
+PlainMBeanConstructorInvalidType_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/plain/test/PlainMBeanConstructorInvalidType_bad.xml
+END
+PlainMBeanConstructorError_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/plain/test/PlainMBeanConstructorError_bad.xml
+END
+PlainMBean_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/plain/test/PlainMBean_install.xml
+END
+PlainMBeanNotMBean_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/plain/test/PlainMBeanNotMBean_bad.xml
+END
+PlainMBeanConstructorTypeNotFound_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/plain/test/PlainMBeanConstructorTypeNotFound_bad.xml
+END
+PlainMBeanCodeMissing_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/plain/test/PlainMBeanCodeMissing_bad.xml
+END
+PlainMBeanPostRegisterError_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/plain/test/PlainMBeanPostRegisterError_bad.xml
+END
+PlainMBeanConstructorException_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/plain/test/PlainMBeanConstructorException_bad.xml
+END
+PlainMBeanPreRegisterError_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/plain/test/PlainMBeanPreRegisterError_bad.xml
+END
+PlainMBeanGetMBeanInfoError_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/plain/test/PlainMBeanGetMBeanInfoError_bad.xml
+END
+PlainMBeanCodeClassNotFound_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/plain/test/PlainMBeanCodeClassNotFound_bad.xml
+END
+PlainMBeanRedeployAfterError_bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/plain/test/PlainMBeanRedeployAfterError_bad.xml
+END
+PlainMBeanRedeployAfterError_good.xml
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/system/src/resources/tests/org/jboss/test/system/controller/instantiate/plain/test/PlainMBeanRedeployAfterError_good.xml
+END

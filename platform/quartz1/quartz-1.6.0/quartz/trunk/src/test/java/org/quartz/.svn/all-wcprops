@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/test/java/org/quartz
+END
+AnnualCalendar-1.5.1.ser
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/test/java/org/quartz/AnnualCalendar-1.5.1.ser
+END
+PriorityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/test/java/org/quartz/PriorityTest.java
+END
+CronExpressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/test/java/org/quartz/CronExpressionTest.java
+END
+JobDataMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/test/java/org/quartz/JobDataMapTest.java
+END
+NthIncludedDayTriggerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/test/java/org/quartz/NthIncludedDayTriggerTest.java
+END
+SimpleTrigger-1.5.2.ser
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/test/java/org/quartz/SimpleTrigger-1.5.2.ser
+END
+AnnualCalendarTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/test/java/org/quartz/AnnualCalendarTest.java
+END
+SerializationTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/test/java/org/quartz/SerializationTestSupport.java
+END
+JobDataMap-1.5.1.ser
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/test/java/org/quartz/JobDataMap-1.5.1.ser
+END
+CronExpression-1.5.2.ser
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/test/java/org/quartz/CronExpression-1.5.2.ser
+END
+NthIncludedDayTrigger-1.5.2.ser
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/test/java/org/quartz/NthIncludedDayTrigger-1.5.2.ser
+END
+SimpleTriggerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/test/java/org/quartz/SimpleTriggerTest.java
+END
+JobDataMap-1.4.5.ser
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/test/java/org/quartz/JobDataMap-1.4.5.ser
+END
+JobDetailTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/112/trunk/platform/quartz1/quartz-1.6.0/quartz/trunk/src/test/java/org/quartz/JobDetailTest.java
+END

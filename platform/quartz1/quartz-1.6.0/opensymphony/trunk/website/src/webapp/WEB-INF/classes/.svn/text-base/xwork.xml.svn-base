@@ -1,0 +1,56 @@
+<!DOCTYPE xwork PUBLIC "-//OpenSymphony Group//XWork 1.0//EN" "http://www.opensymphony.com/xwork/xwork-1.0.dtd">
+<xwork>
+    <include file="webwork-default.xml"/>
+    <package name="default" extends="webwork-default">
+        <default-interceptor-ref name="completeStack"/>
+
+        <action name="about" class="com.opensymphony.website.actions.GetProject">
+            <result name="success">/project/about.jsp</result>
+        </action>
+
+        <action name="news" class="com.opensymphony.website.actions.GetProject">
+            <result name="success">/project/news.jsp</result>
+        </action>
+
+        <action name="download" class="com.opensymphony.website.actions.GetProject">
+            <result name="success">/project/download.jsp</result>
+        </action>
+
+        <action name="documentation" class="com.opensymphony.website.actions.GetProject">
+            <result name="success">/project/documentation.jsp</result>
+        </action>
+
+        <action name="contribute" class="com.opensymphony.website.actions.GetProject">
+            <result name="success">/project/contribute.jsp</result>
+        </action>
+
+        <action name="members" class="com.opensymphony.website.actions.GetProject">
+            <result name="success">/project/members.jsp</result>
+        </action>
+
+        <action name="userForums" class="com.opensymphony.website.actions.GetProject">
+            <result name="success">/project/userForums.jsp</result>
+        </action>
+
+        <action name="devForums" class="com.opensymphony.website.actions.GetProject">
+            <result name="success">/project/devForums.jsp</result>
+        </action>
+
+        <action name="cvs" class="com.opensymphony.website.actions.GetProject">
+            <result name="success">/project/cvs.jsp</result>
+        </action>
+
+        <action name="license" class="com.opensymphony.website.actions.GetProject" method="license">
+            <result name="success">/project/license.jsp</result>
+            <result name="apache">/project/license_apache.jsp</result>
+        </action>
+
+        <action name="changelog" class="com.opensymphony.website.actions.GetProject">
+            <result name="success">/project/changelog.jsp</result>
+        </action>
+
+        <action name="reporting" class="com.opensymphony.website.actions.GetProject">
+            <result name="success">/project/reporting.jsp</result>
+        </action>
+    </package>
+</xwork>

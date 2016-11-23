@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/consumer_deployment_descriptor/src/org/jboss/tutorial/consumer_deployment_descriptor/bean
+END
+ExampleProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/consumer_deployment_descriptor/src/org/jboss/tutorial/consumer_deployment_descriptor/bean/ExampleProducer.java
+END
+Tester.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/consumer_deployment_descriptor/src/org/jboss/tutorial/consumer_deployment_descriptor/bean/Tester.java
+END
+ExampleProducerXA.java
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/consumer_deployment_descriptor/src/org/jboss/tutorial/consumer_deployment_descriptor/bean/ExampleProducerXA.java
+END
+ExampleProducerLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/consumer_deployment_descriptor/src/org/jboss/tutorial/consumer_deployment_descriptor/bean/ExampleProducerLocal.java
+END
+ExampleProducerRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/consumer_deployment_descriptor/src/org/jboss/tutorial/consumer_deployment_descriptor/bean/ExampleProducerRemote.java
+END
+TesterBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/consumer_deployment_descriptor/src/org/jboss/tutorial/consumer_deployment_descriptor/bean/TesterBean.java
+END
+ExampleConsumerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/consumer_deployment_descriptor/src/org/jboss/tutorial/consumer_deployment_descriptor/bean/ExampleConsumerBean.java
+END

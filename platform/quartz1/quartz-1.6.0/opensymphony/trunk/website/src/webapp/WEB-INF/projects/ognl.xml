@@ -1,0 +1,41 @@
+<project>
+    <name>OGNL</name>
+    <jiraId>10090</jiraId>
+    <jiraName>OGNL</jiraName>
+    <confluenceName>OGNL</confluenceName>
+    <forums>
+        <usersId>15</usersId>
+        <devId>16</devId>
+        <cvsId>17</cvsId>
+    </forums>
+
+    <evaluating>
+        <item>
+            <name>Language Guide</name>
+            <url>html/LanguageGuide/index.html</url>
+        </item>
+    </evaluating>
+
+    <docs>
+        <url>index.html</url>
+        <doesNotUseWiki>true</doesNotUseWiki>
+        <items>
+            <item>
+                <name>Developer Guide</name>
+                <url>html/DeveloperGuide/index.html</url>
+            </item>
+        </items>
+    </docs>
+
+    <owners>
+        <person>
+            <name>Drew Davidson</name>
+            <email>drew@ognl.org</email>
+            <role>Project lead</role>
+        </person>
+    </owners>
+
+    <releases>
+    </releases>
+
+</project>

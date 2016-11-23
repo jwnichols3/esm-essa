@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Notepad/src/resources
+END
+cut.gif
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Notepad/src/resources/cut.gif
+END
+paste.gif
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Notepad/src/resources/paste.gif
+END
+save.gif
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Notepad/src/resources/save.gif
+END
+open.gif
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Notepad/src/resources/open.gif
+END
+Notepad.properties
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Notepad/src/resources/Notepad.properties
+END
+Notepad_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Notepad/src/resources/Notepad_zh_CN.properties
+END
+Notepad_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Notepad/src/resources/Notepad_fr.properties
+END
+new.gif
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Notepad/src/resources/new.gif
+END
+Notepad_sv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Notepad/src/resources/Notepad_sv.properties
+END
+copy.gif
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm-essa/!svn/ver/8/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/plugin/jfc/Notepad/src/resources/copy.gif
+END

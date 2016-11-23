@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/statistics
+END
+InvocationStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/statistics/InvocationStatistics.java
+END
+ReplicationStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/tomcat/src/main/org/jboss/web/tomcat/statistics/ReplicationStatistics.java
+END

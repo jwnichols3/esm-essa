@@ -1,0 +1,119 @@
+10
+
+dir
+1460
+https://esm-essa.bgidev.net/svn/esm-essa/trunk/platform/derby10/db-derby-10.2.2.0-src/java/engine/org/apache/derby/iapi/services
+https://esm-essa.bgidev.net/svn/esm-essa
+
+
+
+2007-04-26T18:47:45.428231Z
+115
+coleguy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8c14f0ad-622d-0410-be72-f8c38c5cac15
+
+i18n
+dir
+
+timer
+dir
+
+crypto
+dir
+
+property
+dir
+
+context
+dir
+
+monitor
+dir
+
+info
+dir
+
+stream
+dir
+
+build.xml
+file
+
+
+
+
+2010-07-19T20:00:30.558129Z
+ee5d09f45a36f8a4a2a41471abd5d0f3
+2007-04-26T18:47:45.428231Z
+115
+coleguy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2522
+
+daemon
+dir
+
+cache
+dir
+
+diag
+dir
+
+classfile
+dir
+
+loader
+dir
+
+uuid
+dir
+
+sanity
+dir
+
+io
+dir
+
+memory
+dir
+
+compiler
+dir
+
+locks
+dir
+

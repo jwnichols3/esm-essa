@@ -1,0 +1,12 @@
+build.conf
+checkout
+checkout0
+cruisecontrol.log
+logs
+nohup.out
+nohup32.out
+nohup30.out
+artifacts
+jboss-head.ser
+jboss-3.2.ser
+jboss-3.0.ser

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/jdk15/org/jboss/test/aop/bean
+END
+AnnotatedSecuredPOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/jdk15/org/jboss/test/aop/bean/AnnotatedSecuredPOJO.java
+END
+AnnotatedTxPOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/jdk15/org/jboss/test/aop/bean/AnnotatedTxPOJO.java
+END
+AnnotatedTxLockedPOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/jdk15/org/jboss/test/aop/bean/AnnotatedTxLockedPOJO.java
+END

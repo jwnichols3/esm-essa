@@ -1,0 +1,53 @@
+<project>
+    <name>ClickStream</name>
+    <jiraId>10030</jiraId>
+    <jiraName>CLK</jiraName>
+    <confluenceName>CLK</confluenceName>
+
+    <forums>
+        <usersId>3</usersId>
+        <devId>7</devId>
+        <cvsId>8</cvsId>
+    </forums>
+
+    <docs>
+        <url>index.html</url>
+        <doesNotUseWiki>true</doesNotUseWiki>
+        <items>
+            <item>
+                <name>Change log</name>
+                <url>changelog.html</url>
+            </item>
+        </items>
+    </docs>
+
+    <owners>
+        <person>
+            <name>Mathias Bogaert</name>
+            <email>m.bogaert at memenco dot com</email>
+            <role>Maintainer</role>
+        </person>
+    </owners>
+
+    <releases>
+        <release>
+            <version>1.0.3</version>
+            <date>7/12/2004</date>
+            <jiraId>21423</jiraId>
+            <downloads>
+                <download>
+                    <name>Blank war</name>
+                    <url>https://clickstream.dev.java.net/files/documents/875/9502/clickstream-1.0.3.war</url>
+                </download>
+                <download>
+                    <name>Full</name>
+                    <url>https://clickstream.dev.java.net/files/documents/875/9504/clickstream-1.0.3-sources.zip</url>
+                </download>
+                <download>
+                    <name>JAR</name>
+                    <url>https://clickstream.dev.java.net/files/documents/875/9500/clickstream-1.0.3.jar</url>
+                </download>
+            </downloads>
+        </release>
+    </releases>
+</project>

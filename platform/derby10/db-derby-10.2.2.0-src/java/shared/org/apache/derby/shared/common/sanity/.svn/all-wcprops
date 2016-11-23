@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/shared/org/apache/derby/shared/common/sanity
+END
+SanityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/shared/org/apache/derby/shared/common/sanity/SanityManager.java
+END
+SanityState.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/shared/org/apache/derby/shared/common/sanity/SanityState.tmpl
+END
+SanityState.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/shared/org/apache/derby/shared/common/sanity/SanityState.java
+END
+AssertFailure.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-src/java/shared/org/apache/derby/shared/common/sanity/AssertFailure.java
+END

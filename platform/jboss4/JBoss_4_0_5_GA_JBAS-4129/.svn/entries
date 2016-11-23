@@ -1,0 +1,124 @@
+10
+
+dir
+1460
+https://esm-essa.bgidev.net/svn/esm-essa/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129
+https://esm-essa.bgidev.net/svn/esm-essa
+
+
+
+2007-05-30T22:01:28.726325Z
+227
+coleguy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8c14f0ad-622d-0410-be72-f8c38c5cac15
+
+deployment
+dir
+
+cluster
+dir
+
+ejb3
+dir
+
+system
+dir
+
+j2ee
+dir
+
+tomcat
+dir
+
+jaxrpc
+dir
+
+hibernate-int
+dir
+
+thirdparty
+dir
+
+aspects-jdk5
+dir
+
+webservice
+dir
+
+tools
+dir
+
+varia
+dir
+
+server
+dir
+
+naming
+dir
+
+remoting-int
+dir
+
+messaging
+dir
+
+test
+dir
+
+aop
+dir
+
+transaction
+dir
+
+jms
+dir
+
+testsuite
+dir
+
+docbook-support
+dir
+
+connector
+dir
+
+jmx
+dir
+
+build
+dir
+
+iiop
+dir
+
+aspects
+dir
+
+console
+dir
+
+security
+dir
+
+ejb3x
+dir
+
+management
+dir
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/deployment/src/main/org/jboss/deployment/spi/status
+END
+DeploymentStatusImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/deployment/src/main/org/jboss/deployment/spi/status/DeploymentStatusImpl.java
+END
+ClientConfigurationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/deployment/src/main/org/jboss/deployment/spi/status/ClientConfigurationImpl.java
+END
+ProgressListenerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/deployment/src/main/org/jboss/deployment/spi/status/ProgressListenerImpl.java
+END
+ProgressObjectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/deployment/src/main/org/jboss/deployment/spi/status/ProgressObjectImpl.java
+END

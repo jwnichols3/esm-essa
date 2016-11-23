@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+    "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping
+
+>
+
+    <class
+            name="test.hibernate30.Customer"
+    >
+
+        <component
+                    class="test.hibernate30.PhoneNumber"
+            name="dayPhone"
+        >
+
+        <property
+            name="phoneNumber"
+        >
+
+            <column
+                name="day_phone_number" 
+            />
+
+        </property>
+
+        </component>
+
+        <component
+                    class="test.hibernate30.PhoneNumber"
+            name="nightPhone"
+        >
+
+        <property
+            name="phoneNumber"
+        >
+
+            <column
+                name="night_phone_number" 
+            />
+
+        </property>
+
+        </component>
+
+             <filter
+                name="filter1"
+                condition="condition att"
+             >
+               <![CDATA[condition value]]>
+             </filter>
+
+             <filter
+                name="filter2"
+                condition="condition att"
+             >
+               <![CDATA[condition value]]>
+             </filter>
+
+    </class>    
+
+</hibernate-mapping>
+

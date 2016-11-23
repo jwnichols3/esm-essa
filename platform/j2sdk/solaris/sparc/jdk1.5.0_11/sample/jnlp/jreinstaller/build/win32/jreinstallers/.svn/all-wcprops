@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/5/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/sample/jnlp/jreinstaller/build/win32/jreinstallers
+END
+bundle.win.gmk
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/5/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/sample/jnlp/jreinstaller/build/win32/jreinstallers/bundle.win.gmk
+END
+GNUmakefile
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/esm-essa/!svn/ver/5/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/sample/jnlp/jreinstaller/build/win32/jreinstallers/GNUmakefile
+END

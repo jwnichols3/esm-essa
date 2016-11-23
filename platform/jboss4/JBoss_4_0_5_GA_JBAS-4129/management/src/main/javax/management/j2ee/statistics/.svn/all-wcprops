@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics
+END
+StatefulSessionBeanStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/StatefulSessionBeanStats.java
+END
+MessageDrivenBeanStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/MessageDrivenBeanStats.java
+END
+JDBCConnectionStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/JDBCConnectionStats.java
+END
+ServletStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/ServletStats.java
+END
+JavaMailStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/JavaMailStats.java
+END
+Statistic.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/Statistic.java
+END
+JMSStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/JMSStats.java
+END
+JMSEndpointStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/JMSEndpointStats.java
+END
+JVMStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/JVMStats.java
+END
+BoundaryStatistic.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/BoundaryStatistic.java
+END
+JCAStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/JCAStats.java
+END
+JMSSessionStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/JMSSessionStats.java
+END
+JMSProducerStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/JMSProducerStats.java
+END
+EJBStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/EJBStats.java
+END
+StatelessSessionBeanStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/StatelessSessionBeanStats.java
+END
+CountStatistic.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/CountStatistic.java
+END
+URLStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/URLStats.java
+END
+EntityBeanStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/EntityBeanStats.java
+END
+JDBCStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/JDBCStats.java
+END
+JMSConsumerStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/JMSConsumerStats.java
+END
+RangeStatistic.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/RangeStatistic.java
+END
+BoundedRangeStatistic.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/BoundedRangeStatistic.java
+END
+TimeStatistic.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/TimeStatistic.java
+END
+JCAConnectionPoolStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/JCAConnectionPoolStats.java
+END
+JMSConnectionStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/JMSConnectionStats.java
+END
+SessionBeanStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/SessionBeanStats.java
+END
+JDBCConnectionPoolStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/JDBCConnectionPoolStats.java
+END
+JCAConnectionStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/JCAConnectionStats.java
+END
+JTAStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/JTAStats.java
+END
+Stats.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/management/src/main/javax/management/j2ee/statistics/Stats.java
+END

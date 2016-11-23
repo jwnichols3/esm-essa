@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-bin/javadoc/jdbc3/org/apache/derby/jdbc
+END
+EmbeddedXADataSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-bin/javadoc/jdbc3/org/apache/derby/jdbc/EmbeddedXADataSource.html
+END
+EmbeddedConnectionPoolDataSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-bin/javadoc/jdbc3/org/apache/derby/jdbc/EmbeddedConnectionPoolDataSource.html
+END
+EmbeddedSimpleDataSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-bin/javadoc/jdbc3/org/apache/derby/jdbc/EmbeddedSimpleDataSource.html
+END
+ClientXADataSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-bin/javadoc/jdbc3/org/apache/derby/jdbc/ClientXADataSource.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-bin/javadoc/jdbc3/org/apache/derby/jdbc/package-frame.html
+END
+ClientConnectionPoolDataSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-bin/javadoc/jdbc3/org/apache/derby/jdbc/ClientConnectionPoolDataSource.html
+END
+EmbeddedDataSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-bin/javadoc/jdbc3/org/apache/derby/jdbc/EmbeddedDataSource.html
+END
+ClientBaseDataSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-bin/javadoc/jdbc3/org/apache/derby/jdbc/ClientBaseDataSource.html
+END
+EmbeddedDriver.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-bin/javadoc/jdbc3/org/apache/derby/jdbc/EmbeddedDriver.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-bin/javadoc/jdbc3/org/apache/derby/jdbc/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-bin/javadoc/jdbc3/org/apache/derby/jdbc/package-tree.html
+END
+ClientDataSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-bin/javadoc/jdbc3/org/apache/derby/jdbc/ClientDataSource.html
+END
+ClientDriver.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/115/trunk/platform/derby10/db-derby-10.2.2.0-bin/javadoc/jdbc3/org/apache/derby/jdbc/ClientDriver.html
+END

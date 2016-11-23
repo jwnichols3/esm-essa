@@ -1,0 +1,68 @@
+<html>
+	<head>
+		<title>SiteMesh Installation and Configuration</title>
+	</head>
+	<body>
+		<p>Once SiteMesh has been <a href="../download.jsp">downloaded</a>, configuration is simple.</p>
+
+		<ul>
+			<li>Setup a web-app as usual (or skip all this by using the pre-configured <a href="../download.jsp">sitemesh-blank.war</a>).</li>
+
+			<li>Copy <b><code>sitemesh-VERSION.jar</code></b> into <b><code>[web-app]/WEB-INF/lib</code></b>.</li>
+
+			<li>Create the file <b><code>[web-app]/WEB-INF/decorators.xml</code></b> that contains the following:</li>
+		</ul>
+
+<pre class="code">
+&lt;decorators&gt;
+&lt;/decorators&gt;
+</pre>
+
+		<ul>
+			<li>(Optional) Create the file <b><code>[web-app]/WEB-INF/sitemesh.xml</code></b> that contains the following:
+
+		</ul>
+
+<pre class="code">
+&lt;sitemesh&gt;
+  &lt;property name=&quot;decorators-file&quot; value=&quot;/WEB-INF/decorators.xml&quot; /&gt;
+  &lt;excludes file=&quot;${decorators-file}&quot; /&gt;
+
+  &lt;page-parsers&gt;
+    &lt;parser content-type=&quot;text/html&quot;
+      class=&quot;com.opensymphony.module.sitemesh.parser.FastPageParser&quot; /&gt;
+    &lt;parser content-type=&quot;text/html;charset=ISO-8859-1&quot;
+      class=&quot;com.opensymphony.module.sitemesh.parser.FastPageParser&quot; /&gt;
+  &lt;/page-parsers&gt;
+
+  &lt;decorator-mappers&gt;
+    &lt;mapper
+    class=&quot;com.opensymphony.module.sitemesh.mapper.ConfigDecoratorMapper&quot;&gt;
+      &lt;param name=&quot;config&quot; value=&quot;${decorators-file}&quot; /&gt;
+    &lt;/mapper&gt;
+  &lt;/decorator-mappers&gt;
+&lt;/sitemesh&gt;
+</pre>
+
+		<ul>
+			<li>Add the following to <b><code>[web-app]/WEB-INF/web.xml</code></b> within the <b><code>&lt;web-app&gt;</code></b> tag:</p>
+		</ul>
+
+<pre class="code">
+&lt;filter&gt;
+  &lt;filter-name&gt;<b>sitemesh</b>&lt;/filter-name&gt;
+  &lt;filter-class&gt;
+    <b>com.opensymphony.module.sitemesh.filter.PageFilter</b>
+  &lt;/filter-class&gt;
+&lt;/filter&gt;
+
+&lt;filter-mapping&gt;
+  &lt;filter-name&gt;sitemesh&lt;/filter-name&gt;
+  &lt;url-pattern&gt;<b>/*</b>&lt;/url-pattern&gt;
+&lt;/filter-mapping&gt;
+</pre>
+
+		<p>That's it! Your web-app is now setup to use SiteMesh, you can now start <a href="decorators.jsp">building decorators</a>.</p>
+
+	</body>
+</html>

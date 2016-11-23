@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/resources/webconsole.war/WEB-INF/classes
+END
+web-console-users.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/resources/webconsole.war/WEB-INF/classes/web-console-users.properties
+END
+Classloaders.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/resources/webconsole.war/WEB-INF/classes/Classloaders.bsh
+END
+web-console-roles.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/resources/webconsole.war/WEB-INF/classes/web-console-roles.properties
+END
+JNDIView.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/resources/webconsole.war/WEB-INF/classes/JNDIView.bsh
+END
+SystemFolder.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/resources/webconsole.war/WEB-INF/classes/SystemFolder.bsh
+END
+J2EEFolder.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/console/src/resources/webconsole.war/WEB-INF/classes/J2EEFolder.bsh
+END

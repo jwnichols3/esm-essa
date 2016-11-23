@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/messagedriven/test
+END
+JMSContainerInvokerDurableTopicMessageDrivenUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/messagedriven/test/JMSContainerInvokerDurableTopicMessageDrivenUnitTestCase.java
+END
+SimpleTopicMessageDrivenUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/messagedriven/test/SimpleTopicMessageDrivenUnitTestCase.java
+END
+JMSContainerInvokerTopicMessageDrivenUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/messagedriven/test/JMSContainerInvokerTopicMessageDrivenUnitTestCase.java
+END
+DurableTopicMessageDrivenUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/messagedriven/test/DurableTopicMessageDrivenUnitTestCase.java
+END
+SimpleQueueMessageDrivenUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/messagedriven/test/SimpleQueueMessageDrivenUnitTestCase.java
+END
+JMSContainerInvokerQueueMessageDrivenUnitTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/main/org/jboss/test/messagedriven/test/JMSContainerInvokerQueueMessageDrivenUnitTestCase.java
+END

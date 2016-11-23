@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/stateless_deployment_descriptor/src/org/jboss/tutorial/stateless_deployment_descriptor/bean
+END
+CalculatorBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/stateless_deployment_descriptor/src/org/jboss/tutorial/stateless_deployment_descriptor/bean/CalculatorBean.java
+END
+CalculatorLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/stateless_deployment_descriptor/src/org/jboss/tutorial/stateless_deployment_descriptor/bean/CalculatorLocal.java
+END
+CalculatorRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/stateless_deployment_descriptor/src/org/jboss/tutorial/stateless_deployment_descriptor/bean/CalculatorRemote.java
+END
+Calculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/stateless_deployment_descriptor/src/org/jboss/tutorial/stateless_deployment_descriptor/bean/Calculator.java
+END

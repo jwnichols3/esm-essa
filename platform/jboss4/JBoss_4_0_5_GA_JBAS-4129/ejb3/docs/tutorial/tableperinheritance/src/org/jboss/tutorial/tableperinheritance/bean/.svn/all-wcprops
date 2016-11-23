@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/tableperinheritance/src/org/jboss/tutorial/tableperinheritance/bean
+END
+PetDAOBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/tableperinheritance/src/org/jboss/tutorial/tableperinheritance/bean/PetDAOBean.java
+END
+Cat.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/tableperinheritance/src/org/jboss/tutorial/tableperinheritance/bean/Cat.java
+END
+Pet.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/tableperinheritance/src/org/jboss/tutorial/tableperinheritance/bean/Pet.java
+END
+Dog.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/tableperinheritance/src/org/jboss/tutorial/tableperinheritance/bean/Dog.java
+END
+PetDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/tableperinheritance/src/org/jboss/tutorial/tableperinheritance/bean/PetDAO.java
+END

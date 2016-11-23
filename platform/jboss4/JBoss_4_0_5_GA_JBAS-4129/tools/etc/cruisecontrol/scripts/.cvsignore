@@ -1,0 +1,7 @@
+log.xml
+logbuild
+build.conf
+cc-config-jboss-head.xml
+cc-config-jboss-3.2.xml
+cc-config-jboss-3.0.xml
+cc-config-all.xml

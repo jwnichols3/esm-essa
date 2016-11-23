@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/demo/jfc/Java2D/src/java2d
+END
+Tools.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/demo/jfc/Java2D/src/java2d/Tools.java
+END
+DemoGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/demo/jfc/Java2D/src/java2d/DemoGroup.java
+END
+CustomControlsContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/demo/jfc/Java2D/src/java2d/CustomControlsContext.java
+END
+AnimatingControlsSurface.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/demo/jfc/Java2D/src/java2d/AnimatingControlsSurface.java
+END
+DemoPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/demo/jfc/Java2D/src/java2d/DemoPanel.java
+END
+CloningFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/demo/jfc/Java2D/src/java2d/CloningFeature.java
+END
+Java2Demo.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/demo/jfc/Java2D/src/java2d/Java2Demo.java
+END
+PerformanceMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/demo/jfc/Java2D/src/java2d/PerformanceMonitor.java
+END
+DemoImages.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/demo/jfc/Java2D/src/java2d/DemoImages.java
+END
+ControlsSurface.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/demo/jfc/Java2D/src/java2d/ControlsSurface.java
+END
+Java2DemoApplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/demo/jfc/Java2D/src/java2d/Java2DemoApplet.java
+END
+AnimatingSurface.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/demo/jfc/Java2D/src/java2d/AnimatingSurface.java
+END
+GlobalPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/demo/jfc/Java2D/src/java2d/GlobalPanel.java
+END
+MemoryMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/demo/jfc/Java2D/src/java2d/MemoryMonitor.java
+END
+TextureChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/demo/jfc/Java2D/src/java2d/TextureChooser.java
+END
+GlobalControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/demo/jfc/Java2D/src/java2d/GlobalControls.java
+END
+Surface.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/demo/jfc/Java2D/src/java2d/Surface.java
+END
+Intro.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/demo/jfc/Java2D/src/java2d/Intro.java
+END
+RunWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/demo/jfc/Java2D/src/java2d/RunWindow.java
+END
+CustomControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/demo/jfc/Java2D/src/java2d/CustomControls.java
+END
+DemoFonts.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm-essa/!svn/ver/12/trunk/platform/j2sdk/linux/x64/jdk1.5.0_11/demo/jfc/Java2D/src/java2d/DemoFonts.java
+END

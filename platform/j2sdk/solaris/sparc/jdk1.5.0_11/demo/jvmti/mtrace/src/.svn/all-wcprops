@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm-essa/!svn/ver/7/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jvmti/mtrace/src
+END
+mtrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/esm-essa/!svn/ver/7/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jvmti/mtrace/src/mtrace.h
+END
+sample.makefile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm-essa/!svn/ver/7/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jvmti/mtrace/src/sample.makefile.txt
+END
+Mtrace.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/esm-essa/!svn/ver/7/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jvmti/mtrace/src/Mtrace.java
+END
+mtrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/esm-essa/!svn/ver/7/trunk/platform/j2sdk/solaris/sparc/jdk1.5.0_11/demo/jvmti/mtrace/src/mtrace.c
+END

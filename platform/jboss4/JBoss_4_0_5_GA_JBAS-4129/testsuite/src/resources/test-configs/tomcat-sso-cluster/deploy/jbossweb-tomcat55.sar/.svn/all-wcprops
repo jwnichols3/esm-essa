@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/resources/test-configs/tomcat-sso-cluster/deploy/jbossweb-tomcat55.sar
+END
+context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/resources/test-configs/tomcat-sso-cluster/deploy/jbossweb-tomcat55.sar/context.xml
+END
+server.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/esm-essa/!svn/ver/15/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/testsuite/src/resources/test-configs/tomcat-sso-cluster/deploy/jbossweb-tomcat55.sar/server.xml
+END

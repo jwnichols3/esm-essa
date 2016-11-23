@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/jndibinding/src/org/jboss/tutorial/jndibinding/bean
+END
+CalculatorBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/jndibinding/src/org/jboss/tutorial/jndibinding/bean/CalculatorBean.java
+END
+CalculatorLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/jndibinding/src/org/jboss/tutorial/jndibinding/bean/CalculatorLocal.java
+END
+CalculatorRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/jndibinding/src/org/jboss/tutorial/jndibinding/bean/CalculatorRemote.java
+END
+Calculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/esm-essa/!svn/ver/14/trunk/platform/jboss4/JBoss_4_0_5_GA_JBAS-4129/ejb3/docs/tutorial/jndibinding/src/org/jboss/tutorial/jndibinding/bean/Calculator.java
+END
