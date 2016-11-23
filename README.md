@@ -3,4 +3,4 @@
 # Background
 In 2006 a project was launched to evolve a back-end Openview Operations (OVO) based solution to use a messaging bus to enrich, process and collect metrics.
 
-![ESS Overview](./blob/master/documentation/esm-ess.jpg)
+![ESS Overview](./master/documentation/esm-ess.jpg)
